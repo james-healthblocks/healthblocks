@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,800');
+/*
+ * Styling for login
+ * ----------
+ */
+body {
+  background-color: #FDFDFD;
+}
+
+body > .grid {
+  height: 100%;
+}
+
+.image {
+  margin-top: -100px;
+}
+
+.column {
+  max-width: 450px;
+}
+
+.error-label{
+  position: absolute !important;
+  z-index: 100;
+  left: 320px;
+}
+
+.logo-text{
+  font-family: 'Raleway';
+  font-weight: 500;
+  font-size: 4.5em;
+}
+
+.logo-text-2{
+  font-family: 'Raleway';
+  font-weight: 500;
+  font-size: 1.6em;
+}
+
+.health{
+  color: #007236;
+}
+
+.block{
+  color: #76D33E;
+  font-weight: 800;
+}
+
+.column > .content.page-name{
+  font-size: 1.5em;
+  text-transform: uppercase;
+  color: #999999;
+  padding: 0px 0px 8px 0px ;
+}
+
+.ui.form input:focus{
+  border-color: #75B84D !important;
+}
+
+.ui.header > .image, .ui.header > img{
+  width: 4em;
+  margin-bottom: -20px;
+}

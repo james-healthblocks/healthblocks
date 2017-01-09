@@ -1,0 +1,79 @@
+<ion-header>
+	<ion-navbar color="primary">
+	    <button ion-button menuToggle>
+	    	<ion-icon name="menu"></ion-icon>
+	    </button>
+	    <ion-title>
+			<img src="assets/img/HealthBlocksBanner.png" style="width:auto; height:40px; vertical-align: middle; display:inline-block" alt="healthblocks" />
+		</ion-title>
+		<!-- <ion-buttons end>
+			<button (click)="refresh()">
+				<ion-icon name="refresh">Refresh</ion-icon>
+			</button>
+		</ion-buttons> -->
+	</ion-navbar>
+	<ion-toolbar color="secondary" class="navbar2">
+		<ion-title>Access Manager</ion-title>
+	</ion-toolbar>
+</ion-header>
+
+<ion-content padding class="accessmanager">
+	
+	<div class="main_content">
+		<ion-list [hidden]="!loading" text-center padding>
+			<ion-spinner></ion-spinner>
+		</ion-list>
+
+		<ion-refresher (ionRefresh)="doRefresh($event)">
+			<ion-refresher-content pullingText="Refreshing...">
+			</ion-refresher-content>
+		</ion-refresher>
+
+		<ion-list [hidden]="loading">
+			<ion-list-header>
+				REQUESTS
+			</ion-list-header>
+			<!-- <ion-item-sliding>
+				<ion-item>
+					<h2>Medical City (Sliding)</h2>
+					<h3>Dr. Grace Agustin</h3>
+				</ion-item>
+				<ion-item-options>
+					<button ion-button color="primary">Allow</button>
+					<button ion-button color="danger">Deny</button>
+					<button ion-button color="primary"><ion-icon name="checkmark"></ion-icon></button>
+					<button ion-button color="danger"><ion-icon name="close"></ion-icon></button>
+				</ion-item-options>
+			</ion-item-sliding> -->
+
+			<div *ngFor="let request of pending">
+				<ion-item>
+					<h2>{{ request.txn_date * 1000 | date }}</h2>
+				    <h3>Sender: {{ request.send_hpid }}</h3>
+				    <h3>Receiver: {{ request.recv_hpid }}</h3>
+				    <h3 hidden>Public Key: {{ request.recv_hpid_pubkey }}</h3>
+					<button (click)="approve(request, true)" ion-button item-right>Allow</button>
+					<button (click)="approve(request, false)" ion-button item-right color="danger">Deny</button>
+				</ion-item>
+			</div>
+			
+			<ion-item>
+			</ion-item>
+			
+			<ion-list-header>
+				ALLOWED
+			</ion-list-header>
+			<div *ngFor="let request of approved">
+				<ion-item>
+					<h2>{{ request.txn_date * 1000 | date }}</h2>
+				    <h3>Sender: {{ request.send_hpid }}</h3>
+				    <h3>Receiver: {{ request.recv_hpid }}</h3>
+					<button (click)="approve(request, false)" ion-button item-right color="danger">Revoke</button>
+				</ion-item>
+			</div>
+			
+				
+		</ion-list>
+	</div>
+	
+</ion-content>

@@ -1,0 +1,17 @@
+/node_modules
+/public/storage
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.vagrant
+composer.phar
+public/lib/semantic/dist/*
+public/lib/semantic/src/themes/
+!public/lib/semantic/dist/themes/
+!public/lib/semantic/dist/*.css
+!public/lib/semantic/dist/*.js
+public/user_images
+public/shc_image
+error.log

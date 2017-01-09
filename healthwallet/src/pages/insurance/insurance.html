@@ -1,0 +1,28 @@
+<ion-header>
+    <ion-toolbar primary>
+        <ion-title>
+            Health Insurance: {{label}}
+        </ion-title>
+        <ion-buttons start>
+            <button light (click)="close()">
+                <span showWhen="ios">Cancel</span>
+            </button>
+        </ion-buttons>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content>
+	
+	<form [formGroup]="insuranceForm"> 	
+		<ion-list no-lines>
+			
+			<ion-item *ngFor="let f of fields">
+				<ion-label> {{f.label}} </ion-label>
+				<ion-input type={{f.type}} formControlName={{f.name}}></ion-input>	
+			</ion-item>
+				
+		</ion-list>
+	</form>
+	<button ion-button color="secondary" block (click)="save();">Save</button>
+	
+</ion-content>

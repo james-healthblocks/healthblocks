@@ -1,0 +1,350 @@
+[
+ {
+  "province": "MISAMIS ORIENTAL", 
+  "code": "043"
+ }, 
+ {
+  "province": "NCR, SECOND DISTRICT (Not a Province)", 
+  "code": "074"
+ }, 
+ {
+  "province": "SURIGAO DEL NORTE", 
+  "code": "067"
+ }, 
+ {
+  "province": "IFUGAO", 
+  "code": "027"
+ }, 
+ {
+  "province": "RIZAL", 
+  "code": "058"
+ }, 
+ {
+  "province": "GUIMARAS", 
+  "code": "079"
+ }, 
+ {
+  "province": "COTABATO (NORTH COTABATO)", 
+  "code": "047"
+ }, 
+ {
+  "province": "CAVITE", 
+  "code": "021"
+ }, 
+ {
+  "province": "COMPOSTELA VALLEY", 
+  "code": "082"
+ }, 
+ {
+  "province": "LA UNION", 
+  "code": "033"
+ }, 
+ {
+  "province": "TARLAC", 
+  "code": "069"
+ }, 
+ {
+  "province": "NORTHERN SAMAR", 
+  "code": "048"
+ }, 
+ {
+  "province": "NUEVA VIZCAYA", 
+  "code": "050"
+ }, 
+ {
+  "province": "AGUSAN DEL SUR", 
+  "code": "003"
+ }, 
+ {
+  "province": "AGUSAN DEL NORTE", 
+  "code": "002"
+ }, 
+ {
+  "province": "CAGAYAN", 
+  "code": "015"
+ }, 
+ {
+  "province": "ZAMBOANGA SIBUGAY", 
+  "code": "083"
+ }, 
+ {
+  "province": "ZAMBOANGA DEL NORTE", 
+  "code": "072"
+ }, 
+ {
+  "province": "DINAGAT ISLANDS", 
+  "code": "085"
+ }, 
+ {
+  "province": "NCR, FOURTH DISTRICT (Not a Province)", 
+  "code": "076"
+ }, 
+ {
+  "province": "QUEZON", 
+  "code": "056"
+ }, 
+ {
+  "province": "MISAMIS OCCIDENTAL", 
+  "code": "042"
+ }, 
+ {
+  "province": "SULTAN KUDARAT", 
+  "code": "065"
+ }, 
+ {
+  "province": "KALINGA", 
+  "code": "032"
+ }, 
+ {
+  "province": "DAVAO OCCIDENTAL", 
+  "code": "086"
+ }, 
+ {
+  "province": "QUIRINO", 
+  "code": "057"
+ }, 
+ {
+  "province": "ILOCOS NORTE", 
+  "code": "028"
+ }, 
+ {
+  "province": "MOUNTAIN PROVINCE", 
+  "code": "044"
+ }, 
+ {
+  "province": "BASILAN", 
+  "code": "007"
+ }, 
+ {
+  "province": "DAVAO DEL SUR", 
+  "code": "024"
+ }, 
+ {
+  "province": "ORIENTAL MINDORO", 
+  "code": "052"
+ }, 
+ {
+  "province": "BATANGAS", 
+  "code": "010"
+ }, 
+ {
+  "province": "SURIGAO DEL SUR", 
+  "code": "068"
+ }, 
+ {
+  "province": "EASTERN SAMAR", 
+  "code": "026"
+ }, 
+ {
+  "province": "BATAAN", 
+  "code": "008"
+ }, 
+ {
+  "province": "OCCIDENTAL MINDORO", 
+  "code": "051"
+ }, 
+ {
+  "province": "CAPIZ", 
+  "code": "019"
+ }, 
+ {
+  "province": "CITY OF ISABELA (Not a Province)", 
+  "code": "097"
+ }, 
+ {
+  "province": "AKLAN", 
+  "code": "004"
+ }, 
+ {
+  "province": "BUKIDNON", 
+  "code": "013"
+ }, 
+ {
+  "province": "PALAWAN", 
+  "code": "053"
+ }, 
+ {
+  "province": "ILOILO", 
+  "code": "030"
+ }, 
+ {
+  "province": "BULACAN", 
+  "code": "014"
+ }, 
+ {
+  "province": "ROMBLON", 
+  "code": "059"
+ }, 
+ {
+  "province": "ANTIQUE", 
+  "code": "006"
+ }, 
+ {
+  "province": "CEBU", 
+  "code": "022"
+ }, 
+ {
+  "province": "SARANGANI", 
+  "code": "080"
+ }, 
+ {
+  "province": "SOUTHERN LEYTE", 
+  "code": "064"
+ }, 
+ {
+  "province": "CAMIGUIN", 
+  "code": "018"
+ }, 
+ {
+  "province": "ZAMBOANGA DEL SUR", 
+  "code": "073"
+ }, 
+ {
+  "province": "PANGASINAN", 
+  "code": "055"
+ }, 
+ {
+  "province": "BATANES", 
+  "code": "009"
+ }, 
+ {
+  "province": "SULU", 
+  "code": "066"
+ }, 
+ {
+  "province": "NCR, THIRD DISTRICT (Not a Province)", 
+  "code": "075"
+ }, 
+ {
+  "province": "SORSOGON", 
+  "code": "062"
+ }, 
+ {
+  "province": "ILOCOS SUR", 
+  "code": "029"
+ }, 
+ {
+  "province": "PAMPANGA", 
+  "code": "054"
+ }, 
+ {
+  "province": "APAYAO", 
+  "code": "081"
+ }, 
+ {
+  "province": "BILIRAN", 
+  "code": "078"
+ }, 
+ {
+  "province": "MARINDUQUE", 
+  "code": "040"
+ }, 
+ {
+  "province": "AURORA", 
+  "code": "077"
+ }, 
+ {
+  "province": "CAMARINES SUR", 
+  "code": "017"
+ }, 
+ {
+  "province": "MASBATE", 
+  "code": "041"
+ }, 
+ {
+  "province": "LEYTE", 
+  "code": "037"
+ }, 
+ {
+  "province": "NUEVA ECIJA", 
+  "code": "049"
+ }, 
+ {
+  "province": "TAWI-TAWI", 
+  "code": "070"
+ }, 
+ {
+  "province": "LANAO DEL NORTE", 
+  "code": "035"
+ }, 
+ {
+  "province": "CATANDUANES", 
+  "code": "020"
+ }, 
+ {
+  "province": "MAGUINDANAO", 
+  "code": "038"
+ }, 
+ {
+  "province": "COTABATO CITY (Not a Province)", 
+  "code": "098"
+ }, 
+ {
+  "province": "SAMAR (WESTERN SAMAR)", 
+  "code": "060"
+ }, 
+ {
+  "province": "LANAO DEL SUR", 
+  "code": "036"
+ }, 
+ {
+  "province": "NEGROS OCCIDENTAL", 
+  "code": "045"
+ }, 
+ {
+  "province": "ALBAY", 
+  "code": "005"
+ }, 
+ {
+  "province": "NCR, CITY OF MANILA, FIRST DISTRICT (Not a Province)", 
+  "code": "039"
+ }, 
+ {
+  "province": "DAVAO ORIENTAL", 
+  "code": "025"
+ }, 
+ {
+  "province": "ISABELA", 
+  "code": "031"
+ }, 
+ {
+  "province": "SOUTH COTABATO", 
+  "code": "063"
+ }, 
+ {
+  "province": "ZAMBALES", 
+  "code": "071"
+ }, 
+ {
+  "province": "CAMARINES NORTE", 
+  "code": "016"
+ }, 
+ {
+  "province": "BENGUET", 
+  "code": "011"
+ }, 
+ {
+  "province": "LAGUNA", 
+  "code": "034"
+ }, 
+ {
+  "province": "BOHOL", 
+  "code": "012"
+ }, 
+ {
+  "province": "DAVAO DEL NORTE", 
+  "code": "023"
+ }, 
+ {
+  "province": "SIQUIJOR", 
+  "code": "061"
+ }, 
+ {
+  "province": "ABRA", 
+  "code": "001"
+ }, 
+ {
+  "province": "NEGROS ORIENTAL", 
+  "code": "046"
+ }
+]

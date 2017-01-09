@@ -1,0 +1,55 @@
+<ion-header>
+	<ion-navbar color="primary">
+	    <button ion-button menuToggle>
+	    	<ion-icon name="menu"></ion-icon>
+	    </button>
+	    <ion-title>
+			<img src="assets/img/HealthBlocksBanner.png" style="width:auto; height:40px; vertical-align: middle; display:inline-block" alt="healthblocks" />
+		</ion-title>
+	</ion-navbar>
+	<ion-toolbar color="secondary" class="navbar2">
+		<ion-title>Profile</ion-title>
+	</ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+	
+	<div class="main_content">
+	
+		<form [formGroup]="profileForm"> 	
+		<ion-list>
+			<ion-list-header>
+				BASIC INFORMATION
+			</ion-list-header>
+			
+			<ion-item *ngFor="let f of fields | slice:0:9">
+				<ion-label> {{f.label}} </ion-label>
+				<ion-input type={{f.type}} formControlName={{f.name}}></ion-input>	
+			</ion-item>
+			
+			<ion-list-header>
+				RELATIONS
+			</ion-list-header>
+			
+			<ion-item *ngFor="let f of fields | slice:9:20">
+				<ion-label> {{f.label}} </ion-label>
+				<ion-input type={{f.type}} formControlName={{f.name}}></ion-input>
+			</ion-item>
+			
+			<ion-list-header>
+				MEDICAL HISTORY
+			</ion-list-header>
+				
+			<ion-item *ngFor="let f of fields | slice:20">
+				<ion-label> {{f.label}} </ion-label>
+				<ion-input type={{f.type}}  formControlName={{f.name}}></ion-input>
+			</ion-item>
+		</ion-list>	
+		
+		<button ion-button color="secondary" block (click)="save();">Save</button>	
+		</form>
+			
+	</div>
+	
+	
+</ion-content>

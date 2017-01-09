@@ -1,0 +1,6590 @@
+[
+ {
+  "city": "ISABELA", 
+  "code": "aaa"
+ }, 
+ {
+  "city": "TALISAYAN", 
+  "code": "aab"
+ }, 
+ {
+  "city": "LIMASAWA", 
+  "code": "aac"
+ }, 
+ {
+  "city": "PULUPANDAN", 
+  "code": "aad"
+ }, 
+ {
+  "city": "VILLANUEVA", 
+  "code": "aae"
+ }, 
+ {
+  "city": "TOMAS OPPUS", 
+  "code": "aaf"
+ }, 
+ {
+  "city": "SAN LORENZO", 
+  "code": "aag"
+ }, 
+ {
+  "city": "SIBUNAG", 
+  "code": "aah"
+ }, 
+ {
+  "city": "PAGSANGHAN", 
+  "code": "aai"
+ }, 
+ {
+  "city": "CITY OF SORSOGON (Capital)", 
+  "code": "aaj"
+ }, 
+ {
+  "city": "SUBIC", 
+  "code": "aak"
+ }, 
+ {
+  "city": "MADDELA", 
+  "code": "aal"
+ }, 
+ {
+  "city": "SAGUDAY", 
+  "code": "aam"
+ }, 
+ {
+  "city": "NAGTIPUNAN", 
+  "code": "aan"
+ }, 
+ {
+  "city": "TUY", 
+  "code": "aao"
+ }, 
+ {
+  "city": "TORRIJOS", 
+  "code": "aap"
+ }, 
+ {
+  "city": "CITY OF SAN JUAN", 
+  "code": "aaq"
+ }, 
+ {
+  "city": "CITY OF MANDALUYONG", 
+  "code": "aar"
+ }, 
+ {
+  "city": "CITY OF PASIG", 
+  "code": "aas"
+ }, 
+ {
+  "city": "QUEZON CITY", 
+  "code": "aat"
+ }, 
+ {
+  "city": "CITY OF MARIKINA", 
+  "code": "aau"
+ }, 
+ {
+  "city": "GASAN", 
+  "code": "aav"
+ }, 
+ {
+  "city": "SANTA CRUZ", 
+  "code": "aaw"
+ }, 
+ {
+  "city": "ZARRAGA", 
+  "code": "aax"
+ }, 
+ {
+  "city": "MOGPOG", 
+  "code": "aay"
+ }, 
+ {
+  "city": "BOAC (Capital)", 
+  "code": "aaz"
+ }, 
+ {
+  "city": "BUENAVISTA", 
+  "code": "aba"
+ }, 
+ {
+  "city": "TUBUNGAN", 
+  "code": "abb"
+ }, 
+ {
+  "city": "SARA", 
+  "code": "abc"
+ }, 
+ {
+  "city": "SAN RAFAEL", 
+  "code": "abd"
+ }, 
+ {
+  "city": "TIGBAUAN", 
+  "code": "abe"
+ }, 
+ {
+  "city": "SANTA BARBARA", 
+  "code": "abf"
+ }, 
+ {
+  "city": "SAN MIGUEL", 
+  "code": "abg"
+ }, 
+ {
+  "city": "SAN JOAQUIN", 
+  "code": "abh"
+ }, 
+ {
+  "city": "SAN ENRIQUE", 
+  "code": "abi"
+ }, 
+ {
+  "city": "PAVIA", 
+  "code": "abj"
+ }, 
+ {
+  "city": "SAN DIONISIO", 
+  "code": "abk"
+ }, 
+ {
+  "city": "POTOTAN", 
+  "code": "abl"
+ }, 
+ {
+  "city": "CITY OF PASSI", 
+  "code": "abm"
+ }, 
+ {
+  "city": "MINA", 
+  "code": "abn"
+ }, 
+ {
+  "city": "NEW LUCENA", 
+  "code": "abo"
+ }, 
+ {
+  "city": "OTON", 
+  "code": "abp"
+ }, 
+ {
+  "city": "MAASIN", 
+  "code": "abq"
+ }, 
+ {
+  "city": "LEGANES", 
+  "code": "abr"
+ }, 
+ {
+  "city": "LEON", 
+  "code": "abs"
+ }, 
+ {
+  "city": "LAMBUNAO", 
+  "code": "abt"
+ }, 
+ {
+  "city": "MIAGAO", 
+  "code": "abu"
+ }, 
+ {
+  "city": "LEMERY", 
+  "code": "abv"
+ }, 
+ {
+  "city": "IGBARAS", 
+  "code": "abw"
+ }, 
+ {
+  "city": "JANIUAY", 
+  "code": "abx"
+ }, 
+ {
+  "city": "GUIMBAL", 
+  "code": "aby"
+ }, 
+ {
+  "city": "ESTANCIA", 
+  "code": "abz"
+ }, 
+ {
+  "city": "DUMANGAS", 
+  "code": "aca"
+ }, 
+ {
+  "city": "CONCEPCION", 
+  "code": "acb"
+ }, 
+ {
+  "city": "ILOILO CITY (Capital)", 
+  "code": "acc"
+ }, 
+ {
+  "city": "DUE\u00d1AS", 
+  "code": "acd"
+ }, 
+ {
+  "city": "DINGLE", 
+  "code": "ace"
+ }, 
+ {
+  "city": "VILLASIS", 
+  "code": "acf"
+ }, 
+ {
+  "city": "LAOAC", 
+  "code": "acg"
+ }, 
+ {
+  "city": "URBIZTONDO", 
+  "code": "ach"
+ }, 
+ {
+  "city": "CITY OF URDANETA", 
+  "code": "aci"
+ }, 
+ {
+  "city": "UMINGAN", 
+  "code": "acj"
+ }, 
+ {
+  "city": "CARLES", 
+  "code": "ack"
+ }, 
+ {
+  "city": "BINGAWAN", 
+  "code": "acl"
+ }, 
+ {
+  "city": "BAROTAC VIEJO", 
+  "code": "acm"
+ }, 
+ {
+  "city": "BATAD", 
+  "code": "acn"
+ }, 
+ {
+  "city": "CALINOG", 
+  "code": "aco"
+ }, 
+ {
+  "city": "BAROTAC NUEVO", 
+  "code": "acp"
+ }, 
+ {
+  "city": "CABATUAN", 
+  "code": "acq"
+ }, 
+ {
+  "city": "BALASAN", 
+  "code": "acr"
+ }, 
+ {
+  "city": "ANILAO", 
+  "code": "acs"
+ }, 
+ {
+  "city": "BANATE", 
+  "code": "act"
+ }, 
+ {
+  "city": "BADIANGAN", 
+  "code": "acu"
+ }, 
+ {
+  "city": "TAYUG", 
+  "code": "acv"
+ }, 
+ {
+  "city": "ALIMODIAN", 
+  "code": "acw"
+ }, 
+ {
+  "city": "SUAL", 
+  "code": "acx"
+ }, 
+ {
+  "city": "AJUY", 
+  "code": "acy"
+ }, 
+ {
+  "city": "SANTO TOMAS", 
+  "code": "acz"
+ }, 
+ {
+  "city": "SISON", 
+  "code": "ada"
+ }, 
+ {
+  "city": "SAN QUINTIN", 
+  "code": "adb"
+ }, 
+ {
+  "city": "SANTA MARIA", 
+  "code": "adc"
+ }, 
+ {
+  "city": "SANTA BARBARA", 
+  "code": "add"
+ }, 
+ {
+  "city": "SAN NICOLAS", 
+  "code": "ade"
+ }, 
+ {
+  "city": "SAN FABIAN", 
+  "code": "adf"
+ }, 
+ {
+  "city": "SAN JACINTO", 
+  "code": "adg"
+ }, 
+ {
+  "city": "SAN MANUEL", 
+  "code": "adh"
+ }, 
+ {
+  "city": "SAN CARLOS CITY", 
+  "code": "adi"
+ }, 
+ {
+  "city": "ROSALES", 
+  "code": "adj"
+ }, 
+ {
+  "city": "POZORRUBIO", 
+  "code": "adk"
+ }, 
+ {
+  "city": "MAPANDAN", 
+  "code": "adl"
+ }, 
+ {
+  "city": "NATIVIDAD", 
+  "code": "adm"
+ }, 
+ {
+  "city": "MANGATAREM", 
+  "code": "adn"
+ }, 
+ {
+  "city": "MANGALDAN", 
+  "code": "ado"
+ }, 
+ {
+  "city": "MABINI", 
+  "code": "adp"
+ }, 
+ {
+  "city": "MANAOAG", 
+  "code": "adq"
+ }, 
+ {
+  "city": "LINGAYEN (Capital)", 
+  "code": "adr"
+ }, 
+ {
+  "city": "MALASIQUI", 
+  "code": "ads"
+ }, 
+ {
+  "city": "LABRADOR", 
+  "code": "adt"
+ }, 
+ {
+  "city": "INFANTA", 
+  "code": "adu"
+ }, 
+ {
+  "city": "CALASIAO", 
+  "code": "adv"
+ }, 
+ {
+  "city": "DAGUPAN CITY", 
+  "code": "adw"
+ }, 
+ {
+  "city": "DASOL", 
+  "code": "adx"
+ }, 
+ {
+  "city": "BURGOS", 
+  "code": "ady"
+ }, 
+ {
+  "city": "BUGALLON", 
+  "code": "adz"
+ }, 
+ {
+  "city": "BOLINAO", 
+  "code": "aea"
+ }, 
+ {
+  "city": "BINMALEY", 
+  "code": "aeb"
+ }, 
+ {
+  "city": "BAYAMBANG", 
+  "code": "aec"
+ }, 
+ {
+  "city": "BINALONAN", 
+  "code": "aed"
+ }, 
+ {
+  "city": "BAUTISTA", 
+  "code": "aee"
+ }, 
+ {
+  "city": "BANI", 
+  "code": "aef"
+ }, 
+ {
+  "city": "BASISTA", 
+  "code": "aeg"
+ }, 
+ {
+  "city": "BALUNGAO", 
+  "code": "aeh"
+ }, 
+ {
+  "city": "ANDA", 
+  "code": "aei"
+ }, 
+ {
+  "city": "ASINGAN", 
+  "code": "aej"
+ }, 
+ {
+  "city": "ALCALA", 
+  "code": "aek"
+ }, 
+ {
+  "city": "AGUILAR", 
+  "code": "ael"
+ }, 
+ {
+  "city": "CITY OF ALAMINOS", 
+  "code": "aem"
+ }, 
+ {
+  "city": "AGNO", 
+  "code": "aen"
+ }, 
+ {
+  "city": "CITY OF VALENZUELA", 
+  "code": "aeo"
+ }, 
+ {
+  "city": "CITY OF MALABON", 
+  "code": "aep"
+ }, 
+ {
+  "city": "CITY OF NAVOTAS", 
+  "code": "aeq"
+ }, 
+ {
+  "city": "DIFFUN", 
+  "code": "aer"
+ }, 
+ {
+  "city": "CABARROGUIS (Capital)", 
+  "code": "aes"
+ }, 
+ {
+  "city": "TAYSAN", 
+  "code": "aet"
+ }, 
+ {
+  "city": "TINGLOY", 
+  "code": "aeu"
+ }, 
+ {
+  "city": "AGLIPAY", 
+  "code": "aev"
+ }, 
+ {
+  "city": "CALOOCAN CITY", 
+  "code": "aew"
+ }, 
+ {
+  "city": "CITY OF TANAUAN", 
+  "code": "aex"
+ }, 
+ {
+  "city": "TALISAY", 
+  "code": "aey"
+ }, 
+ {
+  "city": "SANTA TERESITA", 
+  "code": "aez"
+ }, 
+ {
+  "city": "SANTO TOMAS", 
+  "code": "afa"
+ }, 
+ {
+  "city": "TAAL", 
+  "code": "afb"
+ }, 
+ {
+  "city": "SAN PASCUAL", 
+  "code": "afc"
+ }, 
+ {
+  "city": "SAN NICOLAS", 
+  "code": "afd"
+ }, 
+ {
+  "city": "SAN JUAN", 
+  "code": "afe"
+ }, 
+ {
+  "city": "SAN LUIS", 
+  "code": "aff"
+ }, 
+ {
+  "city": "PADRE GARCIA", 
+  "code": "afg"
+ }, 
+ {
+  "city": "ROSARIO", 
+  "code": "afh"
+ }, 
+ {
+  "city": "SAN JOSE", 
+  "code": "afi"
+ }, 
+ {
+  "city": "NASUGBU", 
+  "code": "afj"
+ }, 
+ {
+  "city": "MALVAR", 
+  "code": "afk"
+ }, 
+ {
+  "city": "MATAASNAKAHOY", 
+  "code": "afl"
+ }, 
+ {
+  "city": "LOBO", 
+  "code": "afm"
+ }, 
+ {
+  "city": "LIAN", 
+  "code": "afn"
+ }, 
+ {
+  "city": "MABINI", 
+  "code": "afo"
+ }, 
+ {
+  "city": "LIPA CITY", 
+  "code": "afp"
+ }, 
+ {
+  "city": "LAUREL", 
+  "code": "afq"
+ }, 
+ {
+  "city": "LEMERY", 
+  "code": "afr"
+ }, 
+ {
+  "city": "CUENCA", 
+  "code": "afs"
+ }, 
+ {
+  "city": "IBAAN", 
+  "code": "aft"
+ }, 
+ {
+  "city": "CALATAGAN", 
+  "code": "afu"
+ }, 
+ {
+  "city": "CALACA", 
+  "code": "afv"
+ }, 
+ {
+  "city": "BALETE", 
+  "code": "afw"
+ }, 
+ {
+  "city": "BAUAN", 
+  "code": "afx"
+ }, 
+ {
+  "city": "BATANGAS CITY (Capital)", 
+  "code": "afy"
+ }, 
+ {
+  "city": "BALAYAN", 
+  "code": "afz"
+ }, 
+ {
+  "city": "SAN NARCISO", 
+  "code": "aga"
+ }, 
+ {
+  "city": "SANTA CRUZ", 
+  "code": "agb"
+ }, 
+ {
+  "city": "AGONCILLO", 
+  "code": "agc"
+ }, 
+ {
+  "city": "SAN MARCELINO", 
+  "code": "agd"
+ }, 
+ {
+  "city": "ALITAGTAG", 
+  "code": "age"
+ }, 
+ {
+  "city": "SAN ANTONIO", 
+  "code": "agf"
+ }, 
+ {
+  "city": "SAN FELIPE", 
+  "code": "agg"
+ }, 
+ {
+  "city": "OLONGAPO CITY", 
+  "code": "agh"
+ }, 
+ {
+  "city": "PALAUIG", 
+  "code": "agi"
+ }, 
+ {
+  "city": "MASINLOC", 
+  "code": "agj"
+ }, 
+ {
+  "city": "CASTILLEJOS", 
+  "code": "agk"
+ }, 
+ {
+  "city": "IBA (Capital)", 
+  "code": "agl"
+ }, 
+ {
+  "city": "CABANGAN", 
+  "code": "agm"
+ }, 
+ {
+  "city": "SANTA MAGDALENA", 
+  "code": "agn"
+ }, 
+ {
+  "city": "CANDELARIA", 
+  "code": "ago"
+ }, 
+ {
+  "city": "PRIETO DIAZ", 
+  "code": "agp"
+ }, 
+ {
+  "city": "BOTOLAN", 
+  "code": "agq"
+ }, 
+ {
+  "city": "JUBAN", 
+  "code": "agr"
+ }, 
+ {
+  "city": "PILAR", 
+  "code": "ags"
+ }, 
+ {
+  "city": "IROSIN", 
+  "code": "agt"
+ }, 
+ {
+  "city": "MAGALLANES", 
+  "code": "agu"
+ }, 
+ {
+  "city": "MATNOG", 
+  "code": "agv"
+ }, 
+ {
+  "city": "DONSOL", 
+  "code": "agw"
+ }, 
+ {
+  "city": "CASIGURAN", 
+  "code": "agx"
+ }, 
+ {
+  "city": "GUBAT", 
+  "code": "agy"
+ }, 
+ {
+  "city": "CASTILLA", 
+  "code": "agz"
+ }, 
+ {
+  "city": "BULAN", 
+  "code": "aha"
+ }, 
+ {
+  "city": "BULUSAN", 
+  "code": "ahb"
+ }, 
+ {
+  "city": "BARCELONA", 
+  "code": "ahc"
+ }, 
+ {
+  "city": "JORDAN (Capital)", 
+  "code": "ahd"
+ }, 
+ {
+  "city": "BUENAVISTA", 
+  "code": "ahe"
+ }, 
+ {
+  "city": "NUEVA VALENCIA", 
+  "code": "ahf"
+ }, 
+ {
+  "city": "ZUMARRAGA", 
+  "code": "ahg"
+ }, 
+ {
+  "city": "TAGAPUL-AN", 
+  "code": "ahh"
+ }, 
+ {
+  "city": "SAN JORGE", 
+  "code": "ahi"
+ }, 
+ {
+  "city": "VILLAREAL", 
+  "code": "ahj"
+ }, 
+ {
+  "city": "PARANAS (WRIGHT)", 
+  "code": "ahk"
+ }, 
+ {
+  "city": "TALALORA", 
+  "code": "ahl"
+ }, 
+ {
+  "city": "TARANGNAN", 
+  "code": "ahm"
+ }, 
+ {
+  "city": "SANTO NI\u00d1O", 
+  "code": "ahn"
+ }, 
+ {
+  "city": "SANTA MARGARITA", 
+  "code": "aho"
+ }, 
+ {
+  "city": "SAN JOSE DE BUAN", 
+  "code": "ahp"
+ }, 
+ {
+  "city": "SANTA RITA", 
+  "code": "ahq"
+ }, 
+ {
+  "city": "SAN SEBASTIAN", 
+  "code": "ahr"
+ }, 
+ {
+  "city": "PINABACDAO", 
+  "code": "ahs"
+ }, 
+ {
+  "city": "MOTIONG", 
+  "code": "aht"
+ }, 
+ {
+  "city": "MATUGUINAO", 
+  "code": "ahu"
+ }, 
+ {
+  "city": "JIABONG", 
+  "code": "ahv"
+ }, 
+ {
+  "city": "MARABUT", 
+  "code": "ahw"
+ }, 
+ {
+  "city": "HINABANGAN", 
+  "code": "ahx"
+ }, 
+ {
+  "city": "DARAM", 
+  "code": "ahy"
+ }, 
+ {
+  "city": "GANDARA", 
+  "code": "ahz"
+ }, 
+ {
+  "city": "CITY OF CATBALOGAN (Capital)", 
+  "code": "aia"
+ }, 
+ {
+  "city": "CALBIGA", 
+  "code": "aib"
+ }, 
+ {
+  "city": "SARANGANI", 
+  "code": "aic"
+ }, 
+ {
+  "city": "ALMAGRO", 
+  "code": "aid"
+ }, 
+ {
+  "city": "BASEY", 
+  "code": "aie"
+ }, 
+ {
+  "city": "CALBAYOG CITY", 
+  "code": "aif"
+ }, 
+ {
+  "city": "SANTA MARIA", 
+  "code": "aig"
+ }, 
+ {
+  "city": "MALITA", 
+  "code": "aih"
+ }, 
+ {
+  "city": "JOSE ABAD SANTOS (TRINIDAD)", 
+  "code": "aii"
+ }, 
+ {
+  "city": "TARRAGONA", 
+  "code": "aij"
+ }, 
+ {
+  "city": "DON MARCELINO", 
+  "code": "aik"
+ }, 
+ {
+  "city": "SAN ISIDRO", 
+  "code": "ail"
+ }, 
+ {
+  "city": "MANAY", 
+  "code": "aim"
+ }, 
+ {
+  "city": "CITY OF MATI (Capital)", 
+  "code": "ain"
+ }, 
+ {
+  "city": "LUPON", 
+  "code": "aio"
+ }, 
+ {
+  "city": "GOVERNOR GENEROSO", 
+  "code": "aip"
+ }, 
+ {
+  "city": "CARAGA", 
+  "code": "aiq"
+ }, 
+ {
+  "city": "BOSTON", 
+  "code": "air"
+ }, 
+ {
+  "city": "BAGANGA", 
+  "code": "ais"
+ }, 
+ {
+  "city": "BANAYBANAY", 
+  "code": "ait"
+ }, 
+ {
+  "city": "CATEEL", 
+  "code": "aiu"
+ }, 
+ {
+  "city": "HADJI MUHTAMAD", 
+  "code": "aiv"
+ }, 
+ {
+  "city": "HADJI MOHAMMAD AJUL", 
+  "code": "aiw"
+ }, 
+ {
+  "city": "UNGKAYA PUKAN", 
+  "code": "aix"
+ }, 
+ {
+  "city": "TABUAN-LASA", 
+  "code": "aiy"
+ }, 
+ {
+  "city": "AKBAR", 
+  "code": "aiz"
+ }, 
+ {
+  "city": "AL-BARKA", 
+  "code": "aja"
+ }, 
+ {
+  "city": "TUBURAN", 
+  "code": "ajb"
+ }, 
+ {
+  "city": "MALUSO", 
+  "code": "ajc"
+ }, 
+ {
+  "city": "SUMISIP", 
+  "code": "ajd"
+ }, 
+ {
+  "city": "TIPO-TIPO", 
+  "code": "aje"
+ }, 
+ {
+  "city": "LANTAWAN", 
+  "code": "ajf"
+ }, 
+ {
+  "city": "SOGOD", 
+  "code": "ajg"
+ }, 
+ {
+  "city": "SILAGO", 
+  "code": "ajh"
+ }, 
+ {
+  "city": "SAN JUAN (CABALIAN)", 
+  "code": "aji"
+ }, 
+ {
+  "city": "CITY OF LAMITAN", 
+  "code": "ajj"
+ }, 
+ {
+  "city": "SAN FRANCISCO", 
+  "code": "ajk"
+ }, 
+ {
+  "city": "SAINT BERNARD", 
+  "code": "ajl"
+ }, 
+ {
+  "city": "SAN RICARDO", 
+  "code": "ajm"
+ }, 
+ {
+  "city": "PADRE BURGOS", 
+  "code": "ajn"
+ }, 
+ {
+  "city": "PINTUYAN", 
+  "code": "ajo"
+ }, 
+ {
+  "city": "MALITBOG", 
+  "code": "ajp"
+ }, 
+ {
+  "city": "MACROHON", 
+  "code": "ajq"
+ }, 
+ {
+  "city": "LILOAN", 
+  "code": "ajr"
+ }, 
+ {
+  "city": "CITY OF MAASIN (Capital)", 
+  "code": "ajs"
+ }, 
+ {
+  "city": "LIBAGON", 
+  "code": "ajt"
+ }, 
+ {
+  "city": "ANAHAWAN", 
+  "code": "aju"
+ }, 
+ {
+  "city": "BONTOC", 
+  "code": "ajv"
+ }, 
+ {
+  "city": "HINUNDAYAN", 
+  "code": "ajw"
+ }, 
+ {
+  "city": "CITY OF TANDAG (Capital)", 
+  "code": "ajx"
+ }, 
+ {
+  "city": "HINUNANGAN", 
+  "code": "ajy"
+ }, 
+ {
+  "city": "TAGBINA", 
+  "code": "ajz"
+ }, 
+ {
+  "city": "TAGO", 
+  "code": "aka"
+ }, 
+ {
+  "city": "SAN AGUSTIN", 
+  "code": "akb"
+ }, 
+ {
+  "city": "SAN MIGUEL", 
+  "code": "akc"
+ }, 
+ {
+  "city": "MARIHATAG", 
+  "code": "akd"
+ }, 
+ {
+  "city": "MADRID", 
+  "code": "ake"
+ }, 
+ {
+  "city": "LINGIG", 
+  "code": "akf"
+ }, 
+ {
+  "city": "LANUZA", 
+  "code": "akg"
+ }, 
+ {
+  "city": "LIANGA", 
+  "code": "akh"
+ }, 
+ {
+  "city": "CORTES", 
+  "code": "aki"
+ }, 
+ {
+  "city": "HINATUAN", 
+  "code": "akj"
+ }, 
+ {
+  "city": "CARRASCAL", 
+  "code": "akk"
+ }, 
+ {
+  "city": "CARMEN", 
+  "code": "akl"
+ }, 
+ {
+  "city": "CAGWAIT", 
+  "code": "akm"
+ }, 
+ {
+  "city": "CANTILAN", 
+  "code": "akn"
+ }, 
+ {
+  "city": "CITY OF BISLIG", 
+  "code": "ako"
+ }, 
+ {
+  "city": "BAROBO", 
+  "code": "akp"
+ }, 
+ {
+  "city": "BAYABAS", 
+  "code": "akq"
+ }, 
+ {
+  "city": "TAGOLOAN", 
+  "code": "akr"
+ }, 
+ {
+  "city": "OPOL", 
+  "code": "aks"
+ }, 
+ {
+  "city": "SALAY", 
+  "code": "akt"
+ }, 
+ {
+  "city": "SUGBONGCOGON", 
+  "code": "aku"
+ }, 
+ {
+  "city": "NAAWAN", 
+  "code": "akv"
+ }, 
+ {
+  "city": "MANTICAO", 
+  "code": "akw"
+ }, 
+ {
+  "city": "MEDINA", 
+  "code": "akx"
+ }, 
+ {
+  "city": "MAGSAYSAY (LINUGOS)", 
+  "code": "aky"
+ }, 
+ {
+  "city": "LIBERTAD", 
+  "code": "akz"
+ }, 
+ {
+  "city": "LUGAIT", 
+  "code": "ala"
+ }, 
+ {
+  "city": "LAGUINDINGAN", 
+  "code": "alb"
+ }, 
+ {
+  "city": "LAGONGLONG", 
+  "code": "alc"
+ }, 
+ {
+  "city": "JASAAN", 
+  "code": "ald"
+ }, 
+ {
+  "city": "KINOGUITAN", 
+  "code": "ale"
+ }, 
+ {
+  "city": "INITAO", 
+  "code": "alf"
+ }, 
+ {
+  "city": "GITAGUM", 
+  "code": "alg"
+ }, 
+ {
+  "city": "CITY OF EL SALVADOR", 
+  "code": "alh"
+ }, 
+ {
+  "city": "GINGOOG CITY", 
+  "code": "ali"
+ }, 
+ {
+  "city": "CLAVERIA", 
+  "code": "alj"
+ }, 
+ {
+  "city": "BINUANGAN", 
+  "code": "alk"
+ }, 
+ {
+  "city": "BALINGOAN", 
+  "code": "all"
+ }, 
+ {
+  "city": "BALINGASAG", 
+  "code": "alm"
+ }, 
+ {
+  "city": "SALVADOR BENEDICTO", 
+  "code": "aln"
+ }, 
+ {
+  "city": "CITY OF VICTORIAS", 
+  "code": "alo"
+ }, 
+ {
+  "city": "CAGAYAN DE ORO CITY (Capital)", 
+  "code": "alp"
+ }, 
+ {
+  "city": "ALUBIJID", 
+  "code": "alq"
+ }, 
+ {
+  "city": "VALLADOLID", 
+  "code": "alr"
+ }, 
+ {
+  "city": "TOBOSO", 
+  "code": "als"
+ }, 
+ {
+  "city": "CITY OF SIPALAY", 
+  "code": "alt"
+ }, 
+ {
+  "city": "CITY OF TALISAY", 
+  "code": "alu"
+ }, 
+ {
+  "city": "SAN ENRIQUE", 
+  "code": "alv"
+ }, 
+ {
+  "city": "SILAY CITY", 
+  "code": "alw"
+ }, 
+ {
+  "city": "SAN CARLOS CITY", 
+  "code": "alx"
+ }, 
+ {
+  "city": "PONTEVEDRA", 
+  "code": "aly"
+ }, 
+ {
+  "city": "SAGAY CITY", 
+  "code": "alz"
+ }, 
+ {
+  "city": "MOISES PADILLA (MAGALLON)", 
+  "code": "ama"
+ }, 
+ {
+  "city": "MANAPLA", 
+  "code": "amb"
+ }, 
+ {
+  "city": "MURCIA", 
+  "code": "amc"
+ }, 
+ {
+  "city": "ILOG", 
+  "code": "amd"
+ }, 
+ {
+  "city": "LA CARLOTA CITY", 
+  "code": "ame"
+ }, 
+ {
+  "city": "LA CASTELLANA", 
+  "code": "amf"
+ }, 
+ {
+  "city": "HINIGARAN", 
+  "code": "amg"
+ }, 
+ {
+  "city": "HINOBA-AN (ASIA)", 
+  "code": "amh"
+ }, 
+ {
+  "city": "CITY OF HIMAMAYLAN", 
+  "code": "ami"
+ }, 
+ {
+  "city": "CITY OF KABANKALAN", 
+  "code": "amj"
+ }, 
+ {
+  "city": "ENRIQUE B. MAGALONA (SARAVIA)", 
+  "code": "amk"
+ }, 
+ {
+  "city": "CITY OF ESCALANTE", 
+  "code": "aml"
+ }, 
+ {
+  "city": "CAUAYAN", 
+  "code": "amm"
+ }, 
+ {
+  "city": "CALATRAVA", 
+  "code": "amn"
+ }, 
+ {
+  "city": "CANDONI", 
+  "code": "amo"
+ }, 
+ {
+  "city": "BINALBAGAN", 
+  "code": "amp"
+ }, 
+ {
+  "city": "CADIZ CITY", 
+  "code": "amq"
+ }, 
+ {
+  "city": "BAGO CITY", 
+  "code": "amr"
+ }, 
+ {
+  "city": "BACOLOD CITY (Capital)", 
+  "code": "ams"
+ }, 
+ {
+  "city": "TAGUIG CITY", 
+  "code": "amt"
+ }, 
+ {
+  "city": "PATEROS", 
+  "code": "amu"
+ }, 
+ {
+  "city": "PORT AREA", 
+  "code": "amv"
+ }, 
+ {
+  "city": "PANDACAN", 
+  "code": "amw"
+ }, 
+ {
+  "city": "SANTA MARCELA", 
+  "code": "amx"
+ }, 
+ {
+  "city": "SANTA ANA", 
+  "code": "amy"
+ }, 
+ {
+  "city": "TINGLAYAN", 
+  "code": "amz"
+ }, 
+ {
+  "city": "ALFONSO LISTA (POTIA)", 
+  "code": "ana"
+ }, 
+ {
+  "city": "TUBLAY", 
+  "code": "anb"
+ }, 
+ {
+  "city": "TUBA", 
+  "code": "anc"
+ }, 
+ {
+  "city": "VILLAVICIOSA", 
+  "code": "and"
+ }, 
+ {
+  "city": "ALFONSO CASTANEDA", 
+  "code": "ane"
+ }, 
+ {
+  "city": "TUGUEGARAO CITY (Capital)", 
+  "code": "anf"
+ }, 
+ {
+  "city": "TUBAO", 
+  "code": "ang"
+ }, 
+ {
+  "city": "VILLAVERDE", 
+  "code": "anh"
+ }, 
+ {
+  "city": "SUDIPEN", 
+  "code": "ani"
+ }, 
+ {
+  "city": "SOLSONA", 
+  "code": "anj"
+ }, 
+ {
+  "city": "TUMAUINI", 
+  "code": "ank"
+ }, 
+ {
+  "city": "SARRAT", 
+  "code": "anl"
+ }, 
+ {
+  "city": "VINTAR", 
+  "code": "anm"
+ }, 
+ {
+  "city": "PINILI", 
+  "code": "ann"
+ }, 
+ {
+  "city": "SAN NICOLAS", 
+  "code": "ano"
+ }, 
+ {
+  "city": "PIDDIG", 
+  "code": "anp"
+ }, 
+ {
+  "city": "TAGUDIN", 
+  "code": "anq"
+ }, 
+ {
+  "city": "SUGPON", 
+  "code": "anr"
+ }, 
+ {
+  "city": "SUYO", 
+  "code": "ans"
+ }, 
+ {
+  "city": "SIGAY", 
+  "code": "ant"
+ }, 
+ {
+  "city": "CITY OF VIGAN (Capital)", 
+  "code": "anu"
+ }, 
+ {
+  "city": "SANTIAGO", 
+  "code": "anv"
+ }, 
+ {
+  "city": "SANTO DOMINGO", 
+  "code": "anw"
+ }, 
+ {
+  "city": "SINAIT", 
+  "code": "anx"
+ }, 
+ {
+  "city": "SANTA MARIA", 
+  "code": "any"
+ }, 
+ {
+  "city": "SANTA LUCIA", 
+  "code": "anz"
+ }, 
+ {
+  "city": "SANTA CATALINA", 
+  "code": "aoa"
+ }, 
+ {
+  "city": "SANTA CRUZ", 
+  "code": "aob"
+ }, 
+ {
+  "city": "SAN VICENTE", 
+  "code": "aoc"
+ }, 
+ {
+  "city": "SANTA", 
+  "code": "aod"
+ }, 
+ {
+  "city": "SAN JUAN (LAPOG)", 
+  "code": "aoe"
+ }, 
+ {
+  "city": "SAN ILDEFONSO", 
+  "code": "aof"
+ }, 
+ {
+  "city": "SAN EMILIO", 
+  "code": "aog"
+ }, 
+ {
+  "city": "SAN ESTEBAN", 
+  "code": "aoh"
+ }, 
+ {
+  "city": "QUIRINO (ANGKAKI)", 
+  "code": "aoi"
+ }, 
+ {
+  "city": "SALCEDO (BAUGEN)", 
+  "code": "aoj"
+ }, 
+ {
+  "city": "NAGBUKEL", 
+  "code": "aok"
+ }, 
+ {
+  "city": "NARVACAN", 
+  "code": "aol"
+ }, 
+ {
+  "city": "MAGSINGAL", 
+  "code": "aom"
+ }, 
+ {
+  "city": "GREGORIO DEL PILAR (CONCEPCION)", 
+  "code": "aon"
+ }, 
+ {
+  "city": "LIDLIDDA", 
+  "code": "aoo"
+ }, 
+ {
+  "city": "CERVANTES", 
+  "code": "aop"
+ }, 
+ {
+  "city": "GALIMUYOD", 
+  "code": "aoq"
+ }, 
+ {
+  "city": "CAOAYAN", 
+  "code": "aor"
+ }, 
+ {
+  "city": "CITY OF CANDON", 
+  "code": "aos"
+ }, 
+ {
+  "city": "BURGOS", 
+  "code": "aot"
+ }, 
+ {
+  "city": "CABUGAO", 
+  "code": "aou"
+ }, 
+ {
+  "city": "BANTAY", 
+  "code": "aov"
+ }, 
+ {
+  "city": "ALILEM", 
+  "code": "aow"
+ }, 
+ {
+  "city": "BANAYOYO", 
+  "code": "aox"
+ }, 
+ {
+  "city": "PASUQUIN", 
+  "code": "aoy"
+ }, 
+ {
+  "city": "PAOAY", 
+  "code": "aoz"
+ }, 
+ {
+  "city": "PAGUDPUD", 
+  "code": "apa"
+ }, 
+ {
+  "city": "NUEVA ERA", 
+  "code": "apb"
+ }, 
+ {
+  "city": "MARCOS", 
+  "code": "apc"
+ }, 
+ {
+  "city": "BANNA (ESPIRITU)", 
+  "code": "apd"
+ }, 
+ {
+  "city": "DUMALNEG", 
+  "code": "ape"
+ }, 
+ {
+  "city": "LAOAG CITY (Capital)", 
+  "code": "apf"
+ }, 
+ {
+  "city": "DINGRAS", 
+  "code": "apg"
+ }, 
+ {
+  "city": "CARASI", 
+  "code": "aph"
+ }, 
+ {
+  "city": "CURRIMAO", 
+  "code": "api"
+ }, 
+ {
+  "city": "BURGOS", 
+  "code": "apj"
+ }, 
+ {
+  "city": "BANGUI", 
+  "code": "apk"
+ }, 
+ {
+  "city": "CITY OF BATAC", 
+  "code": "apl"
+ }, 
+ {
+  "city": "ADAMS", 
+  "code": "apm"
+ }, 
+ {
+  "city": "BACARRA", 
+  "code": "apn"
+ }, 
+ {
+  "city": "SANTO TOMAS", 
+  "code": "apo"
+ }, 
+ {
+  "city": "BADOC", 
+  "code": "app"
+ }, 
+ {
+  "city": "SAN PABLO", 
+  "code": "apq"
+ }, 
+ {
+  "city": "SANTA MARIA", 
+  "code": "apr"
+ }, 
+ {
+  "city": "CITY OF SANTIAGO", 
+  "code": "aps"
+ }, 
+ {
+  "city": "SAN MATEO", 
+  "code": "apt"
+ }, 
+ {
+  "city": "SAN MARIANO", 
+  "code": "apu"
+ }, 
+ {
+  "city": "SAN ISIDRO", 
+  "code": "apv"
+ }, 
+ {
+  "city": "SAN MANUEL", 
+  "code": "apw"
+ }, 
+ {
+  "city": "SAN AGUSTIN", 
+  "code": "apx"
+ }, 
+ {
+  "city": "ROXAS", 
+  "code": "apy"
+ }, 
+ {
+  "city": "RAMON", 
+  "code": "apz"
+ }, 
+ {
+  "city": "REINA MERCEDES", 
+  "code": "aqa"
+ }, 
+ {
+  "city": "QUEZON", 
+  "code": "aqb"
+ }, 
+ {
+  "city": "QUIRINO", 
+  "code": "aqc"
+ }, 
+ {
+  "city": "SAN GUILLERMO", 
+  "code": "aqd"
+ }, 
+ {
+  "city": "MALLIG", 
+  "code": "aqe"
+ }, 
+ {
+  "city": "PALANAN", 
+  "code": "aqf"
+ }, 
+ {
+  "city": "NAGUILIAN", 
+  "code": "aqg"
+ }, 
+ {
+  "city": "MACONACON", 
+  "code": "aqh"
+ }, 
+ {
+  "city": "DELFIN ALBANO (MAGSAYSAY)", 
+  "code": "aqi"
+ }, 
+ {
+  "city": "LUNA", 
+  "code": "aqj"
+ }, 
+ {
+  "city": "GAMU", 
+  "code": "aqk"
+ }, 
+ {
+  "city": "JONES", 
+  "code": "aql"
+ }, 
+ {
+  "city": "DIVILACAN", 
+  "code": "aqm"
+ }, 
+ {
+  "city": "DINAPIGUE", 
+  "code": "aqn"
+ }, 
+ {
+  "city": "ILAGAN CITY (Capital)", 
+  "code": "aqo"
+ }, 
+ {
+  "city": "ECHAGUE", 
+  "code": "aqp"
+ }, 
+ {
+  "city": "CORDON", 
+  "code": "aqq"
+ }, 
+ {
+  "city": "CABATUAN", 
+  "code": "aqr"
+ }, 
+ {
+  "city": "CITY OF CAUAYAN", 
+  "code": "aqs"
+ }, 
+ {
+  "city": "BURGOS", 
+  "code": "aqt"
+ }, 
+ {
+  "city": "CABAGAN", 
+  "code": "aqu"
+ }, 
+ {
+  "city": "BENITO SOLIVEN", 
+  "code": "aqv"
+ }, 
+ {
+  "city": "AURORA", 
+  "code": "aqw"
+ }, 
+ {
+  "city": "SANTOL", 
+  "code": "aqx"
+ }, 
+ {
+  "city": "SANTO TOMAS", 
+  "code": "aqy"
+ }, 
+ {
+  "city": "ALICIA", 
+  "code": "aqz"
+ }, 
+ {
+  "city": "ANGADANAN", 
+  "code": "ara"
+ }, 
+ {
+  "city": "SAN JUAN", 
+  "code": "arb"
+ }, 
+ {
+  "city": "SAN GABRIEL", 
+  "code": "arc"
+ }, 
+ {
+  "city": "CITY OF SAN FERNANDO (Capital)", 
+  "code": "ard"
+ }, 
+ {
+  "city": "PUGO", 
+  "code": "are"
+ }, 
+ {
+  "city": "ROSARIO", 
+  "code": "arf"
+ }, 
+ {
+  "city": "NAGUILIAN", 
+  "code": "arg"
+ }, 
+ {
+  "city": "CABA", 
+  "code": "arh"
+ }, 
+ {
+  "city": "LUNA", 
+  "code": "ari"
+ }, 
+ {
+  "city": "BURGOS", 
+  "code": "arj"
+ }, 
+ {
+  "city": "BANGAR", 
+  "code": "ark"
+ }, 
+ {
+  "city": "BAUANG", 
+  "code": "arl"
+ }, 
+ {
+  "city": "BALAOAN", 
+  "code": "arm"
+ }, 
+ {
+  "city": "BAGULIN", 
+  "code": "arn"
+ }, 
+ {
+  "city": "ARINGAY", 
+  "code": "aro"
+ }, 
+ {
+  "city": "AGOO", 
+  "code": "arp"
+ }, 
+ {
+  "city": "SANTA FE", 
+  "code": "arq"
+ }, 
+ {
+  "city": "QUEZON", 
+  "code": "arr"
+ }, 
+ {
+  "city": "BACNOTAN", 
+  "code": "ars"
+ }, 
+ {
+  "city": "KAYAPA", 
+  "code": "art"
+ }, 
+ {
+  "city": "SOLANO", 
+  "code": "aru"
+ }, 
+ {
+  "city": "KASIBU", 
+  "code": "arv"
+ }, 
+ {
+  "city": "DUPAX DEL NORTE", 
+  "code": "arw"
+ }, 
+ {
+  "city": "DUPAX DEL SUR", 
+  "code": "arx"
+ }, 
+ {
+  "city": "DIADI", 
+  "code": "ary"
+ }, 
+ {
+  "city": "BAYOMBONG (Capital)", 
+  "code": "arz"
+ }, 
+ {
+  "city": "BAGABAG", 
+  "code": "asa"
+ }, 
+ {
+  "city": "BAMBANG", 
+  "code": "asb"
+ }, 
+ {
+  "city": "AMBAGUIO", 
+  "code": "asc"
+ }, 
+ {
+  "city": "ARITAO", 
+  "code": "asd"
+ }, 
+ {
+  "city": "UYUGAN", 
+  "code": "ase"
+ }, 
+ {
+  "city": "SABTANG", 
+  "code": "asf"
+ }, 
+ {
+  "city": "MAHATAO", 
+  "code": "asg"
+ }, 
+ {
+  "city": "ITBAYAT", 
+  "code": "ash"
+ }, 
+ {
+  "city": "IVANA", 
+  "code": "asi"
+ }, 
+ {
+  "city": "BASCO (Capital)", 
+  "code": "asj"
+ }, 
+ {
+  "city": "TUBO", 
+  "code": "ask"
+ }, 
+ {
+  "city": "TINEG", 
+  "code": "asl"
+ }, 
+ {
+  "city": "SAN QUINTIN", 
+  "code": "asm"
+ }, 
+ {
+  "city": "TAYUM", 
+  "code": "asn"
+ }, 
+ {
+  "city": "SAN ISIDRO", 
+  "code": "aso"
+ }, 
+ {
+  "city": "SAN JUAN", 
+  "code": "asp"
+ }, 
+ {
+  "city": "SALLAPADAN", 
+  "code": "asq"
+ }, 
+ {
+  "city": "PILAR", 
+  "code": "asr"
+ }, 
+ {
+  "city": "PIDIGAN", 
+  "code": "ass"
+ }, 
+ {
+  "city": "PE\u00d1ARRUBIA", 
+  "code": "ast"
+ }, 
+ {
+  "city": "LUBA", 
+  "code": "asu"
+ }, 
+ {
+  "city": "MANABO", 
+  "code": "asv"
+ }, 
+ {
+  "city": "MALIBCONG", 
+  "code": "asw"
+ }, 
+ {
+  "city": "LICUAN-BAAY (LICUAN)", 
+  "code": "asx"
+ }, 
+ {
+  "city": "LANGIDEN", 
+  "code": "asy"
+ }, 
+ {
+  "city": "LAGAYAN", 
+  "code": "asz"
+ }, 
+ {
+  "city": "LAGANGILANG", 
+  "code": "ata"
+ }, 
+ {
+  "city": "LA PAZ", 
+  "code": "atb"
+ }, 
+ {
+  "city": "LACUB", 
+  "code": "atc"
+ }, 
+ {
+  "city": "DANGLAS", 
+  "code": "atd"
+ }, 
+ {
+  "city": "BOLINEY", 
+  "code": "ate"
+ }, 
+ {
+  "city": "DOLORES", 
+  "code": "atf"
+ }, 
+ {
+  "city": "DAGUIOMAN", 
+  "code": "atg"
+ }, 
+ {
+  "city": "BUCAY", 
+  "code": "ath"
+ }, 
+ {
+  "city": "BANGUED (Capital)", 
+  "code": "ati"
+ }, 
+ {
+  "city": "BUCLOC", 
+  "code": "atj"
+ }, 
+ {
+  "city": "TUAO", 
+  "code": "atk"
+ }, 
+ {
+  "city": "SANTO NI\u00d1O (FAIRE)", 
+  "code": "atl"
+ }, 
+ {
+  "city": "SOLANA", 
+  "code": "atm"
+ }, 
+ {
+  "city": "SANTA TERESITA", 
+  "code": "atn"
+ }, 
+ {
+  "city": "SANCHEZ-MIRA", 
+  "code": "ato"
+ }, 
+ {
+  "city": "SANTA ANA", 
+  "code": "atp"
+ }, 
+ {
+  "city": "SANTA PRAXEDES", 
+  "code": "atq"
+ }, 
+ {
+  "city": "PE\u00d1ABLANCA", 
+  "code": "atr"
+ }, 
+ {
+  "city": "PIAT", 
+  "code": "ats"
+ }, 
+ {
+  "city": "RIZAL", 
+  "code": "att"
+ }, 
+ {
+  "city": "PAMPLONA", 
+  "code": "atu"
+ }, 
+ {
+  "city": "LAL-LO", 
+  "code": "atv"
+ }, 
+ {
+  "city": "LASAM", 
+  "code": "atw"
+ }, 
+ {
+  "city": "IGUIG", 
+  "code": "atx"
+ }, 
+ {
+  "city": "ENRILE", 
+  "code": "aty"
+ }, 
+ {
+  "city": "GATTARAN", 
+  "code": "atz"
+ }, 
+ {
+  "city": "CLAVERIA", 
+  "code": "aua"
+ }, 
+ {
+  "city": "GONZAGA", 
+  "code": "aub"
+ }, 
+ {
+  "city": "CALAYAN", 
+  "code": "auc"
+ }, 
+ {
+  "city": "CAMALANIUGAN", 
+  "code": "aud"
+ }, 
+ {
+  "city": "BUGUEY", 
+  "code": "aue"
+ }, 
+ {
+  "city": "BALLESTEROS", 
+  "code": "auf"
+ }, 
+ {
+  "city": "BAGGAO", 
+  "code": "aug"
+ }, 
+ {
+  "city": "AMULUNG", 
+  "code": "auh"
+ }, 
+ {
+  "city": "APARRI", 
+  "code": "aui"
+ }, 
+ {
+  "city": "ALCALA", 
+  "code": "auj"
+ }, 
+ {
+  "city": "ALLACAPAN", 
+  "code": "auk"
+ }, 
+ {
+  "city": "MANKAYAN", 
+  "code": "aul"
+ }, 
+ {
+  "city": "SABLAN", 
+  "code": "aum"
+ }, 
+ {
+  "city": "ABULUG", 
+  "code": "aun"
+ }, 
+ {
+  "city": "KIBUNGAN", 
+  "code": "auo"
+ }, 
+ {
+  "city": "LA TRINIDAD (Capital)", 
+  "code": "aup"
+ }, 
+ {
+  "city": "KAPANGAN", 
+  "code": "auq"
+ }, 
+ {
+  "city": "ITOGON", 
+  "code": "aur"
+ }, 
+ {
+  "city": "KABAYAN", 
+  "code": "aus"
+ }, 
+ {
+  "city": "BOKOD", 
+  "code": "aut"
+ }, 
+ {
+  "city": "BUGUIAS", 
+  "code": "auu"
+ }, 
+ {
+  "city": "BAKUN", 
+  "code": "auv"
+ }, 
+ {
+  "city": "ATOK", 
+  "code": "auw"
+ }, 
+ {
+  "city": "TADIAN", 
+  "code": "aux"
+ }, 
+ {
+  "city": "BAGUIO CITY", 
+  "code": "auy"
+ }, 
+ {
+  "city": "SAGADA", 
+  "code": "auz"
+ }, 
+ {
+  "city": "SADANGA", 
+  "code": "ava"
+ }, 
+ {
+  "city": "SABANGAN", 
+  "code": "avb"
+ }, 
+ {
+  "city": "PARACELIS", 
+  "code": "avc"
+ }, 
+ {
+  "city": "NATONIN", 
+  "code": "avd"
+ }, 
+ {
+  "city": "BONTOC (Capital)", 
+  "code": "ave"
+ }, 
+ {
+  "city": "BAUKO", 
+  "code": "avf"
+ }, 
+ {
+  "city": "BESAO", 
+  "code": "avg"
+ }, 
+ {
+  "city": "BARLIG", 
+  "code": "avh"
+ }, 
+ {
+  "city": "ASIPULO", 
+  "code": "avi"
+ }, 
+ {
+  "city": "HINGYON", 
+  "code": "avj"
+ }, 
+ {
+  "city": "AGUINALDO", 
+  "code": "avk"
+ }, 
+ {
+  "city": "TINOC", 
+  "code": "avl"
+ }, 
+ {
+  "city": "LAMUT", 
+  "code": "avm"
+ }, 
+ {
+  "city": "MAYOYAO", 
+  "code": "avn"
+ }, 
+ {
+  "city": "LAGAWE (Capital)", 
+  "code": "avo"
+ }, 
+ {
+  "city": "KIANGAN", 
+  "code": "avp"
+ }, 
+ {
+  "city": "HUNGDUAN", 
+  "code": "avq"
+ }, 
+ {
+  "city": "BANAUE", 
+  "code": "avr"
+ }, 
+ {
+  "city": "TANUDAN", 
+  "code": "avs"
+ }, 
+ {
+  "city": "RIZAL (LIWAN)", 
+  "code": "avt"
+ }, 
+ {
+  "city": "PASIL", 
+  "code": "avu"
+ }, 
+ {
+  "city": "PINUKPUK", 
+  "code": "avv"
+ }, 
+ {
+  "city": "CITY OF TABUK (Capital)", 
+  "code": "avw"
+ }, 
+ {
+  "city": "LUBUAGAN", 
+  "code": "avx"
+ }, 
+ {
+  "city": "BALBALAN", 
+  "code": "avy"
+ }, 
+ {
+  "city": "PUDTOL", 
+  "code": "avz"
+ }, 
+ {
+  "city": "KABUGAO (Capital)", 
+  "code": "awa"
+ }, 
+ {
+  "city": "LUNA", 
+  "code": "awb"
+ }, 
+ {
+  "city": "FLORA", 
+  "code": "awc"
+ }, 
+ {
+  "city": "CONNER", 
+  "code": "awd"
+ }, 
+ {
+  "city": "CALANASAN (BAYAG)", 
+  "code": "awe"
+ }, 
+ {
+  "city": "INTRAMUROS", 
+  "code": "awf"
+ }, 
+ {
+  "city": "MALATE", 
+  "code": "awg"
+ }, 
+ {
+  "city": "PACO", 
+  "code": "awh"
+ }, 
+ {
+  "city": "ERMITA", 
+  "code": "awi"
+ }, 
+ {
+  "city": "SAN MIGUEL", 
+  "code": "awj"
+ }, 
+ {
+  "city": "QUIAPO", 
+  "code": "awk"
+ }, 
+ {
+  "city": "SAN NICOLAS", 
+  "code": "awl"
+ }, 
+ {
+  "city": "SANTA CRUZ", 
+  "code": "awm"
+ }, 
+ {
+  "city": "BINONDO", 
+  "code": "awn"
+ }, 
+ {
+  "city": "CITY OF PARA\u00d1AQUE", 
+  "code": "awo"
+ }, 
+ {
+  "city": "SAMPALOC", 
+  "code": "awp"
+ }, 
+ {
+  "city": "CITY OF MUNTINLUPA", 
+  "code": "awq"
+ }, 
+ {
+  "city": "PASAY CITY", 
+  "code": "awr"
+ }, 
+ {
+  "city": "CITY OF MAKATI", 
+  "code": "aws"
+ }, 
+ {
+  "city": "CITY OF LAS PI\u00d1AS", 
+  "code": "awt"
+ }, 
+ {
+  "city": "TONDO I / II", 
+  "code": "awu"
+ }, 
+ {
+  "city": "SAN JOSE", 
+  "code": "awv"
+ }, 
+ {
+  "city": "SAN LUIS", 
+  "code": "aww"
+ }, 
+ {
+  "city": "VICTORIA", 
+  "code": "awx"
+ }, 
+ {
+  "city": "MARIA AURORA", 
+  "code": "awy"
+ }, 
+ {
+  "city": "CITY OF TARLAC (Capital)", 
+  "code": "awz"
+ }, 
+ {
+  "city": "TERESA", 
+  "code": "axa"
+ }, 
+ {
+  "city": "DIPACULAO", 
+  "code": "axb"
+ }, 
+ {
+  "city": "DINGALAN", 
+  "code": "axc"
+ }, 
+ {
+  "city": "GEN. MARIANO ALVAREZ", 
+  "code": "axd"
+ }, 
+ {
+  "city": "SANTA MARIA", 
+  "code": "axe"
+ }, 
+ {
+  "city": "SINILOAN", 
+  "code": "axf"
+ }, 
+ {
+  "city": "VICTORIA", 
+  "code": "axg"
+ }, 
+ {
+  "city": "FERROL", 
+  "code": "axh"
+ }, 
+ {
+  "city": "SANTA MARIA (IMELDA)", 
+  "code": "axi"
+ }, 
+ {
+  "city": "CORDOVA", 
+  "code": "axj"
+ }, 
+ {
+  "city": "VICTORIA", 
+  "code": "axk"
+ }, 
+ {
+  "city": "PUERTO GALERA", 
+  "code": "axl"
+ }, 
+ {
+  "city": "BIEN UNIDO", 
+  "code": "axm"
+ }, 
+ {
+  "city": "TAGBILARAN CITY (Capital)", 
+  "code": "axn"
+ }, 
+ {
+  "city": "VALENCIA", 
+  "code": "axo"
+ }, 
+ {
+  "city": "TALIBON", 
+  "code": "axp"
+ }, 
+ {
+  "city": "SIERRA BULLONES", 
+  "code": "axq"
+ }, 
+ {
+  "city": "SIKATUNA", 
+  "code": "axr"
+ }, 
+ {
+  "city": "TUBIGON", 
+  "code": "axs"
+ }, 
+ {
+  "city": "UBAY", 
+  "code": "axt"
+ }, 
+ {
+  "city": "SEVILLA", 
+  "code": "axu"
+ }, 
+ {
+  "city": "TRINIDAD", 
+  "code": "axv"
+ }, 
+ {
+  "city": "SAN MIGUEL", 
+  "code": "axw"
+ }, 
+ {
+  "city": "SAN ISIDRO", 
+  "code": "axx"
+ }, 
+ {
+  "city": "PRES. CARLOS P. GARCIA (PITOGO)", 
+  "code": "axy"
+ }, 
+ {
+  "city": "SAGBAYAN (BORJA)", 
+  "code": "axz"
+ }, 
+ {
+  "city": "MARIBOJOC", 
+  "code": "aya"
+ }, 
+ {
+  "city": "PANGLAO", 
+  "code": "ayb"
+ }, 
+ {
+  "city": "PILAR", 
+  "code": "ayc"
+ }, 
+ {
+  "city": "LOON", 
+  "code": "ayd"
+ }, 
+ {
+  "city": "MABINI", 
+  "code": "aye"
+ }, 
+ {
+  "city": "LOAY", 
+  "code": "ayf"
+ }, 
+ {
+  "city": "LILA", 
+  "code": "ayg"
+ }, 
+ {
+  "city": "JAGNA", 
+  "code": "ayh"
+ }, 
+ {
+  "city": "LOBOC", 
+  "code": "ayi"
+ }, 
+ {
+  "city": "GETAFE", 
+  "code": "ayj"
+ }, 
+ {
+  "city": "GUINDULMAN", 
+  "code": "ayk"
+ }, 
+ {
+  "city": "DUERO", 
+  "code": "ayl"
+ }, 
+ {
+  "city": "DAUIS", 
+  "code": "aym"
+ }, 
+ {
+  "city": "GARCIA HERNANDEZ", 
+  "code": "ayn"
+ }, 
+ {
+  "city": "DIMIAO", 
+  "code": "ayo"
+ }, 
+ {
+  "city": "DANAO", 
+  "code": "ayp"
+ }, 
+ {
+  "city": "INABANGA", 
+  "code": "ayq"
+ }, 
+ {
+  "city": "CORTES", 
+  "code": "ayr"
+ }, 
+ {
+  "city": "DAGOHOY", 
+  "code": "ays"
+ }, 
+ {
+  "city": "CLARIN", 
+  "code": "ayt"
+ }, 
+ {
+  "city": "CATIGBIAN", 
+  "code": "ayu"
+ }, 
+ {
+  "city": "CORELLA", 
+  "code": "ayv"
+ }, 
+ {
+  "city": "CANDIJAY", 
+  "code": "ayw"
+ }, 
+ {
+  "city": "CARMEN", 
+  "code": "ayx"
+ }, 
+ {
+  "city": "BUENAVISTA", 
+  "code": "ayy"
+ }, 
+ {
+  "city": "BATUAN", 
+  "code": "ayz"
+ }, 
+ {
+  "city": "BILAR", 
+  "code": "aza"
+ }, 
+ {
+  "city": "BALILIHAN", 
+  "code": "azb"
+ }, 
+ {
+  "city": "CALAPE", 
+  "code": "azc"
+ }, 
+ {
+  "city": "BACLAYON", 
+  "code": "azd"
+ }, 
+ {
+  "city": "ANTEQUERA", 
+  "code": "aze"
+ }, 
+ {
+  "city": "ALBURQUERQUE", 
+  "code": "azf"
+ }, 
+ {
+  "city": "ALICIA", 
+  "code": "azg"
+ }, 
+ {
+  "city": "ANDA", 
+  "code": "azh"
+ }, 
+ {
+  "city": "SOFRONIO ESPA\u00d1OLA", 
+  "code": "azi"
+ }, 
+ {
+  "city": "RIZAL (MARCOS)", 
+  "code": "azj"
+ }, 
+ {
+  "city": "KALAYAAN", 
+  "code": "azk"
+ }, 
+ {
+  "city": "CULION", 
+  "code": "azl"
+ }, 
+ {
+  "city": "SAN VICENTE", 
+  "code": "azm"
+ }, 
+ {
+  "city": "TAYTAY", 
+  "code": "azn"
+ }, 
+ {
+  "city": "ROXAS", 
+  "code": "azo"
+ }, 
+ {
+  "city": "QUEZON", 
+  "code": "azp"
+ }, 
+ {
+  "city": "PUERTO PRINCESA CITY (Capital)", 
+  "code": "azq"
+ }, 
+ {
+  "city": "MAGSAYSAY", 
+  "code": "azr"
+ }, 
+ {
+  "city": "NARRA", 
+  "code": "azs"
+ }, 
+ {
+  "city": "EL NIDO (BACUIT)", 
+  "code": "azt"
+ }, 
+ {
+  "city": "LINAPACAN", 
+  "code": "azu"
+ }, 
+ {
+  "city": "CUYO", 
+  "code": "azv"
+ }, 
+ {
+  "city": "DUMARAN", 
+  "code": "azw"
+ }, 
+ {
+  "city": "CAGAYANCILLO", 
+  "code": "azx"
+ }, 
+ {
+  "city": "CORON", 
+  "code": "azy"
+ }, 
+ {
+  "city": "BATARAZA", 
+  "code": "azz"
+ }, 
+ {
+  "city": "BROOKE'S POINT", 
+  "code": "baa"
+ }, 
+ {
+  "city": "BUSUANGA", 
+  "code": "bab"
+ }, 
+ {
+  "city": "ARACELI", 
+  "code": "bac"
+ }, 
+ {
+  "city": "ABORLAN", 
+  "code": "bad"
+ }, 
+ {
+  "city": "AGUTAYA", 
+  "code": "bae"
+ }, 
+ {
+  "city": "BALABAC", 
+  "code": "baf"
+ }, 
+ {
+  "city": "SANTA CRUZ", 
+  "code": "bag"
+ }, 
+ {
+  "city": "SAN JOSE", 
+  "code": "bah"
+ }, 
+ {
+  "city": "SABLAYAN", 
+  "code": "bai"
+ }, 
+ {
+  "city": "PALUAN", 
+  "code": "baj"
+ }, 
+ {
+  "city": "RIZAL", 
+  "code": "bak"
+ }, 
+ {
+  "city": "MAMBURAO (Capital)", 
+  "code": "bal"
+ }, 
+ {
+  "city": "MAGSAYSAY", 
+  "code": "bam"
+ }, 
+ {
+  "city": "LOOC", 
+  "code": "ban"
+ }, 
+ {
+  "city": "LUBANG", 
+  "code": "bao"
+ }, 
+ {
+  "city": "CALINTAAN", 
+  "code": "bap"
+ }, 
+ {
+  "city": "SOCORRO", 
+  "code": "baq"
+ }, 
+ {
+  "city": "ROXAS", 
+  "code": "bar"
+ }, 
+ {
+  "city": "SAN TEODORO", 
+  "code": "bas"
+ }, 
+ {
+  "city": "ABRA DE ILOG", 
+  "code": "bat"
+ }, 
+ {
+  "city": "POLA", 
+  "code": "bau"
+ }, 
+ {
+  "city": "PINAMALAYAN", 
+  "code": "bav"
+ }, 
+ {
+  "city": "GLORIA", 
+  "code": "baw"
+ }, 
+ {
+  "city": "MANSALAY", 
+  "code": "bax"
+ }, 
+ {
+  "city": "CITY OF CALAPAN (Capital)", 
+  "code": "bay"
+ }, 
+ {
+  "city": "NAUJAN", 
+  "code": "baz"
+ }, 
+ {
+  "city": "BANSUD", 
+  "code": "bba"
+ }, 
+ {
+  "city": "TUDELA", 
+  "code": "bbb"
+ }, 
+ {
+  "city": "BACO", 
+  "code": "bbc"
+ }, 
+ {
+  "city": "BULALACAO (SAN PEDRO)", 
+  "code": "bbd"
+ }, 
+ {
+  "city": "BONGABONG", 
+  "code": "bbe"
+ }, 
+ {
+  "city": "TOLEDO CITY", 
+  "code": "bbf"
+ }, 
+ {
+  "city": "TUBURAN", 
+  "code": "bbg"
+ }, 
+ {
+  "city": "TABOGON", 
+  "code": "bbh"
+ }, 
+ {
+  "city": "SOGOD", 
+  "code": "bbi"
+ }, 
+ {
+  "city": "TABUELAN", 
+  "code": "bbj"
+ }, 
+ {
+  "city": "CITY OF TALISAY", 
+  "code": "bbk"
+ }, 
+ {
+  "city": "SANTA FE", 
+  "code": "bbl"
+ }, 
+ {
+  "city": "SANTANDER", 
+  "code": "bbm"
+ }, 
+ {
+  "city": "SIBONGA", 
+  "code": "bbn"
+ }, 
+ {
+  "city": "SAN REMIGIO", 
+  "code": "bbo"
+ }, 
+ {
+  "city": "SAN FRANCISCO", 
+  "code": "bbp"
+ }, 
+ {
+  "city": "PORO", 
+  "code": "bbq"
+ }, 
+ {
+  "city": "RONDA", 
+  "code": "bbr"
+ }, 
+ {
+  "city": "SAN FERNANDO", 
+  "code": "bbs"
+ }, 
+ {
+  "city": "PINAMUNGAHAN", 
+  "code": "bbt"
+ }, 
+ {
+  "city": "SAMBOAN", 
+  "code": "bbu"
+ }, 
+ {
+  "city": "OSLOB", 
+  "code": "bbv"
+ }, 
+ {
+  "city": "PILAR", 
+  "code": "bbw"
+ }, 
+ {
+  "city": "CITY OF NAGA", 
+  "code": "bbx"
+ }, 
+ {
+  "city": "MOALBOAL", 
+  "code": "bby"
+ }, 
+ {
+  "city": "MINGLANILLA", 
+  "code": "bbz"
+ }, 
+ {
+  "city": "MEDELLIN", 
+  "code": "bca"
+ }, 
+ {
+  "city": "MADRIDEJOS", 
+  "code": "bcb"
+ }, 
+ {
+  "city": "MALABUYOC", 
+  "code": "bcc"
+ }, 
+ {
+  "city": "MANDAUE CITY", 
+  "code": "bcd"
+ }, 
+ {
+  "city": "LILOAN", 
+  "code": "bce"
+ }, 
+ {
+  "city": "LAPU-LAPU CITY (OPON)", 
+  "code": "bcf"
+ }, 
+ {
+  "city": "GINATILAN", 
+  "code": "bcg"
+ }, 
+ {
+  "city": "DALAGUETE", 
+  "code": "bch"
+ }, 
+ {
+  "city": "DANAO CITY", 
+  "code": "bci"
+ }, 
+ {
+  "city": "DAANBANTAYAN", 
+  "code": "bcj"
+ }, 
+ {
+  "city": "DUMANJUG", 
+  "code": "bck"
+ }, 
+ {
+  "city": "COMPOSTELA", 
+  "code": "bcl"
+ }, 
+ {
+  "city": "CONSOLACION", 
+  "code": "bcm"
+ }, 
+ {
+  "city": "CARMEN", 
+  "code": "bcn"
+ }, 
+ {
+  "city": "CATMON", 
+  "code": "bco"
+ }, 
+ {
+  "city": "CEBU CITY (Capital)", 
+  "code": "bcp"
+ }, 
+ {
+  "city": "CITY OF CARCAR", 
+  "code": "bcq"
+ }, 
+ {
+  "city": "BORBON", 
+  "code": "bcr"
+ }, 
+ {
+  "city": "BOLJOON", 
+  "code": "bcs"
+ }, 
+ {
+  "city": "CITY OF BOGO", 
+  "code": "bct"
+ }, 
+ {
+  "city": "BARILI", 
+  "code": "bcu"
+ }, 
+ {
+  "city": "BALAMBAN", 
+  "code": "bcv"
+ }, 
+ {
+  "city": "BADIAN", 
+  "code": "bcw"
+ }, 
+ {
+  "city": "BANTAYAN", 
+  "code": "bcx"
+ }, 
+ {
+  "city": "ASTURIAS", 
+  "code": "bcy"
+ }, 
+ {
+  "city": "ARGAO", 
+  "code": "bcz"
+ }, 
+ {
+  "city": "ALOGUINSAN", 
+  "code": "bda"
+ }, 
+ {
+  "city": "ALEGRIA", 
+  "code": "bdb"
+ }, 
+ {
+  "city": "ALCOY", 
+  "code": "bdc"
+ }, 
+ {
+  "city": "SANTA FE", 
+  "code": "bdd"
+ }, 
+ {
+  "city": "SAN FERNANDO", 
+  "code": "bde"
+ }, 
+ {
+  "city": "ALCANTARA", 
+  "code": "bdf"
+ }, 
+ {
+  "city": "SAN ANDRES", 
+  "code": "bdg"
+ }, 
+ {
+  "city": "SAN AGUSTIN", 
+  "code": "bdh"
+ }, 
+ {
+  "city": "ROMBLON (Capital)", 
+  "code": "bdi"
+ }, 
+ {
+  "city": "ODIONGAN", 
+  "code": "bdj"
+ }, 
+ {
+  "city": "SAN JOSE", 
+  "code": "bdk"
+ }, 
+ {
+  "city": "LOOC", 
+  "code": "bdl"
+ }, 
+ {
+  "city": "CONCEPCION", 
+  "code": "bdm"
+ }, 
+ {
+  "city": "MAGDIWANG", 
+  "code": "bdn"
+ }, 
+ {
+  "city": "CORCUERA", 
+  "code": "bdo"
+ }, 
+ {
+  "city": "CAJIDIOCAN", 
+  "code": "bdp"
+ }, 
+ {
+  "city": "BANTON", 
+  "code": "bdq"
+ }, 
+ {
+  "city": "CALATRAVA", 
+  "code": "bdr"
+ }, 
+ {
+  "city": "ALCANTARA", 
+  "code": "bds"
+ }, 
+ {
+  "city": "SANTA MARIA", 
+  "code": "bdt"
+ }, 
+ {
+  "city": "CITY OF SANTA ROSA", 
+  "code": "bdu"
+ }, 
+ {
+  "city": "CITY OF SAN PEDRO", 
+  "code": "bdv"
+ }, 
+ {
+  "city": "SANTA CRUZ (Capital)", 
+  "code": "bdw"
+ }, 
+ {
+  "city": "RIZAL", 
+  "code": "bdx"
+ }, 
+ {
+  "city": "SAN PABLO CITY", 
+  "code": "bdy"
+ }, 
+ {
+  "city": "PAKIL", 
+  "code": "bdz"
+ }, 
+ {
+  "city": "PANGIL", 
+  "code": "bea"
+ }, 
+ {
+  "city": "PILA", 
+  "code": "beb"
+ }, 
+ {
+  "city": "PAETE", 
+  "code": "bec"
+ }, 
+ {
+  "city": "PAGSANJAN", 
+  "code": "bed"
+ }, 
+ {
+  "city": "NAGCARLAN", 
+  "code": "bee"
+ }, 
+ {
+  "city": "MABITAC", 
+  "code": "bef"
+ }, 
+ {
+  "city": "MAGDALENA", 
+  "code": "beg"
+ }, 
+ {
+  "city": "LUMBAN", 
+  "code": "beh"
+ }, 
+ {
+  "city": "MAJAYJAY", 
+  "code": "bei"
+ }, 
+ {
+  "city": "LOS BA\u00d1OS", 
+  "code": "bej"
+ }, 
+ {
+  "city": "LUISIANA", 
+  "code": "bek"
+ }, 
+ {
+  "city": "KALAYAAN", 
+  "code": "bel"
+ }, 
+ {
+  "city": "LILIW", 
+  "code": "bem"
+ }, 
+ {
+  "city": "CAVINTI", 
+  "code": "ben"
+ }, 
+ {
+  "city": "CALAUAN", 
+  "code": "beo"
+ }, 
+ {
+  "city": "FAMY", 
+  "code": "bep"
+ }, 
+ {
+  "city": "CABUYAO CITY", 
+  "code": "beq"
+ }, 
+ {
+  "city": "CITY OF BI\u00d1AN", 
+  "code": "ber"
+ }, 
+ {
+  "city": "BAY", 
+  "code": "bes"
+ }, 
+ {
+  "city": "TRECE MARTIRES CITY (Capital)", 
+  "code": "bet"
+ }, 
+ {
+  "city": "ALAMINOS", 
+  "code": "beu"
+ }, 
+ {
+  "city": "CITY OF CALAMBA", 
+  "code": "bev"
+ }, 
+ {
+  "city": "TERNATE", 
+  "code": "bew"
+ }, 
+ {
+  "city": "TAGAYTAY CITY", 
+  "code": "bex"
+ }, 
+ {
+  "city": "TANZA", 
+  "code": "bey"
+ }, 
+ {
+  "city": "NOVELETA", 
+  "code": "bez"
+ }, 
+ {
+  "city": "SILANG", 
+  "code": "bfa"
+ }, 
+ {
+  "city": "ROSARIO", 
+  "code": "bfb"
+ }, 
+ {
+  "city": "NAIC", 
+  "code": "bfc"
+ }, 
+ {
+  "city": "MAGALLANES", 
+  "code": "bfd"
+ }, 
+ {
+  "city": "MARAGONDON", 
+  "code": "bfe"
+ }, 
+ {
+  "city": "MENDEZ (MENDEZ-NU\u00d1EZ)", 
+  "code": "bff"
+ }, 
+ {
+  "city": "KAWIT", 
+  "code": "bfg"
+ }, 
+ {
+  "city": "INDANG", 
+  "code": "bfh"
+ }, 
+ {
+  "city": "GENERAL EMILIO AGUINALDO", 
+  "code": "bfi"
+ }, 
+ {
+  "city": "CITY OF GENERAL TRIAS", 
+  "code": "bfj"
+ }, 
+ {
+  "city": "CITY OF DASMARI\u00d1AS", 
+  "code": "bfk"
+ }, 
+ {
+  "city": "IMUS CITY", 
+  "code": "bfl"
+ }, 
+ {
+  "city": "CARMONA", 
+  "code": "bfm"
+ }, 
+ {
+  "city": "AMADEO", 
+  "code": "bfn"
+ }, 
+ {
+  "city": "CAVITE CITY", 
+  "code": "bfo"
+ }, 
+ {
+  "city": "TIAONG", 
+  "code": "bfp"
+ }, 
+ {
+  "city": "ALFONSO", 
+  "code": "bfq"
+ }, 
+ {
+  "city": "UNISAN", 
+  "code": "bfr"
+ }, 
+ {
+  "city": "BACOOR CITY", 
+  "code": "bfs"
+ }, 
+ {
+  "city": "SARIAYA", 
+  "code": "bft"
+ }, 
+ {
+  "city": "SAN FRANCISCO (AURORA)", 
+  "code": "bfu"
+ }, 
+ {
+  "city": "SAN NARCISO", 
+  "code": "bfv"
+ }, 
+ {
+  "city": "TAGKAWAYAN", 
+  "code": "bfw"
+ }, 
+ {
+  "city": "CITY OF TAYABAS", 
+  "code": "bfx"
+ }, 
+ {
+  "city": "SAN ANTONIO", 
+  "code": "bfy"
+ }, 
+ {
+  "city": "SAN ANDRES", 
+  "code": "bfz"
+ }, 
+ {
+  "city": "SAMPALOC", 
+  "code": "bga"
+ }, 
+ {
+  "city": "QUEZON", 
+  "code": "bgb"
+ }, 
+ {
+  "city": "REAL", 
+  "code": "bgc"
+ }, 
+ {
+  "city": "POLILLO", 
+  "code": "bgd"
+ }, 
+ {
+  "city": "PLARIDEL", 
+  "code": "bge"
+ }, 
+ {
+  "city": "PEREZ", 
+  "code": "bgf"
+ }, 
+ {
+  "city": "PATNANUNGAN", 
+  "code": "bgg"
+ }, 
+ {
+  "city": "PITOGO", 
+  "code": "bgh"
+ }, 
+ {
+  "city": "PAGBILAO", 
+  "code": "bgi"
+ }, 
+ {
+  "city": "PANUKULAN", 
+  "code": "bgj"
+ }, 
+ {
+  "city": "PADRE BURGOS", 
+  "code": "bgk"
+ }, 
+ {
+  "city": "MULANAY", 
+  "code": "bgl"
+ }, 
+ {
+  "city": "MACALELON", 
+  "code": "bgm"
+ }, 
+ {
+  "city": "LUCENA CITY (Capital)", 
+  "code": "bgn"
+ }, 
+ {
+  "city": "MAUBAN", 
+  "code": "bgo"
+ }, 
+ {
+  "city": "LUCBAN", 
+  "code": "bgp"
+ }, 
+ {
+  "city": "JOMALIG", 
+  "code": "bgq"
+ }, 
+ {
+  "city": "INFANTA", 
+  "code": "bgr"
+ }, 
+ {
+  "city": "LOPEZ", 
+  "code": "bgs"
+ }, 
+ {
+  "city": "GUMACA", 
+  "code": "bgt"
+ }, 
+ {
+  "city": "GENERAL NAKAR", 
+  "code": "bgu"
+ }, 
+ {
+  "city": "GUINAYANGAN", 
+  "code": "bgv"
+ }, 
+ {
+  "city": "CANDELARIA", 
+  "code": "bgw"
+ }, 
+ {
+  "city": "GENERAL LUNA", 
+  "code": "bgx"
+ }, 
+ {
+  "city": "DOLORES", 
+  "code": "bgy"
+ }, 
+ {
+  "city": "BURDEOS", 
+  "code": "bgz"
+ }, 
+ {
+  "city": "CATANAUAN", 
+  "code": "bha"
+ }, 
+ {
+  "city": "BUENAVISTA", 
+  "code": "bhb"
+ }, 
+ {
+  "city": "CALAUAG", 
+  "code": "bhc"
+ }, 
+ {
+  "city": "AGDANGAN", 
+  "code": "bhd"
+ }, 
+ {
+  "city": "ATIMONAN", 
+  "code": "bhe"
+ }, 
+ {
+  "city": "ALABAT", 
+  "code": "bhf"
+ }, 
+ {
+  "city": "SAN JUAN", 
+  "code": "bhg"
+ }, 
+ {
+  "city": "SIQUIJOR (Capital)", 
+  "code": "bhh"
+ }, 
+ {
+  "city": "LAZI", 
+  "code": "bhi"
+ }, 
+ {
+  "city": "MARIA", 
+  "code": "bhj"
+ }, 
+ {
+  "city": "LARENA", 
+  "code": "bhk"
+ }, 
+ {
+  "city": "DO\u00d1A REMEDIOS TRINIDAD", 
+  "code": "bhl"
+ }, 
+ {
+  "city": "SAN RAFAEL", 
+  "code": "bhm"
+ }, 
+ {
+  "city": "SAN MIGUEL", 
+  "code": "bhn"
+ }, 
+ {
+  "city": "ENRIQUE VILLANUEVA", 
+  "code": "bho"
+ }, 
+ {
+  "city": "SAN ILDEFONSO", 
+  "code": "bhp"
+ }, 
+ {
+  "city": "CITY OF SAN JOSE DEL MONTE", 
+  "code": "bhq"
+ }, 
+ {
+  "city": "PULILAN", 
+  "code": "bhr"
+ }, 
+ {
+  "city": "PLARIDEL", 
+  "code": "bhs"
+ }, 
+ {
+  "city": "PAOMBONG", 
+  "code": "bht"
+ }, 
+ {
+  "city": "PANDI", 
+  "code": "bhu"
+ }, 
+ {
+  "city": "OBANDO", 
+  "code": "bhv"
+ }, 
+ {
+  "city": "NORZAGARAY", 
+  "code": "bhw"
+ }, 
+ {
+  "city": "CITY OF MEYCAUAYAN", 
+  "code": "bhx"
+ }, 
+ {
+  "city": "MARILAO", 
+  "code": "bhy"
+ }, 
+ {
+  "city": "HAGONOY", 
+  "code": "bhz"
+ }, 
+ {
+  "city": "CITY OF MALOLOS (Capital)", 
+  "code": "bia"
+ }, 
+ {
+  "city": "GUIGUINTO", 
+  "code": "bib"
+ }, 
+ {
+  "city": "BUSTOS", 
+  "code": "bic"
+ }, 
+ {
+  "city": "BULACAN", 
+  "code": "bid"
+ }, 
+ {
+  "city": "BOCAUE", 
+  "code": "bie"
+ }, 
+ {
+  "city": "BALIUAG", 
+  "code": "bif"
+ }, 
+ {
+  "city": "CALUMPIT", 
+  "code": "big"
+ }, 
+ {
+  "city": "BALAGTAS (BIGAA)", 
+  "code": "bih"
+ }, 
+ {
+  "city": "ANGAT", 
+  "code": "bii"
+ }, 
+ {
+  "city": "TAYTAY", 
+  "code": "bij"
+ }, 
+ {
+  "city": "SAN MATEO", 
+  "code": "bik"
+ }, 
+ {
+  "city": "TANAY", 
+  "code": "bil"
+ }, 
+ {
+  "city": "MORONG", 
+  "code": "bim"
+ }, 
+ {
+  "city": "PILILLA", 
+  "code": "bin"
+ }, 
+ {
+  "city": "CARDONA", 
+  "code": "bio"
+ }, 
+ {
+  "city": "CAINTA", 
+  "code": "bip"
+ }, 
+ {
+  "city": "JALA-JALA", 
+  "code": "biq"
+ }, 
+ {
+  "city": "CITY OF ANTIPOLO", 
+  "code": "bir"
+ }, 
+ {
+  "city": "RODRIGUEZ (MONTALBAN)", 
+  "code": "bis"
+ }, 
+ {
+  "city": "BINANGONAN", 
+  "code": "bit"
+ }, 
+ {
+  "city": "DINALUNGAN", 
+  "code": "biu"
+ }, 
+ {
+  "city": "ANGONO", 
+  "code": "biv"
+ }, 
+ {
+  "city": "BARAS", 
+  "code": "biw"
+ }, 
+ {
+  "city": "DILASAG", 
+  "code": "bix"
+ }, 
+ {
+  "city": "BALER (Capital)", 
+  "code": "biy"
+ }, 
+ {
+  "city": "CASIGURAN", 
+  "code": "biz"
+ }, 
+ {
+  "city": "ZARAGOZA", 
+  "code": "bja"
+ }, 
+ {
+  "city": "TALAVERA", 
+  "code": "bjb"
+ }, 
+ {
+  "city": "SANTO DOMINGO", 
+  "code": "bjc"
+ }, 
+ {
+  "city": "TALUGTUG", 
+  "code": "bjd"
+ }, 
+ {
+  "city": "SAN LEONARDO", 
+  "code": "bje"
+ }, 
+ {
+  "city": "SANTA ROSA", 
+  "code": "bjf"
+ }, 
+ {
+  "city": "SAN ISIDRO", 
+  "code": "bjg"
+ }, 
+ {
+  "city": "SAN JOSE CITY", 
+  "code": "bjh"
+ }, 
+ {
+  "city": "RIZAL", 
+  "code": "bji"
+ }, 
+ {
+  "city": "QUEZON", 
+  "code": "bjj"
+ }, 
+ {
+  "city": "SAN ANTONIO", 
+  "code": "bjk"
+ }, 
+ {
+  "city": "PE\u00d1ARANDA", 
+  "code": "bjl"
+ }, 
+ {
+  "city": "PANTABANGAN", 
+  "code": "bjm"
+ }, 
+ {
+  "city": "PALAYAN CITY (Capital)", 
+  "code": "bjn"
+ }, 
+ {
+  "city": "LUPAO", 
+  "code": "bjo"
+ }, 
+ {
+  "city": "SCIENCE CITY OF MU\u00d1OZ", 
+  "code": "bjp"
+ }, 
+ {
+  "city": "LLANERA", 
+  "code": "bjq"
+ }, 
+ {
+  "city": "NAMPICUAN", 
+  "code": "bjr"
+ }, 
+ {
+  "city": "LAUR", 
+  "code": "bjs"
+ }, 
+ {
+  "city": "LICAB", 
+  "code": "bjt"
+ }, 
+ {
+  "city": "GENERAL TINIO (PAPAYA)", 
+  "code": "bju"
+ }, 
+ {
+  "city": "JAEN", 
+  "code": "bjv"
+ }, 
+ {
+  "city": "GENERAL MAMERTO NATIVIDAD", 
+  "code": "bjw"
+ }, 
+ {
+  "city": "CITY OF GAPAN", 
+  "code": "bjx"
+ }, 
+ {
+  "city": "GUIMBA", 
+  "code": "bjy"
+ }, 
+ {
+  "city": "GABALDON (BITULOK & SABANI)", 
+  "code": "bjz"
+ }, 
+ {
+  "city": "CABIAO", 
+  "code": "bka"
+ }, 
+ {
+  "city": "CUYAPO", 
+  "code": "bkb"
+ }, 
+ {
+  "city": "CARRANGLAN", 
+  "code": "bkc"
+ }, 
+ {
+  "city": "BONGABON", 
+  "code": "bkd"
+ }, 
+ {
+  "city": "ALIAGA", 
+  "code": "bke"
+ }, 
+ {
+  "city": "SAMAL", 
+  "code": "bkf"
+ }, 
+ {
+  "city": "ORION", 
+  "code": "bkg"
+ }, 
+ {
+  "city": "PILAR", 
+  "code": "bkh"
+ }, 
+ {
+  "city": "ORANI", 
+  "code": "bki"
+ }, 
+ {
+  "city": "MARIVELES", 
+  "code": "bkj"
+ }, 
+ {
+  "city": "CABANATUAN CITY", 
+  "code": "bkk"
+ }, 
+ {
+  "city": "LIMAY", 
+  "code": "bkl"
+ }, 
+ {
+  "city": "MORONG", 
+  "code": "bkm"
+ }, 
+ {
+  "city": "HERMOSA", 
+  "code": "bkn"
+ }, 
+ {
+  "city": "DINALUPIHAN", 
+  "code": "bko"
+ }, 
+ {
+  "city": "BAGAC", 
+  "code": "bkp"
+ }, 
+ {
+  "city": "CITY OF BALANGA (Capital)", 
+  "code": "bkq"
+ }, 
+ {
+  "city": "ABUCAY", 
+  "code": "bkr"
+ }, 
+ {
+  "city": "SAN MANUEL", 
+  "code": "bks"
+ }, 
+ {
+  "city": "SANTA IGNACIA", 
+  "code": "bkt"
+ }, 
+ {
+  "city": "SAN CLEMENTE", 
+  "code": "bku"
+ }, 
+ {
+  "city": "PURA", 
+  "code": "bkv"
+ }, 
+ {
+  "city": "RAMOS", 
+  "code": "bkw"
+ }, 
+ {
+  "city": "PANIQUI", 
+  "code": "bkx"
+ }, 
+ {
+  "city": "MAYANTOC", 
+  "code": "bky"
+ }, 
+ {
+  "city": "MONCADA", 
+  "code": "bkz"
+ }, 
+ {
+  "city": "CAPAS", 
+  "code": "bla"
+ }, 
+ {
+  "city": "LA PAZ", 
+  "code": "blb"
+ }, 
+ {
+  "city": "GERONA", 
+  "code": "blc"
+ }, 
+ {
+  "city": "BAMBAN", 
+  "code": "bld"
+ }, 
+ {
+  "city": "CONCEPCION", 
+  "code": "ble"
+ }, 
+ {
+  "city": "ANAO", 
+  "code": "blf"
+ }, 
+ {
+  "city": "CAMILING", 
+  "code": "blg"
+ }, 
+ {
+  "city": "SASMUAN (Sexmoan)", 
+  "code": "blh"
+ }, 
+ {
+  "city": "SANTO TOMAS", 
+  "code": "bli"
+ }, 
+ {
+  "city": "SAN SIMON", 
+  "code": "blj"
+ }, 
+ {
+  "city": "SANTA ANA", 
+  "code": "blk"
+ }, 
+ {
+  "city": "SANTA RITA", 
+  "code": "bll"
+ }, 
+ {
+  "city": "CITY OF SAN FERNANDO (Capital)", 
+  "code": "blm"
+ }, 
+ {
+  "city": "SAN LUIS", 
+  "code": "bln"
+ }, 
+ {
+  "city": "MINALIN", 
+  "code": "blo"
+ }, 
+ {
+  "city": "PORAC", 
+  "code": "blp"
+ }, 
+ {
+  "city": "MASANTOL", 
+  "code": "blq"
+ }, 
+ {
+  "city": "MEXICO", 
+  "code": "blr"
+ }, 
+ {
+  "city": "MABALACAT CITY", 
+  "code": "bls"
+ }, 
+ {
+  "city": "MACABEBE", 
+  "code": "blt"
+ }, 
+ {
+  "city": "GUAGUA", 
+  "code": "blu"
+ }, 
+ {
+  "city": "LUBAO", 
+  "code": "blv"
+ }, 
+ {
+  "city": "MAGALANG", 
+  "code": "blw"
+ }, 
+ {
+  "city": "FLORIDABLANCA", 
+  "code": "blx"
+ }, 
+ {
+  "city": "ARAYAT", 
+  "code": "bly"
+ }, 
+ {
+  "city": "APALIT", 
+  "code": "blz"
+ }, 
+ {
+  "city": "CANDABA", 
+  "code": "bma"
+ }, 
+ {
+  "city": "BACOLOR", 
+  "code": "bmb"
+ }, 
+ {
+  "city": "ANGELES CITY", 
+  "code": "bmc"
+ }, 
+ {
+  "city": "TINAMBAC", 
+  "code": "bmd"
+ }, 
+ {
+  "city": "USON", 
+  "code": "bme"
+ }, 
+ {
+  "city": "SAN PASCUAL", 
+  "code": "bmf"
+ }, 
+ {
+  "city": "MALUNGON", 
+  "code": "bmg"
+ }, 
+ {
+  "city": "COTABATO CITY", 
+  "code": "bmh"
+ }, 
+ {
+  "city": "LAKE SEBU", 
+  "code": "bmi"
+ }, 
+ {
+  "city": "SANTO NI\u00d1O", 
+  "code": "bmj"
+ }, 
+ {
+  "city": "TITAY", 
+  "code": "bmk"
+ }, 
+ {
+  "city": "ARAKAN", 
+  "code": "bml"
+ }, 
+ {
+  "city": "TUPI", 
+  "code": "bmm"
+ }, 
+ {
+  "city": "NUMANCIA", 
+  "code": "bmn"
+ }, 
+ {
+  "city": "TALUSAN", 
+  "code": "bmo"
+ }, 
+ {
+  "city": "TANGALAN", 
+  "code": "bmp"
+ }, 
+ {
+  "city": "KALAWIT", 
+  "code": "bmq"
+ }, 
+ {
+  "city": "PAGADIAN CITY (Capital)", 
+  "code": "bmr"
+ }, 
+ {
+  "city": "SAN ISIDRO", 
+  "code": "bms"
+ }, 
+ {
+  "city": "PANTUKAN", 
+  "code": "bmt"
+ }, 
+ {
+  "city": "NABUNTURAN (Capital)", 
+  "code": "bmu"
+ }, 
+ {
+  "city": "MONTEVISTA", 
+  "code": "bmv"
+ }, 
+ {
+  "city": "NEW BATAAN", 
+  "code": "bmw"
+ }, 
+ {
+  "city": "MARAGUSAN (SAN MARIANO)", 
+  "code": "bmx"
+ }, 
+ {
+  "city": "MONKAYO", 
+  "code": "bmy"
+ }, 
+ {
+  "city": "MAWAB", 
+  "code": "bmz"
+ }, 
+ {
+  "city": "MABINI (DO\u00d1A ALICIA)", 
+  "code": "bna"
+ }, 
+ {
+  "city": "MACO", 
+  "code": "bnb"
+ }, 
+ {
+  "city": "LAAK (SAN VICENTE)", 
+  "code": "bnc"
+ }, 
+ {
+  "city": "COMPOSTELA", 
+  "code": "bnd"
+ }, 
+ {
+  "city": "VINCENZO A. SAGUN", 
+  "code": "bne"
+ }, 
+ {
+  "city": "TIGBAO", 
+  "code": "bnf"
+ }, 
+ {
+  "city": "GUIPOS", 
+  "code": "bng"
+ }, 
+ {
+  "city": "PITOGO", 
+  "code": "bnh"
+ }, 
+ {
+  "city": "LAKEWOOD", 
+  "code": "bni"
+ }, 
+ {
+  "city": "SOMINOT (DON MARIANO MARCOS)", 
+  "code": "bnj"
+ }, 
+ {
+  "city": "JOSEFINA", 
+  "code": "bnk"
+ }, 
+ {
+  "city": "TUKURAN", 
+  "code": "bnl"
+ }, 
+ {
+  "city": "SAN MIGUEL", 
+  "code": "bnm"
+ }, 
+ {
+  "city": "SAN PABLO", 
+  "code": "bnn"
+ }, 
+ {
+  "city": "TAMBULIG", 
+  "code": "bno"
+ }, 
+ {
+  "city": "TABINA", 
+  "code": "bnp"
+ }, 
+ {
+  "city": "ZAMBOANGA CITY", 
+  "code": "bnq"
+ }, 
+ {
+  "city": "MOLAVE", 
+  "code": "bnr"
+ }, 
+ {
+  "city": "RAMON MAGSAYSAY (LIARGO)", 
+  "code": "bns"
+ }, 
+ {
+  "city": "MARGOSATUBIG", 
+  "code": "bnt"
+ }, 
+ {
+  "city": "MIDSALIP", 
+  "code": "bnu"
+ }, 
+ {
+  "city": "MAHAYAG", 
+  "code": "bnv"
+ }, 
+ {
+  "city": "LAPUYAN", 
+  "code": "bnw"
+ }, 
+ {
+  "city": "LABANGAN", 
+  "code": "bnx"
+ }, 
+ {
+  "city": "DUMINGAG", 
+  "code": "bny"
+ }, 
+ {
+  "city": "KUMALARANG", 
+  "code": "bnz"
+ }, 
+ {
+  "city": "DUMALINAO", 
+  "code": "boa"
+ }, 
+ {
+  "city": "DIMATALING", 
+  "code": "bob"
+ }, 
+ {
+  "city": "DINAS", 
+  "code": "boc"
+ }, 
+ {
+  "city": "BAYOG", 
+  "code": "bod"
+ }, 
+ {
+  "city": "SULOP", 
+  "code": "boe"
+ }, 
+ {
+  "city": "AURORA", 
+  "code": "bof"
+ }, 
+ {
+  "city": "SANTA CRUZ", 
+  "code": "bog"
+ }, 
+ {
+  "city": "MALALAG", 
+  "code": "boh"
+ }, 
+ {
+  "city": "PADADA", 
+  "code": "boi"
+ }, 
+ {
+  "city": "MATANAO", 
+  "code": "boj"
+ }, 
+ {
+  "city": "MAGSAYSAY", 
+  "code": "bok"
+ }, 
+ {
+  "city": "CITY OF DIGOS (Capital)", 
+  "code": "bol"
+ }, 
+ {
+  "city": "KIBLAWAN", 
+  "code": "bom"
+ }, 
+ {
+  "city": "BANSALAN", 
+  "code": "bon"
+ }, 
+ {
+  "city": "HAGONOY", 
+  "code": "boo"
+ }, 
+ {
+  "city": "BRAULIO E. DUJALI", 
+  "code": "bop"
+ }, 
+ {
+  "city": "TALAINGOD", 
+  "code": "boq"
+ }, 
+ {
+  "city": "CITY OF TAGUM (Capital)", 
+  "code": "bor"
+ }, 
+ {
+  "city": "SANTO TOMAS", 
+  "code": "bos"
+ }, 
+ {
+  "city": "DAVAO CITY", 
+  "code": "bot"
+ }, 
+ {
+  "city": "CITY OF PANABO", 
+  "code": "bou"
+ }, 
+ {
+  "city": "ISLAND GARDEN CITY OF SAMAL", 
+  "code": "bov"
+ }, 
+ {
+  "city": "KAPALONG", 
+  "code": "bow"
+ }, 
+ {
+  "city": "NEW CORELLA", 
+  "code": "box"
+ }, 
+ {
+  "city": "CARMEN", 
+  "code": "boy"
+ }, 
+ {
+  "city": "ASUNCION (SAUG)", 
+  "code": "boz"
+ }, 
+ {
+  "city": "BACUNGAN (Leon T. Postigo)", 
+  "code": "bpa"
+ }, 
+ {
+  "city": "BALIGUIAN", 
+  "code": "bpb"
+ }, 
+ {
+  "city": "GODOD", 
+  "code": "bpc"
+ }, 
+ {
+  "city": "GUTALAC", 
+  "code": "bpd"
+ }, 
+ {
+  "city": "JOSE DALMAN (PONOT)", 
+  "code": "bpe"
+ }, 
+ {
+  "city": "TAMPILISAN", 
+  "code": "bpf"
+ }, 
+ {
+  "city": "SIRAWAI", 
+  "code": "bpg"
+ }, 
+ {
+  "city": "SIBUTAD", 
+  "code": "bph"
+ }, 
+ {
+  "city": "SINDANGAN", 
+  "code": "bpi"
+ }, 
+ {
+  "city": "SIBUCO", 
+  "code": "bpj"
+ }, 
+ {
+  "city": "SIOCON", 
+  "code": "bpk"
+ }, 
+ {
+  "city": "SIAYAN", 
+  "code": "bpl"
+ }, 
+ {
+  "city": "SERGIO OSME\u00d1A SR.", 
+  "code": "bpm"
+ }, 
+ {
+  "city": "SALUG", 
+  "code": "bpn"
+ }, 
+ {
+  "city": "PRES. MANUEL A. ROXAS", 
+  "code": "bpo"
+ }, 
+ {
+  "city": "RIZAL", 
+  "code": "bpp"
+ }, 
+ {
+  "city": "PI\u00d1AN (NEW PI\u00d1AN)", 
+  "code": "bpq"
+ }, 
+ {
+  "city": "POLANCO", 
+  "code": "bpr"
+ }, 
+ {
+  "city": "MANUKAN", 
+  "code": "bps"
+ }, 
+ {
+  "city": "MUTIA", 
+  "code": "bpt"
+ }, 
+ {
+  "city": "LILOY", 
+  "code": "bpu"
+ }, 
+ {
+  "city": "LA LIBERTAD", 
+  "code": "bpv"
+ }, 
+ {
+  "city": "LABASON", 
+  "code": "bpw"
+ }, 
+ {
+  "city": "DIPOLOG CITY (Capital)", 
+  "code": "bpx"
+ }, 
+ {
+  "city": "KATIPUNAN", 
+  "code": "bpy"
+ }, 
+ {
+  "city": "NEW WASHINGTON", 
+  "code": "bpz"
+ }, 
+ {
+  "city": "DAPITAN CITY", 
+  "code": "bqa"
+ }, 
+ {
+  "city": "NABAS", 
+  "code": "bqb"
+ }, 
+ {
+  "city": "MALINAO", 
+  "code": "bqc"
+ }, 
+ {
+  "city": "MALAY", 
+  "code": "bqd"
+ }, 
+ {
+  "city": "MAKATO", 
+  "code": "bqe"
+ }, 
+ {
+  "city": "MADALAG", 
+  "code": "bqf"
+ }, 
+ {
+  "city": "LEZO", 
+  "code": "bqg"
+ }, 
+ {
+  "city": "LIBACAO", 
+  "code": "bqh"
+ }, 
+ {
+  "city": "KALIBO (Capital)", 
+  "code": "bqi"
+ }, 
+ {
+  "city": "BURUANGA", 
+  "code": "bqj"
+ }, 
+ {
+  "city": "IBAJAY", 
+  "code": "bqk"
+ }, 
+ {
+  "city": "BATAN", 
+  "code": "bql"
+ }, 
+ {
+  "city": "BALETE", 
+  "code": "bqm"
+ }, 
+ {
+  "city": "BANGA", 
+  "code": "bqn"
+ }, 
+ {
+  "city": "ALTAVAS", 
+  "code": "bqo"
+ }, 
+ {
+  "city": "TUNGAWAN", 
+  "code": "bqp"
+ }, 
+ {
+  "city": "CITY OF ISABELA (Capital)", 
+  "code": "bqq"
+ }, 
+ {
+  "city": "SIAY", 
+  "code": "bqr"
+ }, 
+ {
+  "city": "PAYAO", 
+  "code": "bqs"
+ }, 
+ {
+  "city": "ROSELLER LIM", 
+  "code": "bqt"
+ }, 
+ {
+  "city": "OLUTANGA", 
+  "code": "bqu"
+ }, 
+ {
+  "city": "NAGA", 
+  "code": "bqv"
+ }, 
+ {
+  "city": "MALANGAS", 
+  "code": "bqw"
+ }, 
+ {
+  "city": "MABUHAY", 
+  "code": "bqx"
+ }, 
+ {
+  "city": "IMELDA", 
+  "code": "bqy"
+ }, 
+ {
+  "city": "DIPLAHAN", 
+  "code": "bqz"
+ }, 
+ {
+  "city": "KABASALAN", 
+  "code": "bra"
+ }, 
+ {
+  "city": "IPIL (Capital)", 
+  "code": "brb"
+ }, 
+ {
+  "city": "BUUG", 
+  "code": "brc"
+ }, 
+ {
+  "city": "ANTIPAS", 
+  "code": "brd"
+ }, 
+ {
+  "city": "BANISILAN", 
+  "code": "bre"
+ }, 
+ {
+  "city": "ALEOSAN", 
+  "code": "brf"
+ }, 
+ {
+  "city": "ALICIA", 
+  "code": "brg"
+ }, 
+ {
+  "city": "TULUNAN", 
+  "code": "brh"
+ }, 
+ {
+  "city": "PIKIT", 
+  "code": "bri"
+ }, 
+ {
+  "city": "PRESIDENT ROXAS", 
+  "code": "brj"
+ }, 
+ {
+  "city": "PIGKAWAYAN", 
+  "code": "brk"
+ }, 
+ {
+  "city": "M'LANG", 
+  "code": "brl"
+ }, 
+ {
+  "city": "MIDSAYAP", 
+  "code": "brm"
+ }, 
+ {
+  "city": "MAGPET", 
+  "code": "brn"
+ }, 
+ {
+  "city": "MATALAM", 
+  "code": "bro"
+ }, 
+ {
+  "city": "LIBUNGAN", 
+  "code": "brp"
+ }, 
+ {
+  "city": "MAKILALA", 
+  "code": "brq"
+ }, 
+ {
+  "city": "TIBIAO", 
+  "code": "brr"
+ }, 
+ {
+  "city": "VALDERRAMA", 
+  "code": "brs"
+ }, 
+ {
+  "city": "SEBASTE", 
+  "code": "brt"
+ }, 
+ {
+  "city": "SIBALOM", 
+  "code": "bru"
+ }, 
+ {
+  "city": "SAN REMIGIO", 
+  "code": "brv"
+ }, 
+ {
+  "city": "SAN JOSE (Capital)", 
+  "code": "brw"
+ }, 
+ {
+  "city": "PATNONGON", 
+  "code": "brx"
+ }, 
+ {
+  "city": "KABACAN", 
+  "code": "bry"
+ }, 
+ {
+  "city": "CITY OF KIDAPAWAN (Capital)", 
+  "code": "brz"
+ }, 
+ {
+  "city": "ALAMADA", 
+  "code": "bsa"
+ }, 
+ {
+  "city": "CARMEN", 
+  "code": "bsb"
+ }, 
+ {
+  "city": "LIBERTAD", 
+  "code": "bsc"
+ }, 
+ {
+  "city": "PANDAN", 
+  "code": "bsd"
+ }, 
+ {
+  "city": "LAUA-AN", 
+  "code": "bse"
+ }, 
+ {
+  "city": "HAMTIC", 
+  "code": "bsf"
+ }, 
+ {
+  "city": "CALUYA", 
+  "code": "bsg"
+ }, 
+ {
+  "city": "TOBIAS FORNIER (DAO)", 
+  "code": "bsh"
+ }, 
+ {
+  "city": "CULASI", 
+  "code": "bsi"
+ }, 
+ {
+  "city": "BELISON", 
+  "code": "bsj"
+ }, 
+ {
+  "city": "BUGASONG", 
+  "code": "bsk"
+ }, 
+ {
+  "city": "BARBAZA", 
+  "code": "bsl"
+ }, 
+ {
+  "city": "ANINI-Y", 
+  "code": "bsm"
+ }, 
+ {
+  "city": "CITY OF TACURONG", 
+  "code": "bsn"
+ }, 
+ {
+  "city": "SEN. NINOY AQUINO", 
+  "code": "bso"
+ }, 
+ {
+  "city": "PRESIDENT QUIRINO", 
+  "code": "bsp"
+ }, 
+ {
+  "city": "PALIMBANG", 
+  "code": "bsq"
+ }, 
+ {
+  "city": "LAMBAYONG (MARIANO MARCOS)", 
+  "code": "bsr"
+ }, 
+ {
+  "city": "LUTAYAN", 
+  "code": "bss"
+ }, 
+ {
+  "city": "LEBAK", 
+  "code": "bst"
+ }, 
+ {
+  "city": "ISULAN (Capital)", 
+  "code": "bsu"
+ }, 
+ {
+  "city": "KALAMANSIG", 
+  "code": "bsv"
+ }, 
+ {
+  "city": "ESPERANZA", 
+  "code": "bsw"
+ }, 
+ {
+  "city": "COLUMBIO", 
+  "code": "bsx"
+ }, 
+ {
+  "city": "SAPI-AN", 
+  "code": "bsy"
+ }, 
+ {
+  "city": "TAPAZ", 
+  "code": "bsz"
+ }, 
+ {
+  "city": "BAGUMBAYAN", 
+  "code": "bta"
+ }, 
+ {
+  "city": "ROXAS CITY (Capital)", 
+  "code": "btb"
+ }, 
+ {
+  "city": "PRESIDENT ROXAS", 
+  "code": "btc"
+ }, 
+ {
+  "city": "PONTEVEDRA", 
+  "code": "btd"
+ }, 
+ {
+  "city": "PILAR", 
+  "code": "bte"
+ }, 
+ {
+  "city": "SIGMA", 
+  "code": "btf"
+ }, 
+ {
+  "city": "PANITAN", 
+  "code": "btg"
+ }, 
+ {
+  "city": "PANAY", 
+  "code": "bth"
+ }, 
+ {
+  "city": "MAMBUSAO", 
+  "code": "bti"
+ }, 
+ {
+  "city": "IVISAN", 
+  "code": "btj"
+ }, 
+ {
+  "city": "JAMINDAN", 
+  "code": "btk"
+ }, 
+ {
+  "city": "MA-AYON", 
+  "code": "btl"
+ }, 
+ {
+  "city": "DAO", 
+  "code": "btm"
+ }, 
+ {
+  "city": "TANTANGAN", 
+  "code": "btn"
+ }, 
+ {
+  "city": "TAMPAKAN", 
+  "code": "bto"
+ }, 
+ {
+  "city": "DUMARAO", 
+  "code": "btp"
+ }, 
+ {
+  "city": "SURALLAH", 
+  "code": "btq"
+ }, 
+ {
+  "city": "DUMALAG", 
+  "code": "btr"
+ }, 
+ {
+  "city": "POLOMOLOK", 
+  "code": "bts"
+ }, 
+ {
+  "city": "CUARTERO", 
+  "code": "btt"
+ }, 
+ {
+  "city": "T'BOLI", 
+  "code": "btu"
+ }, 
+ {
+  "city": "MAITUM", 
+  "code": "btv"
+ }, 
+ {
+  "city": "NORALA", 
+  "code": "btw"
+ }, 
+ {
+  "city": "CITY OF KORONADAL (Capital)", 
+  "code": "btx"
+ }, 
+ {
+  "city": "GENERAL SANTOS CITY (DADIANGAS)", 
+  "code": "bty"
+ }, 
+ {
+  "city": "BANGA", 
+  "code": "btz"
+ }, 
+ {
+  "city": "MAASIM", 
+  "code": "bua"
+ }, 
+ {
+  "city": "SAN JACINTO", 
+  "code": "bub"
+ }, 
+ {
+  "city": "MALAPATAN", 
+  "code": "buc"
+ }, 
+ {
+  "city": "ALABEL (Capital)", 
+  "code": "bud"
+ }, 
+ {
+  "city": "GLAN", 
+  "code": "bue"
+ }, 
+ {
+  "city": "KIAMBA", 
+  "code": "buf"
+ }, 
+ {
+  "city": "SAN FERNANDO", 
+  "code": "bug"
+ }, 
+ {
+  "city": "PALANAS", 
+  "code": "buh"
+ }, 
+ {
+  "city": "PIO V. CORPUZ (LIMBUHAN)", 
+  "code": "bui"
+ }, 
+ {
+  "city": "PLACER", 
+  "code": "buj"
+ }, 
+ {
+  "city": "MOBO", 
+  "code": "buk"
+ }, 
+ {
+  "city": "MONREAL", 
+  "code": "bul"
+ }, 
+ {
+  "city": "ESPERANZA", 
+  "code": "bum"
+ }, 
+ {
+  "city": "MANDAON", 
+  "code": "bun"
+ }, 
+ {
+  "city": "MILAGROS", 
+  "code": "buo"
+ }, 
+ {
+  "city": "CITY OF MASBATE (Capital)", 
+  "code": "bup"
+ }, 
+ {
+  "city": "CLAVERIA", 
+  "code": "buq"
+ }, 
+ {
+  "city": "DIMASALANG", 
+  "code": "bur"
+ }, 
+ {
+  "city": "CAWAYAN", 
+  "code": "bus"
+ }, 
+ {
+  "city": "BATUAN", 
+  "code": "but"
+ }, 
+ {
+  "city": "CATAINGAN", 
+  "code": "buu"
+ }, 
+ {
+  "city": "BALUD", 
+  "code": "buv"
+ }, 
+ {
+  "city": "BALENO", 
+  "code": "buw"
+ }, 
+ {
+  "city": "TIGAON", 
+  "code": "bux"
+ }, 
+ {
+  "city": "AROROY", 
+  "code": "buy"
+ }, 
+ {
+  "city": "SIRUMA", 
+  "code": "buz"
+ }, 
+ {
+  "city": "SIPOCOT", 
+  "code": "bva"
+ }, 
+ {
+  "city": "SAN FERNANDO", 
+  "code": "bvb"
+ }, 
+ {
+  "city": "SAG\u00d1AY", 
+  "code": "bvc"
+ }, 
+ {
+  "city": "SAN JOSE", 
+  "code": "bvd"
+ }, 
+ {
+  "city": "PRESENTACION (PARUBCAN)", 
+  "code": "bve"
+ }, 
+ {
+  "city": "RAGAY", 
+  "code": "bvf"
+ }, 
+ {
+  "city": "PILI (Capital)", 
+  "code": "bvg"
+ }, 
+ {
+  "city": "PAMPLONA", 
+  "code": "bvh"
+ }, 
+ {
+  "city": "PASACAO", 
+  "code": "bvi"
+ }, 
+ {
+  "city": "OCAMPO", 
+  "code": "bvj"
+ }, 
+ {
+  "city": "NAGA CITY", 
+  "code": "bvk"
+ }, 
+ {
+  "city": "NABUA", 
+  "code": "bvl"
+ }, 
+ {
+  "city": "MINALABAC", 
+  "code": "bvm"
+ }, 
+ {
+  "city": "MILAOR", 
+  "code": "bvn"
+ }, 
+ {
+  "city": "LUPI", 
+  "code": "bvo"
+ }, 
+ {
+  "city": "MAGARAO", 
+  "code": "bvp"
+ }, 
+ {
+  "city": "LAGONOY", 
+  "code": "bvq"
+ }, 
+ {
+  "city": "IRIGA CITY", 
+  "code": "bvr"
+ }, 
+ {
+  "city": "GAINZA", 
+  "code": "bvs"
+ }, 
+ {
+  "city": "GARCHITORENA", 
+  "code": "bvt"
+ }, 
+ {
+  "city": "LIBMANAN", 
+  "code": "bvu"
+ }, 
+ {
+  "city": "GOA", 
+  "code": "bvv"
+ }, 
+ {
+  "city": "CAMALIGAN", 
+  "code": "bvw"
+ }, 
+ {
+  "city": "CANAMAN", 
+  "code": "bvx"
+ }, 
+ {
+  "city": "CARAMOAN", 
+  "code": "bvy"
+ }, 
+ {
+  "city": "DEL GALLEGO", 
+  "code": "bvz"
+ }, 
+ {
+  "city": "BULA", 
+  "code": "bwa"
+ }, 
+ {
+  "city": "CALABANGA", 
+  "code": "bwb"
+ }, 
+ {
+  "city": "BOMBON", 
+  "code": "bwc"
+ }, 
+ {
+  "city": "CABUSAO", 
+  "code": "bwd"
+ }, 
+ {
+  "city": "BUHI", 
+  "code": "bwe"
+ }, 
+ {
+  "city": "BALATAN", 
+  "code": "bwf"
+ }, 
+ {
+  "city": "TIWI", 
+  "code": "bwg"
+ }, 
+ {
+  "city": "BATO", 
+  "code": "bwh"
+ }, 
+ {
+  "city": "SANTO DOMINGO (LIBOG)", 
+  "code": "bwi"
+ }, 
+ {
+  "city": "BAAO", 
+  "code": "bwj"
+ }, 
+ {
+  "city": "CITY OF TABACO", 
+  "code": "bwk"
+ }, 
+ {
+  "city": "RAPU-RAPU", 
+  "code": "bwl"
+ }, 
+ {
+  "city": "PIO DURAN", 
+  "code": "bwm"
+ }, 
+ {
+  "city": "OAS", 
+  "code": "bwn"
+ }, 
+ {
+  "city": "POLANGUI", 
+  "code": "bwo"
+ }, 
+ {
+  "city": "MALINAO", 
+  "code": "bwp"
+ }, 
+ {
+  "city": "MANITO", 
+  "code": "bwq"
+ }, 
+ {
+  "city": "LIBON", 
+  "code": "bwr"
+ }, 
+ {
+  "city": "CITY OF LIGAO", 
+  "code": "bws"
+ }, 
+ {
+  "city": "MALILIPOT", 
+  "code": "bwt"
+ }, 
+ {
+  "city": "LEGAZPI CITY (Capital)", 
+  "code": "bwu"
+ }, 
+ {
+  "city": "DARAGA (LOCSIN)", 
+  "code": "bwv"
+ }, 
+ {
+  "city": "JOVELLAR", 
+  "code": "bww"
+ }, 
+ {
+  "city": "GUINOBATAN", 
+  "code": "bwx"
+ }, 
+ {
+  "city": "CAMALIG", 
+  "code": "bwy"
+ }, 
+ {
+  "city": "VINZONS", 
+  "code": "bwz"
+ }, 
+ {
+  "city": "BACACAY", 
+  "code": "bxa"
+ }, 
+ {
+  "city": "SAN VICENTE", 
+  "code": "bxb"
+ }, 
+ {
+  "city": "SANTA ELENA", 
+  "code": "bxc"
+ }, 
+ {
+  "city": "TALISAY", 
+  "code": "bxd"
+ }, 
+ {
+  "city": "MERCEDES", 
+  "code": "bxe"
+ }, 
+ {
+  "city": "PARACALE", 
+  "code": "bxf"
+ }, 
+ {
+  "city": "JOSE PANGANIBAN", 
+  "code": "bxg"
+ }, 
+ {
+  "city": "SAN LORENZO RUIZ (IMELDA)", 
+  "code": "bxh"
+ }, 
+ {
+  "city": "DAET (Capital)", 
+  "code": "bxi"
+ }, 
+ {
+  "city": "CAPALONGA", 
+  "code": "bxj"
+ }, 
+ {
+  "city": "LABO", 
+  "code": "bxk"
+ }, 
+ {
+  "city": "BASUD", 
+  "code": "bxl"
+ }, 
+ {
+  "city": "VIGA", 
+  "code": "bxm"
+ }, 
+ {
+  "city": "SAN MIGUEL", 
+  "code": "bxn"
+ }, 
+ {
+  "city": "VIRAC (Capital)", 
+  "code": "bxo"
+ }, 
+ {
+  "city": "PANGANIBAN (PAYO)", 
+  "code": "bxp"
+ }, 
+ {
+  "city": "SAN ANDRES (CALOLBON)", 
+  "code": "bxq"
+ }, 
+ {
+  "city": "PANDAN", 
+  "code": "bxr"
+ }, 
+ {
+  "city": "GIGMOTO", 
+  "code": "bxs"
+ }, 
+ {
+  "city": "CARAMORAN", 
+  "code": "bxt"
+ }, 
+ {
+  "city": "BATO", 
+  "code": "bxu"
+ }, 
+ {
+  "city": "BAGAMANOC", 
+  "code": "bxv"
+ }, 
+ {
+  "city": "BARAS", 
+  "code": "bxw"
+ }, 
+ {
+  "city": "SIBUTU", 
+  "code": "bxx"
+ }, 
+ {
+  "city": "OMAR", 
+  "code": "bxy"
+ }, 
+ {
+  "city": "RAJAH BUAYAN", 
+  "code": "bxz"
+ }, 
+ {
+  "city": "MONDRAGON", 
+  "code": "bya"
+ }, 
+ {
+  "city": "SAGAY", 
+  "code": "byb"
+ }, 
+ {
+  "city": "NAVAL (Capital)", 
+  "code": "byc"
+ }, 
+ {
+  "city": "LOPE DE VEGA", 
+  "code": "byd"
+ }, 
+ {
+  "city": "MASLOG", 
+  "code": "bye"
+ }, 
+ {
+  "city": "TAFT", 
+  "code": "byf"
+ }, 
+ {
+  "city": "TUBAJON", 
+  "code": "byg"
+ }, 
+ {
+  "city": "LUMBACA-UNAYAN", 
+  "code": "byh"
+ }, 
+ {
+  "city": "LORETO", 
+  "code": "byi"
+ }, 
+ {
+  "city": "SAN JOSE (Capital)", 
+  "code": "byj"
+ }, 
+ {
+  "city": "LIBONA", 
+  "code": "byk"
+ }, 
+ {
+  "city": "SIBAGAT", 
+  "code": "byl"
+ }, 
+ {
+  "city": "TRENTO", 
+  "code": "bym"
+ }, 
+ {
+  "city": "TUBAY", 
+  "code": "byn"
+ }, 
+ {
+  "city": "REMEDIOS T. ROMUALDEZ", 
+  "code": "byo"
+ }, 
+ {
+  "city": "VERUELA", 
+  "code": "byp"
+ }, 
+ {
+  "city": "SANTIAGO", 
+  "code": "byq"
+ }, 
+ {
+  "city": "MAGALLANES", 
+  "code": "byr"
+ }, 
+ {
+  "city": "NASIPIT", 
+  "code": "bys"
+ }, 
+ {
+  "city": "LAS NIEVES", 
+  "code": "byt"
+ }, 
+ {
+  "city": "JABONGA", 
+  "code": "byu"
+ }, 
+ {
+  "city": "KITCHARAO", 
+  "code": "byv"
+ }, 
+ {
+  "city": "CARMEN", 
+  "code": "byw"
+ }, 
+ {
+  "city": "BUENAVISTA", 
+  "code": "byx"
+ }, 
+ {
+  "city": "BUTUAN CITY (Capital)", 
+  "code": "byy"
+ }, 
+ {
+  "city": "CITY OF CABADBARAN", 
+  "code": "byz"
+ }, 
+ {
+  "city": "ZAMBOANGUITA", 
+  "code": "bza"
+ }, 
+ {
+  "city": "VALENCIA (LUZURRIAGA)", 
+  "code": "bzb"
+ }, 
+ {
+  "city": "VALLEHERMOSO", 
+  "code": "bzc"
+ }, 
+ {
+  "city": "TAYASAN", 
+  "code": "bzd"
+ }, 
+ {
+  "city": "CITY OF TANJAY", 
+  "code": "bze"
+ }, 
+ {
+  "city": "SIATON", 
+  "code": "bzf"
+ }, 
+ {
+  "city": "SIBULAN", 
+  "code": "bzg"
+ }, 
+ {
+  "city": "SANTA CATALINA", 
+  "code": "bzh"
+ }, 
+ {
+  "city": "PAMPLONA", 
+  "code": "bzi"
+ }, 
+ {
+  "city": "SAN JOSE", 
+  "code": "bzj"
+ }, 
+ {
+  "city": "MANJUYOD", 
+  "code": "bzk"
+ }, 
+ {
+  "city": "MABINAY", 
+  "code": "bzl"
+ }, 
+ {
+  "city": "LA LIBERTAD", 
+  "code": "bzm"
+ }, 
+ {
+  "city": "JIMALALUD", 
+  "code": "bzn"
+ }, 
+ {
+  "city": "DUMAGUETE CITY (Capital)", 
+  "code": "bzo"
+ }, 
+ {
+  "city": "DAUIN", 
+  "code": "bzp"
+ }, 
+ {
+  "city": "CITY OF GUIHULNGAN", 
+  "code": "bzq"
+ }, 
+ {
+  "city": "CANLAON CITY", 
+  "code": "bzr"
+ }, 
+ {
+  "city": "BINDOY (PAYABON)", 
+  "code": "bzs"
+ }, 
+ {
+  "city": "BASAY", 
+  "code": "bzt"
+ }, 
+ {
+  "city": "CITY OF BAYAWAN (TULONG)", 
+  "code": "bzu"
+ }, 
+ {
+  "city": "BAIS CITY", 
+  "code": "bzv"
+ }, 
+ {
+  "city": "BACONG", 
+  "code": "bzw"
+ }, 
+ {
+  "city": "AYUNGON", 
+  "code": "bzx"
+ }, 
+ {
+  "city": "TALACOGON", 
+  "code": "bzy"
+ }, 
+ {
+  "city": "AMLAN (AYUQUITAN)", 
+  "code": "bzz"
+ }, 
+ {
+  "city": "SANTA JOSEFA", 
+  "code": "caa"
+ }, 
+ {
+  "city": "SAN LUIS", 
+  "code": "cab"
+ }, 
+ {
+  "city": "SAN FRANCISCO", 
+  "code": "cac"
+ }, 
+ {
+  "city": "ROSARIO", 
+  "code": "cad"
+ }, 
+ {
+  "city": "PROSPERIDAD (Capital)", 
+  "code": "cae"
+ }, 
+ {
+  "city": "LORETO", 
+  "code": "caf"
+ }, 
+ {
+  "city": "LA PAZ", 
+  "code": "cag"
+ }, 
+ {
+  "city": "BUNAWAN", 
+  "code": "cah"
+ }, 
+ {
+  "city": "DON VICTORIANO CHIONGBIAN  (DON MARIANO MARCOS)", 
+  "code": "cai"
+ }, 
+ {
+  "city": "CITY OF BAYUGAN", 
+  "code": "caj"
+ }, 
+ {
+  "city": "ESPERANZA", 
+  "code": "cak"
+ }, 
+ {
+  "city": "TANGUB CITY", 
+  "code": "cal"
+ }, 
+ {
+  "city": "TUDELA", 
+  "code": "cam"
+ }, 
+ {
+  "city": "SINACABAN", 
+  "code": "can"
+ }, 
+ {
+  "city": "PLARIDEL", 
+  "code": "cao"
+ }, 
+ {
+  "city": "SAPANG DALAGA", 
+  "code": "cap"
+ }, 
+ {
+  "city": "PANAON", 
+  "code": "caq"
+ }, 
+ {
+  "city": "OZAMIZ CITY", 
+  "code": "car"
+ }, 
+ {
+  "city": "LOPEZ JAENA", 
+  "code": "cas"
+ }, 
+ {
+  "city": "JIMENEZ", 
+  "code": "cat"
+ }, 
+ {
+  "city": "OROQUIETA CITY (Capital)", 
+  "code": "cau"
+ }, 
+ {
+  "city": "CLARIN", 
+  "code": "cav"
+ }, 
+ {
+  "city": "CONCEPCION", 
+  "code": "caw"
+ }, 
+ {
+  "city": "CALAMBA", 
+  "code": "cax"
+ }, 
+ {
+  "city": "BALIANGAO", 
+  "code": "cay"
+ }, 
+ {
+  "city": "ALORAN", 
+  "code": "caz"
+ }, 
+ {
+  "city": "BONIFACIO", 
+  "code": "cba"
+ }, 
+ {
+  "city": "CABANGLASAN", 
+  "code": "cbb"
+ }, 
+ {
+  "city": "TALAKAG", 
+  "code": "cbc"
+ }, 
+ {
+  "city": "CITY OF VALENCIA", 
+  "code": "cbd"
+ }, 
+ {
+  "city": "SUMILAO", 
+  "code": "cbe"
+ }, 
+ {
+  "city": "SAN FERNANDO", 
+  "code": "cbf"
+ }, 
+ {
+  "city": "PANGANTUCAN", 
+  "code": "cbg"
+ }, 
+ {
+  "city": "QUEZON", 
+  "code": "cbh"
+ }, 
+ {
+  "city": "MARAMAG", 
+  "code": "cbi"
+ }, 
+ {
+  "city": "MALITBOG", 
+  "code": "cbj"
+ }, 
+ {
+  "city": "MANOLO FORTICH", 
+  "code": "cbk"
+ }, 
+ {
+  "city": "KITAOTAO", 
+  "code": "cbl"
+ }, 
+ {
+  "city": "LANTAPAN", 
+  "code": "cbm"
+ }, 
+ {
+  "city": "CITY OF MALAYBALAY (Capital)", 
+  "code": "cbn"
+ }, 
+ {
+  "city": "KIBAWE", 
+  "code": "cbo"
+ }, 
+ {
+  "city": "KADINGILAN", 
+  "code": "cbp"
+ }, 
+ {
+  "city": "KALILANGAN", 
+  "code": "cbq"
+ }, 
+ {
+  "city": "IMPASUG-ONG", 
+  "code": "cbr"
+ }, 
+ {
+  "city": "DANGCAGAN", 
+  "code": "cbs"
+ }, 
+ {
+  "city": "DON CARLOS", 
+  "code": "cbt"
+ }, 
+ {
+  "city": "BAUNGON", 
+  "code": "cbu"
+ }, 
+ {
+  "city": "DAMULOG", 
+  "code": "cbv"
+ }, 
+ {
+  "city": "PANTAR", 
+  "code": "cbw"
+ }, 
+ {
+  "city": "TUBOD (Capital)", 
+  "code": "cbx"
+ }, 
+ {
+  "city": "TANGCAL", 
+  "code": "cby"
+ }, 
+ {
+  "city": "SAPAD", 
+  "code": "cbz"
+ }, 
+ {
+  "city": "TAGOLOAN", 
+  "code": "cca"
+ }, 
+ {
+  "city": "SALVADOR", 
+  "code": "ccb"
+ }, 
+ {
+  "city": "POONA PIAGAPO", 
+  "code": "ccc"
+ }, 
+ {
+  "city": "MUNAI", 
+  "code": "ccd"
+ }, 
+ {
+  "city": "PANTAO RAGAT", 
+  "code": "cce"
+ }, 
+ {
+  "city": "MAIGO", 
+  "code": "ccf"
+ }, 
+ {
+  "city": "NUNUNGAN", 
+  "code": "ccg"
+ }, 
+ {
+  "city": "MATUNGAO", 
+  "code": "cch"
+ }, 
+ {
+  "city": "MAGSAYSAY", 
+  "code": "cci"
+ }, 
+ {
+  "city": "LINAMON", 
+  "code": "ccj"
+ }, 
+ {
+  "city": "LALA", 
+  "code": "cck"
+ }, 
+ {
+  "city": "KOLAMBUGAN", 
+  "code": "ccl"
+ }, 
+ {
+  "city": "KAUSWAGAN", 
+  "code": "ccm"
+ }, 
+ {
+  "city": "SULTAN NAGA DIMAPORO (KAROMATAN)", 
+  "code": "ccn"
+ }, 
+ {
+  "city": "KAPATAGAN", 
+  "code": "cco"
+ }, 
+ {
+  "city": "BAROY", 
+  "code": "ccp"
+ }, 
+ {
+  "city": "BALOI", 
+  "code": "ccq"
+ }, 
+ {
+  "city": "ILIGAN CITY", 
+  "code": "ccr"
+ }, 
+ {
+  "city": "SULTAN DUMALONDONG", 
+  "code": "ccs"
+ }, 
+ {
+  "city": "BACOLOD", 
+  "code": "cct"
+ }, 
+ {
+  "city": "KAPATAGAN", 
+  "code": "ccu"
+ }, 
+ {
+  "city": "TAGOLOAN II", 
+  "code": "ccv"
+ }, 
+ {
+  "city": "BUMBARAN", 
+  "code": "ccw"
+ }, 
+ {
+  "city": "LUMBAYANAGUE", 
+  "code": "ccx"
+ }, 
+ {
+  "city": "PICONG (SULTAN GUMANDER)", 
+  "code": "ccy"
+ }, 
+ {
+  "city": "BUADIPOSO-BUNTONG", 
+  "code": "ccz"
+ }, 
+ {
+  "city": "MAGUING", 
+  "code": "cda"
+ }, 
+ {
+  "city": "CALANOGAS", 
+  "code": "cdb"
+ }, 
+ {
+  "city": "MAROGONG", 
+  "code": "cdc"
+ }, 
+ {
+  "city": "WAO", 
+  "code": "cdd"
+ }, 
+ {
+  "city": "TUBARAN", 
+  "code": "cde"
+ }, 
+ {
+  "city": "TUGAYA", 
+  "code": "cdf"
+ }, 
+ {
+  "city": "TARAKA", 
+  "code": "cdg"
+ }, 
+ {
+  "city": "DITSAAN-RAMAIN", 
+  "code": "cdh"
+ }, 
+ {
+  "city": "SAGUIARAN", 
+  "code": "cdi"
+ }, 
+ {
+  "city": "PUALAS", 
+  "code": "cdj"
+ }, 
+ {
+  "city": "POONA BAYABAO (GATA)", 
+  "code": "cdk"
+ }, 
+ {
+  "city": "TAMPARAN", 
+  "code": "cdl"
+ }, 
+ {
+  "city": "PIAGAPO", 
+  "code": "cdm"
+ }, 
+ {
+  "city": "PAGAYAWAN (TATARIKAN)", 
+  "code": "cdn"
+ }, 
+ {
+  "city": "MULONDO", 
+  "code": "cdo"
+ }, 
+ {
+  "city": "MASIU", 
+  "code": "cdp"
+ }, 
+ {
+  "city": "MARANTAO", 
+  "code": "cdq"
+ }, 
+ {
+  "city": "MALABANG", 
+  "code": "cdr"
+ }, 
+ {
+  "city": "MADAMBA", 
+  "code": "cds"
+ }, 
+ {
+  "city": "LUMBATAN", 
+  "code": "cdt"
+ }, 
+ {
+  "city": "MADALUM", 
+  "code": "cdu"
+ }, 
+ {
+  "city": "MARAWI CITY (Capital)", 
+  "code": "cdv"
+ }, 
+ {
+  "city": "KAPAI", 
+  "code": "cdw"
+ }, 
+ {
+  "city": "LUMBA-BAYABAO (MAGUING)", 
+  "code": "cdx"
+ }, 
+ {
+  "city": "BUTIG", 
+  "code": "cdy"
+ }, 
+ {
+  "city": "GANASSI", 
+  "code": "cdz"
+ }, 
+ {
+  "city": "BINIDAYAN", 
+  "code": "cea"
+ }, 
+ {
+  "city": "BUBONG", 
+  "code": "ceb"
+ }, 
+ {
+  "city": "BALABAGAN", 
+  "code": "cec"
+ }, 
+ {
+  "city": "BAYANG", 
+  "code": "ced"
+ }, 
+ {
+  "city": "BACOLOD-KALAWI (BACOLOD GRANDE)", 
+  "code": "cee"
+ }, 
+ {
+  "city": "TUBOD", 
+  "code": "cef"
+ }, 
+ {
+  "city": "BALINDONG (WATU)", 
+  "code": "ceg"
+ }, 
+ {
+  "city": "TAGANA-AN", 
+  "code": "ceh"
+ }, 
+ {
+  "city": "SURIGAO CITY (Capital)", 
+  "code": "cei"
+ }, 
+ {
+  "city": "SISON", 
+  "code": "cej"
+ }, 
+ {
+  "city": "SOCORRO", 
+  "code": "cek"
+ }, 
+ {
+  "city": "SANTA MONICA (SAPAO)", 
+  "code": "cel"
+ }, 
+ {
+  "city": "SAN ISIDRO", 
+  "code": "cem"
+ }, 
+ {
+  "city": "SAN FRANCISCO (ANAO-AON)", 
+  "code": "cen"
+ }, 
+ {
+  "city": "SAN BENITO", 
+  "code": "ceo"
+ }, 
+ {
+  "city": "PILAR", 
+  "code": "cep"
+ }, 
+ {
+  "city": "PLACER", 
+  "code": "ceq"
+ }, 
+ {
+  "city": "MALIMONO", 
+  "code": "cer"
+ }, 
+ {
+  "city": "GIGAQUIT", 
+  "code": "ces"
+ }, 
+ {
+  "city": "MAINIT", 
+  "code": "cet"
+ }, 
+ {
+  "city": "DEL CARMEN", 
+  "code": "ceu"
+ }, 
+ {
+  "city": "DAPA", 
+  "code": "cev"
+ }, 
+ {
+  "city": "GENERAL LUNA", 
+  "code": "cew"
+ }, 
+ {
+  "city": "BURGOS", 
+  "code": "cex"
+ }, 
+ {
+  "city": "CLAVER", 
+  "code": "cey"
+ }, 
+ {
+  "city": "BACUAG", 
+  "code": "cez"
+ }, 
+ {
+  "city": "ALEGRIA", 
+  "code": "cfa"
+ }, 
+ {
+  "city": "LIBJO (ALBOR)", 
+  "code": "cfb"
+ }, 
+ {
+  "city": "DINAGAT", 
+  "code": "cfc"
+ }, 
+ {
+  "city": "CAGDIANAO", 
+  "code": "cfd"
+ }, 
+ {
+  "city": "SULAT", 
+  "code": "cfe"
+ }, 
+ {
+  "city": "BASILISA (RIZAL)", 
+  "code": "cff"
+ }, 
+ {
+  "city": "SAN JULIAN", 
+  "code": "cfg"
+ }, 
+ {
+  "city": "SAN POLICARPO", 
+  "code": "cfh"
+ }, 
+ {
+  "city": "SALCEDO", 
+  "code": "cfi"
+ }, 
+ {
+  "city": "MERCEDES", 
+  "code": "cfj"
+ }, 
+ {
+  "city": "ORAS", 
+  "code": "cfk"
+ }, 
+ {
+  "city": "QUINAPONDAN", 
+  "code": "cfl"
+ }, 
+ {
+  "city": "MAYDOLONG", 
+  "code": "cfm"
+ }, 
+ {
+  "city": "LAWAAN", 
+  "code": "cfn"
+ }, 
+ {
+  "city": "LLORENTE", 
+  "code": "cfo"
+ }, 
+ {
+  "city": "HERNANI", 
+  "code": "cfp"
+ }, 
+ {
+  "city": "JIPAPAD", 
+  "code": "cfq"
+ }, 
+ {
+  "city": "GUIUAN", 
+  "code": "cfr"
+ }, 
+ {
+  "city": "GIPORLOS", 
+  "code": "cfs"
+ }, 
+ {
+  "city": "CAN-AVID", 
+  "code": "cft"
+ }, 
+ {
+  "city": "GENERAL MACARTHUR", 
+  "code": "cfu"
+ }, 
+ {
+  "city": "BALANGKAYAN", 
+  "code": "cfv"
+ }, 
+ {
+  "city": "DOLORES", 
+  "code": "cfw"
+ }, 
+ {
+  "city": "CITY OF BORONGAN (Capital)", 
+  "code": "cfx"
+ }, 
+ {
+  "city": "ARTECHE", 
+  "code": "cfy"
+ }, 
+ {
+  "city": "BALANGIGA", 
+  "code": "cfz"
+ }, 
+ {
+  "city": "MAMBAJAO (Capital)", 
+  "code": "cga"
+ }, 
+ {
+  "city": "MAHINOG", 
+  "code": "cgb"
+ }, 
+ {
+  "city": "CATARMAN", 
+  "code": "cgc"
+ }, 
+ {
+  "city": "GUINSILIBAN", 
+  "code": "cgd"
+ }, 
+ {
+  "city": "VILLABA", 
+  "code": "cge"
+ }, 
+ {
+  "city": "TOLOSA", 
+  "code": "cgf"
+ }, 
+ {
+  "city": "TUNGA", 
+  "code": "cgg"
+ }, 
+ {
+  "city": "TABANGO", 
+  "code": "cgh"
+ }, 
+ {
+  "city": "TABONTABON", 
+  "code": "cgi"
+ }, 
+ {
+  "city": "TANAUAN", 
+  "code": "cgj"
+ }, 
+ {
+  "city": "SANTA FE", 
+  "code": "cgk"
+ }, 
+ {
+  "city": "SAN ISIDRO", 
+  "code": "cgl"
+ }, 
+ {
+  "city": "SAN MIGUEL", 
+  "code": "cgm"
+ }, 
+ {
+  "city": "TACLOBAN CITY (Capital)", 
+  "code": "cgn"
+ }, 
+ {
+  "city": "PALOMPON", 
+  "code": "cgo"
+ }, 
+ {
+  "city": "PASTRANA", 
+  "code": "cgp"
+ }, 
+ {
+  "city": "PALO", 
+  "code": "cgq"
+ }, 
+ {
+  "city": "MERIDA", 
+  "code": "cgr"
+ }, 
+ {
+  "city": "MATALOM", 
+  "code": "cgs"
+ }, 
+ {
+  "city": "ORMOC CITY", 
+  "code": "cgt"
+ }, 
+ {
+  "city": "MAYORGA", 
+  "code": "cgu"
+ }, 
+ {
+  "city": "MAHAPLAG", 
+  "code": "cgv"
+ }, 
+ {
+  "city": "MATAG-OB", 
+  "code": "cgw"
+ }, 
+ {
+  "city": "LEYTE", 
+  "code": "cgx"
+ }, 
+ {
+  "city": "KANANGA", 
+  "code": "cgy"
+ }, 
+ {
+  "city": "LA PAZ", 
+  "code": "cgz"
+ }, 
+ {
+  "city": "JULITA", 
+  "code": "cha"
+ }, 
+ {
+  "city": "MACARTHUR", 
+  "code": "chb"
+ }, 
+ {
+  "city": "JAVIER (BUGHO)", 
+  "code": "chc"
+ }, 
+ {
+  "city": "JARO", 
+  "code": "chd"
+ }, 
+ {
+  "city": "HINDANG", 
+  "code": "che"
+ }, 
+ {
+  "city": "INOPACAN", 
+  "code": "chf"
+ }, 
+ {
+  "city": "ISABEL", 
+  "code": "chg"
+ }, 
+ {
+  "city": "HILONGOS", 
+  "code": "chh"
+ }, 
+ {
+  "city": "DULAG", 
+  "code": "chi"
+ }, 
+ {
+  "city": "CAPOOCAN", 
+  "code": "chj"
+ }, 
+ {
+  "city": "CALUBIAN", 
+  "code": "chk"
+ }, 
+ {
+  "city": "CARIGARA", 
+  "code": "chl"
+ }, 
+ {
+  "city": "DAGAMI", 
+  "code": "chm"
+ }, 
+ {
+  "city": "BATO", 
+  "code": "chn"
+ }, 
+ {
+  "city": "BARUGO", 
+  "code": "cho"
+ }, 
+ {
+  "city": "BURAUEN", 
+  "code": "chp"
+ }, 
+ {
+  "city": "ALBUERA", 
+  "code": "chq"
+ }, 
+ {
+  "city": "BABATNGON", 
+  "code": "chr"
+ }, 
+ {
+  "city": "MARIPIPI", 
+  "code": "chs"
+ }, 
+ {
+  "city": "ABUYOG", 
+  "code": "cht"
+ }, 
+ {
+  "city": "KAWAYAN", 
+  "code": "chu"
+ }, 
+ {
+  "city": "CITY OF BAYBAY", 
+  "code": "chv"
+ }, 
+ {
+  "city": "ALANGALANG", 
+  "code": "chw"
+ }, 
+ {
+  "city": "CAIBIRAN", 
+  "code": "chx"
+ }, 
+ {
+  "city": "CULABA", 
+  "code": "chy"
+ }, 
+ {
+  "city": "CABUCGAYAN", 
+  "code": "chz"
+ }, 
+ {
+  "city": "VICTORIA", 
+  "code": "cia"
+ }, 
+ {
+  "city": "ALMERIA", 
+  "code": "cib"
+ }, 
+ {
+  "city": "BILIRAN", 
+  "code": "cic"
+ }, 
+ {
+  "city": "SILVINO LOBOS", 
+  "code": "cid"
+ }, 
+ {
+  "city": "SAN ROQUE", 
+  "code": "cie"
+ }, 
+ {
+  "city": "SAN ANTONIO", 
+  "code": "cif"
+ }, 
+ {
+  "city": "SAN ISIDRO", 
+  "code": "cig"
+ }, 
+ {
+  "city": "SAN JOSE", 
+  "code": "cih"
+ }, 
+ {
+  "city": "SAN VICENTE", 
+  "code": "cii"
+ }, 
+ {
+  "city": "ROSARIO", 
+  "code": "cij"
+ }, 
+ {
+  "city": "PAMBUJAN", 
+  "code": "cik"
+ }, 
+ {
+  "city": "MAPANAS", 
+  "code": "cil"
+ }, 
+ {
+  "city": "LAVEZARES", 
+  "code": "cim"
+ }, 
+ {
+  "city": "PALAPAG", 
+  "code": "cin"
+ }, 
+ {
+  "city": "LAPINIG", 
+  "code": "cio"
+ }, 
+ {
+  "city": "LAS NAVAS", 
+  "code": "cip"
+ }, 
+ {
+  "city": "GAMAY", 
+  "code": "ciq"
+ }, 
+ {
+  "city": "CAPUL", 
+  "code": "cir"
+ }, 
+ {
+  "city": "CATUBIG", 
+  "code": "cis"
+ }, 
+ {
+  "city": "LAOANG", 
+  "code": "cit"
+ }, 
+ {
+  "city": "CATARMAN (Capital)", 
+  "code": "ciu"
+ }, 
+ {
+  "city": "BIRI", 
+  "code": "civ"
+ }, 
+ {
+  "city": "BOBON", 
+  "code": "ciw"
+ }, 
+ {
+  "city": "SHARIFF SAYDONA MUSTAPHA", 
+  "code": "cix"
+ }, 
+ {
+  "city": "ALLEN", 
+  "code": "ciy"
+ }, 
+ {
+  "city": "DATU SALIBO", 
+  "code": "ciz"
+ }, 
+ {
+  "city": "DATU HOFFER AMPATUAN", 
+  "code": "cja"
+ }, 
+ {
+  "city": "PANDAG", 
+  "code": "cjb"
+ }, 
+ {
+  "city": "NORTHERN KABUNTALAN", 
+  "code": "cjc"
+ }, 
+ {
+  "city": "MANGUDADATU", 
+  "code": "cjd"
+ }, 
+ {
+  "city": "DATU BLAH T. SINSUAT", 
+  "code": "cje"
+ }, 
+ {
+  "city": "DATU UNSAY", 
+  "code": "cjf"
+ }, 
+ {
+  "city": "DATU ABDULLAH SANGKI", 
+  "code": "cjg"
+ }, 
+ {
+  "city": "DATU SAUDI-AMPATUAN", 
+  "code": "cjh"
+ }, 
+ {
+  "city": "DATU ANGGAL MIDTIMBANG", 
+  "code": "cji"
+ }, 
+ {
+  "city": "GUINDULUNGAN", 
+  "code": "cjj"
+ }, 
+ {
+  "city": "PAGLAT", 
+  "code": "cjk"
+ }, 
+ {
+  "city": "SULTAN MASTURA", 
+  "code": "cjl"
+ }, 
+ {
+  "city": "TALITAY", 
+  "code": "cjm"
+ }, 
+ {
+  "city": "PAGAGAWAN", 
+  "code": "cjn"
+ }, 
+ {
+  "city": "MAMASAPANO", 
+  "code": "cjo"
+ }, 
+ {
+  "city": "GEN. S.K. PENDATUN", 
+  "code": "cjp"
+ }, 
+ {
+  "city": "SOUTH UPI", 
+  "code": "cjq"
+ }, 
+ {
+  "city": "BARIRA", 
+  "code": "cjr"
+ }, 
+ {
+  "city": "TALAYAN", 
+  "code": "cjs"
+ }, 
+ {
+  "city": "KABUNTALAN (TUMBAO)", 
+  "code": "cjt"
+ }, 
+ {
+  "city": "UPI", 
+  "code": "cju"
+ }, 
+ {
+  "city": "SULTAN SA BARONGIS (LAMBAYONG)", 
+  "code": "cjv"
+ }, 
+ {
+  "city": "PAGALUNGAN", 
+  "code": "cjw"
+ }, 
+ {
+  "city": "SULTAN KUDARAT (NULING)", 
+  "code": "cjx"
+ }, 
+ {
+  "city": "PARANG", 
+  "code": "cjy"
+ }, 
+ {
+  "city": "SHARIFF AGUAK (MAGANOY) (Capital)", 
+  "code": "cjz"
+ }, 
+ {
+  "city": "MATANOG", 
+  "code": "cka"
+ }, 
+ {
+  "city": "DATU ODIN SINSUAT (DINAIG)", 
+  "code": "ckb"
+ }, 
+ {
+  "city": "DATU PIANG", 
+  "code": "ckc"
+ }, 
+ {
+  "city": "DATU PAGLAS", 
+  "code": "ckd"
+ }, 
+ {
+  "city": "BULUAN", 
+  "code": "cke"
+ }, 
+ {
+  "city": "BULDON", 
+  "code": "ckf"
+ }, 
+ {
+  "city": "PANDAMI", 
+  "code": "ckg"
+ }, 
+ {
+  "city": "AMPATUAN", 
+  "code": "ckh"
+ }, 
+ {
+  "city": "LUGUS", 
+  "code": "cki"
+ }, 
+ {
+  "city": "PANGLIMA ESTINO (NEW PANAMAO)", 
+  "code": "ckj"
+ }, 
+ {
+  "city": "TONGKIL", 
+  "code": "ckk"
+ }, 
+ {
+  "city": "TAPUL", 
+  "code": "ckl"
+ }, 
+ {
+  "city": "TALIPAO", 
+  "code": "ckm"
+ }, 
+ {
+  "city": "SIASI", 
+  "code": "ckn"
+ }, 
+ {
+  "city": "PATIKUL", 
+  "code": "cko"
+ }, 
+ {
+  "city": "PATA", 
+  "code": "ckp"
+ }, 
+ {
+  "city": "PANGUTARAN", 
+  "code": "ckq"
+ }, 
+ {
+  "city": "HADJI PANGLIMA TAHIL (MARUNGGAS)", 
+  "code": "ckr"
+ }, 
+ {
+  "city": "LUUK", 
+  "code": "cks"
+ }, 
+ {
+  "city": "MAIMBUNG", 
+  "code": "ckt"
+ }, 
+ {
+  "city": "OLD PANAMAO", 
+  "code": "cku"
+ }, 
+ {
+  "city": "PARANG", 
+  "code": "ckv"
+ }, 
+ {
+  "city": "KALINGALAN CALUANG", 
+  "code": "ckw"
+ }, 
+ {
+  "city": "JOLO (Capital)", 
+  "code": "ckx"
+ }, 
+ {
+  "city": "INDANAN", 
+  "code": "cky"
+ }, 
+ {
+  "city": "LANGUYAN", 
+  "code": "ckz"
+ }, 
+ {
+  "city": "TURTLE ISLANDS", 
+  "code": "cla"
+ }, 
+ {
+  "city": "SAPA-SAPA", 
+  "code": "clb"
+ }, 
+ {
+  "city": "TANDUBAS", 
+  "code": "clc"
+ }, 
+ {
+  "city": "SITANGKAI", 
+  "code": "cld"
+ }, 
+ {
+  "city": "SOUTH UBIAN", 
+  "code": "cle"
+ }, 
+ {
+  "city": "SIMUNUL", 
+  "code": "clf"
+ }, 
+ {
+  "city": "BONGAO (Capital)", 
+  "code": "clg"
+ }, 
+ {
+  "city": "MAPUN (CAGAYAN DE TAWI-TAWI)", 
+  "code": "clh"
+ }, 
+ {
+  "city": "PANGLIMA SUGALA (BALIMBING)", 
+  "code": "cli"
+ }
+]

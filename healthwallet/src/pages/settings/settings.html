@@ -1,0 +1,31 @@
+<ion-header>
+	<ion-navbar color="primary">
+	    <button ion-button menuToggle>
+	    	<ion-icon name="menu"></ion-icon>
+	    </button>
+	    <ion-title>
+			<img src="assets/img/HealthBlocksBanner.png" style="width:auto; height:40px; vertical-align: middle; display:inline-block" alt="healthblocks" />
+		</ion-title>
+	</ion-navbar>
+	<ion-toolbar color="secondary" class="navbar2">
+		<ion-title>Settings</ion-title>
+	</ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+	
+	<div class="main_content">
+		<ion-list no-lines>
+			<ion-list-header>
+				CHANGE PASSWORD
+			</ion-list-header>
+			<ion-item>
+				<ion-label>Password</ion-label>
+				<ion-input type="password" name="password"></ion-input>
+			</ion-item>
+				
+		</ion-list>
+	</div>
+	
+	<button ion-button color="secondary" block (click)="save();">Save</button>
+</ion-content>

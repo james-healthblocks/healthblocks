@@ -1,0 +1,74 @@
+[
+ {
+  "region": "REGION VI (Western Visayas)", 
+  "code": "006"
+ }, 
+ {
+  "region": "REGION I (Ilocos Region)", 
+  "code": "001"
+ }, 
+ {
+  "region": "ARMM - Autonomous Region in Muslim Mindanao", 
+  "code": "ARM"
+ }, 
+ {
+  "region": "CAR - Cordillera Administrative Region", 
+  "code": "CAR"
+ }, 
+ {
+  "region": "REGION XI (Davao Region)", 
+  "code": "011"
+ }, 
+ {
+  "region": "REGION IV-A (CALABARZON)", 
+  "code": "04A"
+ }, 
+ {
+  "region": "REGION XII (Soccsksargen)", 
+  "code": "012"
+ }, 
+ {
+  "region": "REGION XIII (Caraga)", 
+  "code": "013"
+ }, 
+ {
+  "region": "REGION VIII (Eastern Visayas)", 
+  "code": "008"
+ }, 
+ {
+  "region": "REGION V (Bicol Region)", 
+  "code": "005"
+ }, 
+ {
+  "region": "MIMAROPA Region", 
+  "code": "04B"
+ }, 
+ {
+  "region": "NCR - National Capital Region", 
+  "code": "NCR"
+ }, 
+ {
+  "region": "REGION X (Northern Mindanao)", 
+  "code": "010"
+ }, 
+ {
+  "region": "REGION III (Central Luzon)", 
+  "code": "003"
+ }, 
+ {
+  "region": "REGION VII (Central Visayas)", 
+  "code": "007"
+ }, 
+ {
+  "region": "REGION IX (Zamboanga Peninsula)", 
+  "code": "009"
+ }, 
+ {
+  "region": "REGION II (Cagayan Valley)", 
+  "code": "002"
+ }, 
+ {
+  "region": "NIR - Negros Island Region", 
+  "code": "NIR"
+ }
+]

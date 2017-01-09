@@ -1,0 +1,54 @@
+<ion-header>
+	<ion-navbar color="primary">
+	    <button ion-button menuToggle>
+	    	<ion-icon name="menu"></ion-icon>
+	    </button>
+	    <ion-title>
+			<img src="assets/img/HealthBlocksBanner.png" style="width:auto; height:40px; vertical-align: middle; display:inline-block" alt="healthblocks" />
+		</ion-title>
+	</ion-navbar>
+</ion-header>
+
+<ion-content padding class ="page-landing">
+	
+	<div class="main_content">
+	
+	<ion-list no-lines>
+		<ion-item block margin>
+			<img src="{{qr_img}}"/>
+		</ion-item>
+		<ion-item>
+			<h2 ion-label>UIC</h2>
+			<h1 ion-label>{{uic}}</h1>
+		</ion-item>
+		<ion-item>
+			<h2 ion-label>PHILHEALTH</h2>
+			<h1 ion-label>{{philhealth}}</h1>
+		</ion-item>
+
+	</ion-list>
+	
+	<button ion-button color="secondary" block (click)="viewProfile();">Profile</button>
+	
+	<ion-list no lines>
+		<ion-list-header full>
+			INSURANCE
+			
+			<ion-buttons clear item-right> 
+			<button ion-button icon-only round (click)="addInsurance();">
+				<ion-icon name='add'></ion-icon>
+			</button>
+			</ion-buttons>
+		</ion-list-header>
+		
+		<ion-item *ngFor="let insurance of insuranceList" (click)="viewInsurance(insurance);">
+			<h3>{{insurance.InsuranceName}}</h3>
+			<p>{{insurance.InsuranceNumber}}</p>
+		</ion-item> 
+	</ion-list>
+	</div>
+			
+		
+	
+		
+</ion-content>

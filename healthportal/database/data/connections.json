@@ -1,0 +1,8237 @@
+[
+ {
+  "province": "045", 
+  "city": "aaa", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "043", 
+  "city": "aab", 
+  "region": "010"
+ }, 
+ {
+  "province": "064", 
+  "city": "aac", 
+  "region": "008"
+ }, 
+ {
+  "province": "045", 
+  "city": "aad", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "043", 
+  "city": "aae", 
+  "region": "010"
+ }, 
+ {
+  "province": "064", 
+  "city": "aaf", 
+  "region": "008"
+ }, 
+ {
+  "province": "079", 
+  "city": "aag", 
+  "region": "006"
+ }, 
+ {
+  "province": "079", 
+  "city": "aah", 
+  "region": "006"
+ }, 
+ {
+  "province": "060", 
+  "city": "aai", 
+  "region": "008"
+ }, 
+ {
+  "province": "062", 
+  "city": "aaj", 
+  "region": "005"
+ }, 
+ {
+  "province": "071", 
+  "city": "aak", 
+  "region": "003"
+ }, 
+ {
+  "province": "057", 
+  "city": "aal", 
+  "region": "002"
+ }, 
+ {
+  "province": "057", 
+  "city": "aam", 
+  "region": "002"
+ }, 
+ {
+  "province": "057", 
+  "city": "aan", 
+  "region": "002"
+ }, 
+ {
+  "province": "010", 
+  "city": "aao", 
+  "region": "04A"
+ }, 
+ {
+  "province": "040", 
+  "city": "aap", 
+  "region": "04B"
+ }, 
+ {
+  "province": "074", 
+  "city": "aaq", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "074", 
+  "city": "aar", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "074", 
+  "city": "aas", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "074", 
+  "city": "aat", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "074", 
+  "city": "aau", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "040", 
+  "city": "aav", 
+  "region": "04B"
+ }, 
+ {
+  "province": "040", 
+  "city": "aaw", 
+  "region": "04B"
+ }, 
+ {
+  "province": "030", 
+  "city": "aax", 
+  "region": "006"
+ }, 
+ {
+  "province": "040", 
+  "city": "aay", 
+  "region": "04B"
+ }, 
+ {
+  "province": "040", 
+  "city": "aaz", 
+  "region": "04B"
+ }, 
+ {
+  "province": "040", 
+  "city": "aba", 
+  "region": "04B"
+ }, 
+ {
+  "province": "030", 
+  "city": "abb", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abc", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abd", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abe", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abf", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abg", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abh", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abi", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abj", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abk", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abl", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abm", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abn", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abo", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abp", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abq", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abr", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abs", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abt", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abu", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abv", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abw", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abx", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "aby", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "abz", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "aca", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "acb", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "acc", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "acd", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "ace", 
+  "region": "006"
+ }, 
+ {
+  "province": "055", 
+  "city": "acf", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "acg", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "ach", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aci", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "acj", 
+  "region": "001"
+ }, 
+ {
+  "province": "030", 
+  "city": "ack", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "acl", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "acm", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "acn", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "aco", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "acp", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "acq", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "acr", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "acs", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "act", 
+  "region": "006"
+ }, 
+ {
+  "province": "030", 
+  "city": "acu", 
+  "region": "006"
+ }, 
+ {
+  "province": "055", 
+  "city": "acv", 
+  "region": "001"
+ }, 
+ {
+  "province": "030", 
+  "city": "acw", 
+  "region": "006"
+ }, 
+ {
+  "province": "055", 
+  "city": "acx", 
+  "region": "001"
+ }, 
+ {
+  "province": "030", 
+  "city": "acy", 
+  "region": "006"
+ }, 
+ {
+  "province": "055", 
+  "city": "acz", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "ada", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adb", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adc", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "add", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "ade", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adf", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adg", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adh", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adi", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adj", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adk", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adl", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adm", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adn", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "ado", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adp", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adq", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adr", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "ads", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adt", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adu", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adv", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adw", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adx", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "ady", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "adz", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aea", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aeb", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aec", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aed", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aee", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aef", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aeg", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aeh", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aei", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aej", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aek", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "ael", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aem", 
+  "region": "001"
+ }, 
+ {
+  "province": "055", 
+  "city": "aen", 
+  "region": "001"
+ }, 
+ {
+  "province": "075", 
+  "city": "aeo", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "075", 
+  "city": "aep", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "075", 
+  "city": "aeq", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "057", 
+  "city": "aer", 
+  "region": "002"
+ }, 
+ {
+  "province": "057", 
+  "city": "aes", 
+  "region": "002"
+ }, 
+ {
+  "province": "010", 
+  "city": "aet", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "aeu", 
+  "region": "04A"
+ }, 
+ {
+  "province": "057", 
+  "city": "aev", 
+  "region": "002"
+ }, 
+ {
+  "province": "075", 
+  "city": "aew", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "010", 
+  "city": "aex", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "aey", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "aez", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afa", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afb", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afc", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afd", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afe", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "aff", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afg", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afh", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afi", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afj", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afk", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afl", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afm", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afn", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afo", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afp", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afq", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afr", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afs", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "aft", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afu", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afv", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afw", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afx", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afy", 
+  "region": "04A"
+ }, 
+ {
+  "province": "010", 
+  "city": "afz", 
+  "region": "04A"
+ }, 
+ {
+  "province": "071", 
+  "city": "aga", 
+  "region": "003"
+ }, 
+ {
+  "province": "071", 
+  "city": "agb", 
+  "region": "003"
+ }, 
+ {
+  "province": "010", 
+  "city": "agc", 
+  "region": "04A"
+ }, 
+ {
+  "province": "071", 
+  "city": "agd", 
+  "region": "003"
+ }, 
+ {
+  "province": "010", 
+  "city": "age", 
+  "region": "04A"
+ }, 
+ {
+  "province": "071", 
+  "city": "agf", 
+  "region": "003"
+ }, 
+ {
+  "province": "071", 
+  "city": "agg", 
+  "region": "003"
+ }, 
+ {
+  "province": "071", 
+  "city": "agh", 
+  "region": "003"
+ }, 
+ {
+  "province": "071", 
+  "city": "agi", 
+  "region": "003"
+ }, 
+ {
+  "province": "071", 
+  "city": "agj", 
+  "region": "003"
+ }, 
+ {
+  "province": "071", 
+  "city": "agk", 
+  "region": "003"
+ }, 
+ {
+  "province": "071", 
+  "city": "agl", 
+  "region": "003"
+ }, 
+ {
+  "province": "071", 
+  "city": "agm", 
+  "region": "003"
+ }, 
+ {
+  "province": "062", 
+  "city": "agn", 
+  "region": "005"
+ }, 
+ {
+  "province": "071", 
+  "city": "ago", 
+  "region": "003"
+ }, 
+ {
+  "province": "062", 
+  "city": "agp", 
+  "region": "005"
+ }, 
+ {
+  "province": "071", 
+  "city": "agq", 
+  "region": "003"
+ }, 
+ {
+  "province": "062", 
+  "city": "agr", 
+  "region": "005"
+ }, 
+ {
+  "province": "062", 
+  "city": "ags", 
+  "region": "005"
+ }, 
+ {
+  "province": "062", 
+  "city": "agt", 
+  "region": "005"
+ }, 
+ {
+  "province": "062", 
+  "city": "agu", 
+  "region": "005"
+ }, 
+ {
+  "province": "062", 
+  "city": "agv", 
+  "region": "005"
+ }, 
+ {
+  "province": "062", 
+  "city": "agw", 
+  "region": "005"
+ }, 
+ {
+  "province": "062", 
+  "city": "agx", 
+  "region": "005"
+ }, 
+ {
+  "province": "062", 
+  "city": "agy", 
+  "region": "005"
+ }, 
+ {
+  "province": "062", 
+  "city": "agz", 
+  "region": "005"
+ }, 
+ {
+  "province": "062", 
+  "city": "aha", 
+  "region": "005"
+ }, 
+ {
+  "province": "062", 
+  "city": "ahb", 
+  "region": "005"
+ }, 
+ {
+  "province": "062", 
+  "city": "ahc", 
+  "region": "005"
+ }, 
+ {
+  "province": "079", 
+  "city": "ahd", 
+  "region": "006"
+ }, 
+ {
+  "province": "079", 
+  "city": "ahe", 
+  "region": "006"
+ }, 
+ {
+  "province": "079", 
+  "city": "ahf", 
+  "region": "006"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahg", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahh", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahi", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahj", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahk", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahl", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahm", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahn", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "aho", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahp", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahq", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahr", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahs", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "aht", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahu", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahv", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahw", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahx", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahy", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "ahz", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "aia", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "aib", 
+  "region": "008"
+ }, 
+ {
+  "province": "086", 
+  "city": "aic", 
+  "region": "011"
+ }, 
+ {
+  "province": "060", 
+  "city": "aid", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "aie", 
+  "region": "008"
+ }, 
+ {
+  "province": "060", 
+  "city": "aif", 
+  "region": "008"
+ }, 
+ {
+  "province": "086", 
+  "city": "aig", 
+  "region": "011"
+ }, 
+ {
+  "province": "086", 
+  "city": "aih", 
+  "region": "011"
+ }, 
+ {
+  "province": "086", 
+  "city": "aii", 
+  "region": "011"
+ }, 
+ {
+  "province": "025", 
+  "city": "aij", 
+  "region": "011"
+ }, 
+ {
+  "province": "086", 
+  "city": "aik", 
+  "region": "011"
+ }, 
+ {
+  "province": "025", 
+  "city": "ail", 
+  "region": "011"
+ }, 
+ {
+  "province": "025", 
+  "city": "aim", 
+  "region": "011"
+ }, 
+ {
+  "province": "025", 
+  "city": "ain", 
+  "region": "011"
+ }, 
+ {
+  "province": "025", 
+  "city": "aio", 
+  "region": "011"
+ }, 
+ {
+  "province": "025", 
+  "city": "aip", 
+  "region": "011"
+ }, 
+ {
+  "province": "025", 
+  "city": "aiq", 
+  "region": "011"
+ }, 
+ {
+  "province": "025", 
+  "city": "air", 
+  "region": "011"
+ }, 
+ {
+  "province": "025", 
+  "city": "ais", 
+  "region": "011"
+ }, 
+ {
+  "province": "025", 
+  "city": "ait", 
+  "region": "011"
+ }, 
+ {
+  "province": "025", 
+  "city": "aiu", 
+  "region": "011"
+ }, 
+ {
+  "province": "007", 
+  "city": "aiv", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "007", 
+  "city": "aiw", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "007", 
+  "city": "aix", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "007", 
+  "city": "aiy", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "007", 
+  "city": "aiz", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "007", 
+  "city": "aja", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "007", 
+  "city": "ajb", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "007", 
+  "city": "ajc", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "007", 
+  "city": "ajd", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "007", 
+  "city": "aje", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "007", 
+  "city": "ajf", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajg", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajh", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "aji", 
+  "region": "008"
+ }, 
+ {
+  "province": "007", 
+  "city": "ajj", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajk", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajl", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajm", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajn", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajo", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajp", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajq", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajr", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajs", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajt", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "aju", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajv", 
+  "region": "008"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajw", 
+  "region": "008"
+ }, 
+ {
+  "province": "068", 
+  "city": "ajx", 
+  "region": "013"
+ }, 
+ {
+  "province": "064", 
+  "city": "ajy", 
+  "region": "008"
+ }, 
+ {
+  "province": "068", 
+  "city": "ajz", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "aka", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akb", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akc", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akd", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "ake", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akf", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akg", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akh", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "aki", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akj", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akk", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akl", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akm", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akn", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "ako", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akp", 
+  "region": "013"
+ }, 
+ {
+  "province": "068", 
+  "city": "akq", 
+  "region": "013"
+ }, 
+ {
+  "province": "043", 
+  "city": "akr", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "aks", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "akt", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "aku", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "akv", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "akw", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "akx", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "aky", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "akz", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "ala", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "alb", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "alc", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "ald", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "ale", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "alf", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "alg", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "alh", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "ali", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "alj", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "alk", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "all", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "alm", 
+  "region": "010"
+ }, 
+ {
+  "province": "045", 
+  "city": "aln", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "alo", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "043", 
+  "city": "alp", 
+  "region": "010"
+ }, 
+ {
+  "province": "043", 
+  "city": "alq", 
+  "region": "010"
+ }, 
+ {
+  "province": "045", 
+  "city": "alr", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "als", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "alt", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "alu", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "alv", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "alw", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "alx", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "aly", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "alz", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "ama", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amb", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amc", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amd", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "ame", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amf", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amg", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amh", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "ami", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amj", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amk", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "aml", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amm", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amn", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amo", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amp", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amq", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "amr", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "045", 
+  "city": "ams", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "076", 
+  "city": "amt", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "076", 
+  "city": "amu", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "039", 
+  "city": "amv", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "039", 
+  "city": "amw", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "081", 
+  "city": "amx", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "039", 
+  "city": "amy", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "032", 
+  "city": "amz", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "027", 
+  "city": "ana", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "011", 
+  "city": "anb", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "011", 
+  "city": "anc", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "and", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "050", 
+  "city": "ane", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "anf", 
+  "region": "002"
+ }, 
+ {
+  "province": "033", 
+  "city": "ang", 
+  "region": "001"
+ }, 
+ {
+  "province": "050", 
+  "city": "anh", 
+  "region": "002"
+ }, 
+ {
+  "province": "033", 
+  "city": "ani", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "anj", 
+  "region": "001"
+ }, 
+ {
+  "province": "031", 
+  "city": "ank", 
+  "region": "002"
+ }, 
+ {
+  "province": "028", 
+  "city": "anl", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "anm", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "ann", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "ano", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "anp", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "anq", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "anr", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "ans", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "ant", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "anu", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "anv", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "anw", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "anx", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "any", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "anz", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aoa", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aob", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aoc", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aod", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aoe", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aof", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aog", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aoh", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aoi", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aoj", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aok", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aol", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aom", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aon", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aoo", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aop", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aoq", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aor", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aos", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aot", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aou", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aov", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aow", 
+  "region": "001"
+ }, 
+ {
+  "province": "029", 
+  "city": "aox", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "aoy", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "aoz", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "apa", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "apb", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "apc", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "apd", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "ape", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "apf", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "apg", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "aph", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "api", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "apj", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "apk", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "apl", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "apm", 
+  "region": "001"
+ }, 
+ {
+  "province": "028", 
+  "city": "apn", 
+  "region": "001"
+ }, 
+ {
+  "province": "031", 
+  "city": "apo", 
+  "region": "002"
+ }, 
+ {
+  "province": "028", 
+  "city": "app", 
+  "region": "001"
+ }, 
+ {
+  "province": "031", 
+  "city": "apq", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "apr", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aps", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "apt", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "apu", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "apv", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "apw", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "apx", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "apy", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "apz", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqa", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqb", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqc", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqd", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqe", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqf", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqg", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqh", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqi", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqj", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqk", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aql", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqm", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqn", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqo", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqp", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqq", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqr", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqs", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqt", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqu", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqv", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqw", 
+  "region": "002"
+ }, 
+ {
+  "province": "033", 
+  "city": "aqx", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "aqy", 
+  "region": "001"
+ }, 
+ {
+  "province": "031", 
+  "city": "aqz", 
+  "region": "002"
+ }, 
+ {
+  "province": "031", 
+  "city": "ara", 
+  "region": "002"
+ }, 
+ {
+  "province": "033", 
+  "city": "arb", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "arc", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "ard", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "are", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "arf", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "arg", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "arh", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "ari", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "arj", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "ark", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "arl", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "arm", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "arn", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "aro", 
+  "region": "001"
+ }, 
+ {
+  "province": "033", 
+  "city": "arp", 
+  "region": "001"
+ }, 
+ {
+  "province": "050", 
+  "city": "arq", 
+  "region": "002"
+ }, 
+ {
+  "province": "050", 
+  "city": "arr", 
+  "region": "002"
+ }, 
+ {
+  "province": "033", 
+  "city": "ars", 
+  "region": "001"
+ }, 
+ {
+  "province": "050", 
+  "city": "art", 
+  "region": "002"
+ }, 
+ {
+  "province": "050", 
+  "city": "aru", 
+  "region": "002"
+ }, 
+ {
+  "province": "050", 
+  "city": "arv", 
+  "region": "002"
+ }, 
+ {
+  "province": "050", 
+  "city": "arw", 
+  "region": "002"
+ }, 
+ {
+  "province": "050", 
+  "city": "arx", 
+  "region": "002"
+ }, 
+ {
+  "province": "050", 
+  "city": "ary", 
+  "region": "002"
+ }, 
+ {
+  "province": "050", 
+  "city": "arz", 
+  "region": "002"
+ }, 
+ {
+  "province": "050", 
+  "city": "asa", 
+  "region": "002"
+ }, 
+ {
+  "province": "050", 
+  "city": "asb", 
+  "region": "002"
+ }, 
+ {
+  "province": "050", 
+  "city": "asc", 
+  "region": "002"
+ }, 
+ {
+  "province": "050", 
+  "city": "asd", 
+  "region": "002"
+ }, 
+ {
+  "province": "009", 
+  "city": "ase", 
+  "region": "002"
+ }, 
+ {
+  "province": "009", 
+  "city": "asf", 
+  "region": "002"
+ }, 
+ {
+  "province": "009", 
+  "city": "asg", 
+  "region": "002"
+ }, 
+ {
+  "province": "009", 
+  "city": "ash", 
+  "region": "002"
+ }, 
+ {
+  "province": "009", 
+  "city": "asi", 
+  "region": "002"
+ }, 
+ {
+  "province": "009", 
+  "city": "asj", 
+  "region": "002"
+ }, 
+ {
+  "province": "001", 
+  "city": "ask", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "asl", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "asm", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "asn", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "aso", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "asp", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "asq", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "asr", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "ass", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "ast", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "asu", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "asv", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "asw", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "asx", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "asy", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "asz", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "ata", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "atb", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "atc", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "atd", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "ate", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "atf", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "atg", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "ath", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "ati", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "001", 
+  "city": "atj", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "015", 
+  "city": "atk", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "atl", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "atm", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "atn", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "ato", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "atp", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "atq", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "atr", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "ats", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "att", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "atu", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "atv", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "atw", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "atx", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "aty", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "atz", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "aua", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "aub", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "auc", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "aud", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "aue", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "auf", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "aug", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "auh", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "aui", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "auj", 
+  "region": "002"
+ }, 
+ {
+  "province": "015", 
+  "city": "auk", 
+  "region": "002"
+ }, 
+ {
+  "province": "011", 
+  "city": "aul", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "011", 
+  "city": "aum", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "015", 
+  "city": "aun", 
+  "region": "002"
+ }, 
+ {
+  "province": "011", 
+  "city": "auo", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "011", 
+  "city": "aup", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "011", 
+  "city": "auq", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "011", 
+  "city": "aur", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "011", 
+  "city": "aus", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "011", 
+  "city": "aut", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "011", 
+  "city": "auu", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "011", 
+  "city": "auv", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "011", 
+  "city": "auw", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "044", 
+  "city": "aux", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "011", 
+  "city": "auy", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "044", 
+  "city": "auz", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "044", 
+  "city": "ava", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "044", 
+  "city": "avb", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "044", 
+  "city": "avc", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "044", 
+  "city": "avd", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "044", 
+  "city": "ave", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "044", 
+  "city": "avf", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "044", 
+  "city": "avg", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "044", 
+  "city": "avh", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "027", 
+  "city": "avi", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "027", 
+  "city": "avj", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "027", 
+  "city": "avk", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "027", 
+  "city": "avl", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "027", 
+  "city": "avm", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "027", 
+  "city": "avn", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "027", 
+  "city": "avo", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "027", 
+  "city": "avp", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "027", 
+  "city": "avq", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "027", 
+  "city": "avr", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "032", 
+  "city": "avs", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "032", 
+  "city": "avt", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "032", 
+  "city": "avu", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "032", 
+  "city": "avv", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "032", 
+  "city": "avw", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "032", 
+  "city": "avx", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "032", 
+  "city": "avy", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "081", 
+  "city": "avz", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "081", 
+  "city": "awa", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "081", 
+  "city": "awb", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "081", 
+  "city": "awc", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "081", 
+  "city": "awd", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "081", 
+  "city": "awe", 
+  "region": "CAR"
+ }, 
+ {
+  "province": "039", 
+  "city": "awf", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "039", 
+  "city": "awg", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "039", 
+  "city": "awh", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "039", 
+  "city": "awi", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "039", 
+  "city": "awj", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "039", 
+  "city": "awk", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "039", 
+  "city": "awl", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "039", 
+  "city": "awm", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "039", 
+  "city": "awn", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "076", 
+  "city": "awo", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "039", 
+  "city": "awp", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "076", 
+  "city": "awq", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "076", 
+  "city": "awr", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "076", 
+  "city": "aws", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "076", 
+  "city": "awt", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "039", 
+  "city": "awu", 
+  "region": "NCR"
+ }, 
+ {
+  "province": "069", 
+  "city": "awv", 
+  "region": "003"
+ }, 
+ {
+  "province": "077", 
+  "city": "aww", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "awx", 
+  "region": "003"
+ }, 
+ {
+  "province": "077", 
+  "city": "awy", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "awz", 
+  "region": "003"
+ }, 
+ {
+  "province": "058", 
+  "city": "axa", 
+  "region": "04A"
+ }, 
+ {
+  "province": "077", 
+  "city": "axb", 
+  "region": "003"
+ }, 
+ {
+  "province": "077", 
+  "city": "axc", 
+  "region": "003"
+ }, 
+ {
+  "province": "021", 
+  "city": "axd", 
+  "region": "04A"
+ }, 
+ {
+  "province": "014", 
+  "city": "axe", 
+  "region": "003"
+ }, 
+ {
+  "province": "034", 
+  "city": "axf", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "axg", 
+  "region": "04A"
+ }, 
+ {
+  "province": "059", 
+  "city": "axh", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "axi", 
+  "region": "04B"
+ }, 
+ {
+  "province": "022", 
+  "city": "axj", 
+  "region": "007"
+ }, 
+ {
+  "province": "052", 
+  "city": "axk", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "axl", 
+  "region": "04B"
+ }, 
+ {
+  "province": "012", 
+  "city": "axm", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axn", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axo", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axp", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axq", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axr", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axs", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axt", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axu", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axv", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axw", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axx", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axy", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "axz", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "aya", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayb", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayc", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayd", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "aye", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayf", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayg", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayh", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayi", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayj", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayk", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayl", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "aym", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayn", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayo", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayp", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayq", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayr", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ays", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayt", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayu", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayv", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayw", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayx", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayy", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "ayz", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "aza", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "azb", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "azc", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "azd", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "aze", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "azf", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "azg", 
+  "region": "007"
+ }, 
+ {
+  "province": "012", 
+  "city": "azh", 
+  "region": "007"
+ }, 
+ {
+  "province": "053", 
+  "city": "azi", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azj", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azk", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azl", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azm", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azn", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azo", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azp", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azq", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azr", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azs", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azt", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azu", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azv", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azw", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azx", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azy", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "azz", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "baa", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "bab", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "bac", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "bad", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "bae", 
+  "region": "04B"
+ }, 
+ {
+  "province": "053", 
+  "city": "baf", 
+  "region": "04B"
+ }, 
+ {
+  "province": "051", 
+  "city": "bag", 
+  "region": "04B"
+ }, 
+ {
+  "province": "051", 
+  "city": "bah", 
+  "region": "04B"
+ }, 
+ {
+  "province": "051", 
+  "city": "bai", 
+  "region": "04B"
+ }, 
+ {
+  "province": "051", 
+  "city": "baj", 
+  "region": "04B"
+ }, 
+ {
+  "province": "051", 
+  "city": "bak", 
+  "region": "04B"
+ }, 
+ {
+  "province": "051", 
+  "city": "bal", 
+  "region": "04B"
+ }, 
+ {
+  "province": "051", 
+  "city": "bam", 
+  "region": "04B"
+ }, 
+ {
+  "province": "051", 
+  "city": "ban", 
+  "region": "04B"
+ }, 
+ {
+  "province": "051", 
+  "city": "bao", 
+  "region": "04B"
+ }, 
+ {
+  "province": "051", 
+  "city": "bap", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "baq", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "bar", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "bas", 
+  "region": "04B"
+ }, 
+ {
+  "province": "051", 
+  "city": "bat", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "bau", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "bav", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "baw", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "bax", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "bay", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "baz", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "bba", 
+  "region": "04B"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbb", 
+  "region": "007"
+ }, 
+ {
+  "province": "052", 
+  "city": "bbc", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "bbd", 
+  "region": "04B"
+ }, 
+ {
+  "province": "052", 
+  "city": "bbe", 
+  "region": "04B"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbf", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbg", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbh", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbi", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbj", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbk", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbl", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbm", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbn", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbo", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbp", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbq", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbr", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbs", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbt", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbu", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbv", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbw", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbx", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bby", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bbz", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bca", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcb", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcc", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcd", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bce", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcf", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcg", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bch", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bci", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcj", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bck", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcl", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcm", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcn", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bco", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcp", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcq", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcr", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcs", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bct", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcu", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcv", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcw", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcx", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcy", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bcz", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bda", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bdb", 
+  "region": "007"
+ }, 
+ {
+  "province": "022", 
+  "city": "bdc", 
+  "region": "007"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdd", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bde", 
+  "region": "04B"
+ }, 
+ {
+  "province": "022", 
+  "city": "bdf", 
+  "region": "007"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdg", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdh", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdi", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdj", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdk", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdl", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdm", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdn", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdo", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdp", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdq", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bdr", 
+  "region": "04B"
+ }, 
+ {
+  "province": "059", 
+  "city": "bds", 
+  "region": "04B"
+ }, 
+ {
+  "province": "034", 
+  "city": "bdt", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bdu", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bdv", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bdw", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bdx", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bdy", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bdz", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bea", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "beb", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bec", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bed", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bee", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bef", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "beg", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "beh", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bei", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bej", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bek", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bel", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bem", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "ben", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "beo", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bep", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "beq", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "ber", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bes", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bet", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "beu", 
+  "region": "04A"
+ }, 
+ {
+  "province": "034", 
+  "city": "bev", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bew", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bex", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bey", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bez", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfa", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfb", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfc", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfd", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfe", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bff", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfg", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfh", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfi", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfj", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfk", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfl", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfm", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfn", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfo", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bfp", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfq", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bfr", 
+  "region": "04A"
+ }, 
+ {
+  "province": "021", 
+  "city": "bfs", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bft", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bfu", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bfv", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bfw", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bfx", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bfy", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bfz", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bga", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgb", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgc", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgd", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bge", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgf", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgg", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgh", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgi", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgj", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgk", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgl", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgm", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgn", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgo", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgp", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgq", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgr", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgs", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgt", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgu", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgv", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgw", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgx", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgy", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bgz", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bha", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bhb", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bhc", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bhd", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bhe", 
+  "region": "04A"
+ }, 
+ {
+  "province": "056", 
+  "city": "bhf", 
+  "region": "04A"
+ }, 
+ {
+  "province": "061", 
+  "city": "bhg", 
+  "region": "007"
+ }, 
+ {
+  "province": "061", 
+  "city": "bhh", 
+  "region": "007"
+ }, 
+ {
+  "province": "061", 
+  "city": "bhi", 
+  "region": "007"
+ }, 
+ {
+  "province": "061", 
+  "city": "bhj", 
+  "region": "007"
+ }, 
+ {
+  "province": "061", 
+  "city": "bhk", 
+  "region": "007"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhl", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhm", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhn", 
+  "region": "003"
+ }, 
+ {
+  "province": "061", 
+  "city": "bho", 
+  "region": "007"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhp", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhq", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhr", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhs", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bht", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhu", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhv", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhw", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhx", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhy", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bhz", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bia", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bib", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bic", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bid", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bie", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bif", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "big", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bih", 
+  "region": "003"
+ }, 
+ {
+  "province": "014", 
+  "city": "bii", 
+  "region": "003"
+ }, 
+ {
+  "province": "058", 
+  "city": "bij", 
+  "region": "04A"
+ }, 
+ {
+  "province": "058", 
+  "city": "bik", 
+  "region": "04A"
+ }, 
+ {
+  "province": "058", 
+  "city": "bil", 
+  "region": "04A"
+ }, 
+ {
+  "province": "058", 
+  "city": "bim", 
+  "region": "04A"
+ }, 
+ {
+  "province": "058", 
+  "city": "bin", 
+  "region": "04A"
+ }, 
+ {
+  "province": "058", 
+  "city": "bio", 
+  "region": "04A"
+ }, 
+ {
+  "province": "058", 
+  "city": "bip", 
+  "region": "04A"
+ }, 
+ {
+  "province": "058", 
+  "city": "biq", 
+  "region": "04A"
+ }, 
+ {
+  "province": "058", 
+  "city": "bir", 
+  "region": "04A"
+ }, 
+ {
+  "province": "058", 
+  "city": "bis", 
+  "region": "04A"
+ }, 
+ {
+  "province": "058", 
+  "city": "bit", 
+  "region": "04A"
+ }, 
+ {
+  "province": "077", 
+  "city": "biu", 
+  "region": "003"
+ }, 
+ {
+  "province": "058", 
+  "city": "biv", 
+  "region": "04A"
+ }, 
+ {
+  "province": "058", 
+  "city": "biw", 
+  "region": "04A"
+ }, 
+ {
+  "province": "077", 
+  "city": "bix", 
+  "region": "003"
+ }, 
+ {
+  "province": "077", 
+  "city": "biy", 
+  "region": "003"
+ }, 
+ {
+  "province": "077", 
+  "city": "biz", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bja", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjb", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjc", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjd", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bje", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjf", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjg", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjh", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bji", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjj", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjk", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjl", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjm", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjn", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjo", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjp", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjq", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjr", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjs", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjt", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bju", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjv", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjw", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjx", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjy", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bjz", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bka", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bkb", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bkc", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bkd", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bke", 
+  "region": "003"
+ }, 
+ {
+  "province": "008", 
+  "city": "bkf", 
+  "region": "003"
+ }, 
+ {
+  "province": "008", 
+  "city": "bkg", 
+  "region": "003"
+ }, 
+ {
+  "province": "008", 
+  "city": "bkh", 
+  "region": "003"
+ }, 
+ {
+  "province": "008", 
+  "city": "bki", 
+  "region": "003"
+ }, 
+ {
+  "province": "008", 
+  "city": "bkj", 
+  "region": "003"
+ }, 
+ {
+  "province": "049", 
+  "city": "bkk", 
+  "region": "003"
+ }, 
+ {
+  "province": "008", 
+  "city": "bkl", 
+  "region": "003"
+ }, 
+ {
+  "province": "008", 
+  "city": "bkm", 
+  "region": "003"
+ }, 
+ {
+  "province": "008", 
+  "city": "bkn", 
+  "region": "003"
+ }, 
+ {
+  "province": "008", 
+  "city": "bko", 
+  "region": "003"
+ }, 
+ {
+  "province": "008", 
+  "city": "bkp", 
+  "region": "003"
+ }, 
+ {
+  "province": "008", 
+  "city": "bkq", 
+  "region": "003"
+ }, 
+ {
+  "province": "008", 
+  "city": "bkr", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "bks", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "bkt", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "bku", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "bkv", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "bkw", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "bkx", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "bky", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "bkz", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "bla", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "blb", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "blc", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "bld", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "ble", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "blf", 
+  "region": "003"
+ }, 
+ {
+  "province": "069", 
+  "city": "blg", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blh", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "bli", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blj", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blk", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "bll", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blm", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "bln", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blo", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blp", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blq", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blr", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "bls", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blt", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blu", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blv", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blw", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blx", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "bly", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "blz", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "bma", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "bmb", 
+  "region": "003"
+ }, 
+ {
+  "province": "054", 
+  "city": "bmc", 
+  "region": "003"
+ }, 
+ {
+  "province": "017", 
+  "city": "bmd", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "bme", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "bmf", 
+  "region": "005"
+ }, 
+ {
+  "province": "080", 
+  "city": "bmg", 
+  "region": "012"
+ }, 
+ {
+  "province": "098", 
+  "city": "bmh", 
+  "region": "012"
+ }, 
+ {
+  "province": "063", 
+  "city": "bmi", 
+  "region": "012"
+ }, 
+ {
+  "province": "063", 
+  "city": "bmj", 
+  "region": "012"
+ }, 
+ {
+  "province": "083", 
+  "city": "bmk", 
+  "region": "009"
+ }, 
+ {
+  "province": "047", 
+  "city": "bml", 
+  "region": "012"
+ }, 
+ {
+  "province": "063", 
+  "city": "bmm", 
+  "region": "012"
+ }, 
+ {
+  "province": "004", 
+  "city": "bmn", 
+  "region": "006"
+ }, 
+ {
+  "province": "083", 
+  "city": "bmo", 
+  "region": "009"
+ }, 
+ {
+  "province": "004", 
+  "city": "bmp", 
+  "region": "006"
+ }, 
+ {
+  "province": "072", 
+  "city": "bmq", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bmr", 
+  "region": "009"
+ }, 
+ {
+  "province": "023", 
+  "city": "bms", 
+  "region": "011"
+ }, 
+ {
+  "province": "082", 
+  "city": "bmt", 
+  "region": "011"
+ }, 
+ {
+  "province": "082", 
+  "city": "bmu", 
+  "region": "011"
+ }, 
+ {
+  "province": "082", 
+  "city": "bmv", 
+  "region": "011"
+ }, 
+ {
+  "province": "082", 
+  "city": "bmw", 
+  "region": "011"
+ }, 
+ {
+  "province": "082", 
+  "city": "bmx", 
+  "region": "011"
+ }, 
+ {
+  "province": "082", 
+  "city": "bmy", 
+  "region": "011"
+ }, 
+ {
+  "province": "082", 
+  "city": "bmz", 
+  "region": "011"
+ }, 
+ {
+  "province": "082", 
+  "city": "bna", 
+  "region": "011"
+ }, 
+ {
+  "province": "082", 
+  "city": "bnb", 
+  "region": "011"
+ }, 
+ {
+  "province": "082", 
+  "city": "bnc", 
+  "region": "011"
+ }, 
+ {
+  "province": "082", 
+  "city": "bnd", 
+  "region": "011"
+ }, 
+ {
+  "province": "073", 
+  "city": "bne", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnf", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bng", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnh", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bni", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnj", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnk", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnl", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnm", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnn", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bno", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnp", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnq", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnr", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bns", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnt", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnu", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnv", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnw", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnx", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bny", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bnz", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "boa", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bob", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "boc", 
+  "region": "009"
+ }, 
+ {
+  "province": "073", 
+  "city": "bod", 
+  "region": "009"
+ }, 
+ {
+  "province": "024", 
+  "city": "boe", 
+  "region": "011"
+ }, 
+ {
+  "province": "073", 
+  "city": "bof", 
+  "region": "009"
+ }, 
+ {
+  "province": "024", 
+  "city": "bog", 
+  "region": "011"
+ }, 
+ {
+  "province": "024", 
+  "city": "boh", 
+  "region": "011"
+ }, 
+ {
+  "province": "024", 
+  "city": "boi", 
+  "region": "011"
+ }, 
+ {
+  "province": "024", 
+  "city": "boj", 
+  "region": "011"
+ }, 
+ {
+  "province": "024", 
+  "city": "bok", 
+  "region": "011"
+ }, 
+ {
+  "province": "024", 
+  "city": "bol", 
+  "region": "011"
+ }, 
+ {
+  "province": "024", 
+  "city": "bom", 
+  "region": "011"
+ }, 
+ {
+  "province": "024", 
+  "city": "bon", 
+  "region": "011"
+ }, 
+ {
+  "province": "024", 
+  "city": "boo", 
+  "region": "011"
+ }, 
+ {
+  "province": "023", 
+  "city": "bop", 
+  "region": "011"
+ }, 
+ {
+  "province": "023", 
+  "city": "boq", 
+  "region": "011"
+ }, 
+ {
+  "province": "023", 
+  "city": "bor", 
+  "region": "011"
+ }, 
+ {
+  "province": "023", 
+  "city": "bos", 
+  "region": "011"
+ }, 
+ {
+  "province": "024", 
+  "city": "bot", 
+  "region": "011"
+ }, 
+ {
+  "province": "023", 
+  "city": "bou", 
+  "region": "011"
+ }, 
+ {
+  "province": "023", 
+  "city": "bov", 
+  "region": "011"
+ }, 
+ {
+  "province": "023", 
+  "city": "bow", 
+  "region": "011"
+ }, 
+ {
+  "province": "023", 
+  "city": "box", 
+  "region": "011"
+ }, 
+ {
+  "province": "023", 
+  "city": "boy", 
+  "region": "011"
+ }, 
+ {
+  "province": "023", 
+  "city": "boz", 
+  "region": "011"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpa", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpb", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpc", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpd", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpe", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpf", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpg", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bph", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpi", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpj", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpk", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpl", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpm", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpn", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpo", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpp", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpq", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpr", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bps", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpt", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpu", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpv", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpw", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpx", 
+  "region": "009"
+ }, 
+ {
+  "province": "072", 
+  "city": "bpy", 
+  "region": "009"
+ }, 
+ {
+  "province": "004", 
+  "city": "bpz", 
+  "region": "006"
+ }, 
+ {
+  "province": "072", 
+  "city": "bqa", 
+  "region": "009"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqb", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqc", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqd", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqe", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqf", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqg", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqh", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqi", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqj", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqk", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bql", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqm", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqn", 
+  "region": "006"
+ }, 
+ {
+  "province": "004", 
+  "city": "bqo", 
+  "region": "006"
+ }, 
+ {
+  "province": "083", 
+  "city": "bqp", 
+  "region": "009"
+ }, 
+ {
+  "province": "097", 
+  "city": "bqq", 
+  "region": "009"
+ }, 
+ {
+  "province": "083", 
+  "city": "bqr", 
+  "region": "009"
+ }, 
+ {
+  "province": "083", 
+  "city": "bqs", 
+  "region": "009"
+ }, 
+ {
+  "province": "083", 
+  "city": "bqt", 
+  "region": "009"
+ }, 
+ {
+  "province": "083", 
+  "city": "bqu", 
+  "region": "009"
+ }, 
+ {
+  "province": "083", 
+  "city": "bqv", 
+  "region": "009"
+ }, 
+ {
+  "province": "083", 
+  "city": "bqw", 
+  "region": "009"
+ }, 
+ {
+  "province": "083", 
+  "city": "bqx", 
+  "region": "009"
+ }, 
+ {
+  "province": "083", 
+  "city": "bqy", 
+  "region": "009"
+ }, 
+ {
+  "province": "083", 
+  "city": "bqz", 
+  "region": "009"
+ }, 
+ {
+  "province": "083", 
+  "city": "bra", 
+  "region": "009"
+ }, 
+ {
+  "province": "083", 
+  "city": "brb", 
+  "region": "009"
+ }, 
+ {
+  "province": "083", 
+  "city": "brc", 
+  "region": "009"
+ }, 
+ {
+  "province": "047", 
+  "city": "brd", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "bre", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "brf", 
+  "region": "012"
+ }, 
+ {
+  "province": "083", 
+  "city": "brg", 
+  "region": "009"
+ }, 
+ {
+  "province": "047", 
+  "city": "brh", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "bri", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "brj", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "brk", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "brl", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "brm", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "brn", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "bro", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "brp", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "brq", 
+  "region": "012"
+ }, 
+ {
+  "province": "006", 
+  "city": "brr", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "brs", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "brt", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "bru", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "brv", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "brw", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "brx", 
+  "region": "006"
+ }, 
+ {
+  "province": "047", 
+  "city": "bry", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "brz", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "bsa", 
+  "region": "012"
+ }, 
+ {
+  "province": "047", 
+  "city": "bsb", 
+  "region": "012"
+ }, 
+ {
+  "province": "006", 
+  "city": "bsc", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "bsd", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "bse", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "bsf", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "bsg", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "bsh", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "bsi", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "bsj", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "bsk", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "bsl", 
+  "region": "006"
+ }, 
+ {
+  "province": "006", 
+  "city": "bsm", 
+  "region": "006"
+ }, 
+ {
+  "province": "065", 
+  "city": "bsn", 
+  "region": "012"
+ }, 
+ {
+  "province": "065", 
+  "city": "bso", 
+  "region": "012"
+ }, 
+ {
+  "province": "065", 
+  "city": "bsp", 
+  "region": "012"
+ }, 
+ {
+  "province": "065", 
+  "city": "bsq", 
+  "region": "012"
+ }, 
+ {
+  "province": "065", 
+  "city": "bsr", 
+  "region": "012"
+ }, 
+ {
+  "province": "065", 
+  "city": "bss", 
+  "region": "012"
+ }, 
+ {
+  "province": "065", 
+  "city": "bst", 
+  "region": "012"
+ }, 
+ {
+  "province": "065", 
+  "city": "bsu", 
+  "region": "012"
+ }, 
+ {
+  "province": "065", 
+  "city": "bsv", 
+  "region": "012"
+ }, 
+ {
+  "province": "065", 
+  "city": "bsw", 
+  "region": "012"
+ }, 
+ {
+  "province": "065", 
+  "city": "bsx", 
+  "region": "012"
+ }, 
+ {
+  "province": "019", 
+  "city": "bsy", 
+  "region": "006"
+ }, 
+ {
+  "province": "019", 
+  "city": "bsz", 
+  "region": "006"
+ }, 
+ {
+  "province": "065", 
+  "city": "bta", 
+  "region": "012"
+ }, 
+ {
+  "province": "019", 
+  "city": "btb", 
+  "region": "006"
+ }, 
+ {
+  "province": "019", 
+  "city": "btc", 
+  "region": "006"
+ }, 
+ {
+  "province": "019", 
+  "city": "btd", 
+  "region": "006"
+ }, 
+ {
+  "province": "019", 
+  "city": "bte", 
+  "region": "006"
+ }, 
+ {
+  "province": "019", 
+  "city": "btf", 
+  "region": "006"
+ }, 
+ {
+  "province": "019", 
+  "city": "btg", 
+  "region": "006"
+ }, 
+ {
+  "province": "019", 
+  "city": "bth", 
+  "region": "006"
+ }, 
+ {
+  "province": "019", 
+  "city": "bti", 
+  "region": "006"
+ }, 
+ {
+  "province": "019", 
+  "city": "btj", 
+  "region": "006"
+ }, 
+ {
+  "province": "019", 
+  "city": "btk", 
+  "region": "006"
+ }, 
+ {
+  "province": "019", 
+  "city": "btl", 
+  "region": "006"
+ }, 
+ {
+  "province": "019", 
+  "city": "btm", 
+  "region": "006"
+ }, 
+ {
+  "province": "063", 
+  "city": "btn", 
+  "region": "012"
+ }, 
+ {
+  "province": "063", 
+  "city": "bto", 
+  "region": "012"
+ }, 
+ {
+  "province": "019", 
+  "city": "btp", 
+  "region": "006"
+ }, 
+ {
+  "province": "063", 
+  "city": "btq", 
+  "region": "012"
+ }, 
+ {
+  "province": "019", 
+  "city": "btr", 
+  "region": "006"
+ }, 
+ {
+  "province": "063", 
+  "city": "bts", 
+  "region": "012"
+ }, 
+ {
+  "province": "019", 
+  "city": "btt", 
+  "region": "006"
+ }, 
+ {
+  "province": "063", 
+  "city": "btu", 
+  "region": "012"
+ }, 
+ {
+  "province": "080", 
+  "city": "btv", 
+  "region": "012"
+ }, 
+ {
+  "province": "063", 
+  "city": "btw", 
+  "region": "012"
+ }, 
+ {
+  "province": "063", 
+  "city": "btx", 
+  "region": "012"
+ }, 
+ {
+  "province": "063", 
+  "city": "bty", 
+  "region": "012"
+ }, 
+ {
+  "province": "063", 
+  "city": "btz", 
+  "region": "012"
+ }, 
+ {
+  "province": "080", 
+  "city": "bua", 
+  "region": "012"
+ }, 
+ {
+  "province": "041", 
+  "city": "bub", 
+  "region": "005"
+ }, 
+ {
+  "province": "080", 
+  "city": "buc", 
+  "region": "012"
+ }, 
+ {
+  "province": "080", 
+  "city": "bud", 
+  "region": "012"
+ }, 
+ {
+  "province": "080", 
+  "city": "bue", 
+  "region": "012"
+ }, 
+ {
+  "province": "080", 
+  "city": "buf", 
+  "region": "012"
+ }, 
+ {
+  "province": "041", 
+  "city": "bug", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "buh", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "bui", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "buj", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "buk", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "bul", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "bum", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "bun", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "buo", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "bup", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "buq", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "bur", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "bus", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "but", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "buu", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "buv", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "buw", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bux", 
+  "region": "005"
+ }, 
+ {
+  "province": "041", 
+  "city": "buy", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "buz", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bva", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvb", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvc", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvd", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bve", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvf", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvg", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvh", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvi", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvj", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvk", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvl", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvm", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvn", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvo", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvp", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvq", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvr", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvs", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvt", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvu", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvv", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvw", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvx", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvy", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bvz", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bwa", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bwb", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bwc", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bwd", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bwe", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bwf", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwg", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bwh", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwi", 
+  "region": "005"
+ }, 
+ {
+  "province": "017", 
+  "city": "bwj", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwk", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwl", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwm", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwn", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwo", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwp", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwq", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwr", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bws", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwt", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwu", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwv", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bww", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwx", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bwy", 
+  "region": "005"
+ }, 
+ {
+  "province": "016", 
+  "city": "bwz", 
+  "region": "005"
+ }, 
+ {
+  "province": "005", 
+  "city": "bxa", 
+  "region": "005"
+ }, 
+ {
+  "province": "016", 
+  "city": "bxb", 
+  "region": "005"
+ }, 
+ {
+  "province": "016", 
+  "city": "bxc", 
+  "region": "005"
+ }, 
+ {
+  "province": "016", 
+  "city": "bxd", 
+  "region": "005"
+ }, 
+ {
+  "province": "016", 
+  "city": "bxe", 
+  "region": "005"
+ }, 
+ {
+  "province": "016", 
+  "city": "bxf", 
+  "region": "005"
+ }, 
+ {
+  "province": "016", 
+  "city": "bxg", 
+  "region": "005"
+ }, 
+ {
+  "province": "016", 
+  "city": "bxh", 
+  "region": "005"
+ }, 
+ {
+  "province": "016", 
+  "city": "bxi", 
+  "region": "005"
+ }, 
+ {
+  "province": "016", 
+  "city": "bxj", 
+  "region": "005"
+ }, 
+ {
+  "province": "016", 
+  "city": "bxk", 
+  "region": "005"
+ }, 
+ {
+  "province": "016", 
+  "city": "bxl", 
+  "region": "005"
+ }, 
+ {
+  "province": "020", 
+  "city": "bxm", 
+  "region": "005"
+ }, 
+ {
+  "province": "020", 
+  "city": "bxn", 
+  "region": "005"
+ }, 
+ {
+  "province": "020", 
+  "city": "bxo", 
+  "region": "005"
+ }, 
+ {
+  "province": "020", 
+  "city": "bxp", 
+  "region": "005"
+ }, 
+ {
+  "province": "020", 
+  "city": "bxq", 
+  "region": "005"
+ }, 
+ {
+  "province": "020", 
+  "city": "bxr", 
+  "region": "005"
+ }, 
+ {
+  "province": "020", 
+  "city": "bxs", 
+  "region": "005"
+ }, 
+ {
+  "province": "020", 
+  "city": "bxt", 
+  "region": "005"
+ }, 
+ {
+  "province": "020", 
+  "city": "bxu", 
+  "region": "005"
+ }, 
+ {
+  "province": "020", 
+  "city": "bxv", 
+  "region": "005"
+ }, 
+ {
+  "province": "020", 
+  "city": "bxw", 
+  "region": "005"
+ }, 
+ {
+  "province": "070", 
+  "city": "bxx", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "bxy", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "bxz", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "048", 
+  "city": "bya", 
+  "region": "008"
+ }, 
+ {
+  "province": "018", 
+  "city": "byb", 
+  "region": "010"
+ }, 
+ {
+  "province": "078", 
+  "city": "byc", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "byd", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "bye", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "byf", 
+  "region": "008"
+ }, 
+ {
+  "province": "085", 
+  "city": "byg", 
+  "region": "013"
+ }, 
+ {
+  "province": "036", 
+  "city": "byh", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "085", 
+  "city": "byi", 
+  "region": "013"
+ }, 
+ {
+  "province": "085", 
+  "city": "byj", 
+  "region": "013"
+ }, 
+ {
+  "province": "013", 
+  "city": "byk", 
+  "region": "010"
+ }, 
+ {
+  "province": "003", 
+  "city": "byl", 
+  "region": "013"
+ }, 
+ {
+  "province": "003", 
+  "city": "bym", 
+  "region": "013"
+ }, 
+ {
+  "province": "002", 
+  "city": "byn", 
+  "region": "013"
+ }, 
+ {
+  "province": "002", 
+  "city": "byo", 
+  "region": "013"
+ }, 
+ {
+  "province": "003", 
+  "city": "byp", 
+  "region": "013"
+ }, 
+ {
+  "province": "002", 
+  "city": "byq", 
+  "region": "013"
+ }, 
+ {
+  "province": "002", 
+  "city": "byr", 
+  "region": "013"
+ }, 
+ {
+  "province": "002", 
+  "city": "bys", 
+  "region": "013"
+ }, 
+ {
+  "province": "002", 
+  "city": "byt", 
+  "region": "013"
+ }, 
+ {
+  "province": "002", 
+  "city": "byu", 
+  "region": "013"
+ }, 
+ {
+  "province": "002", 
+  "city": "byv", 
+  "region": "013"
+ }, 
+ {
+  "province": "002", 
+  "city": "byw", 
+  "region": "013"
+ }, 
+ {
+  "province": "002", 
+  "city": "byx", 
+  "region": "013"
+ }, 
+ {
+  "province": "002", 
+  "city": "byy", 
+  "region": "013"
+ }, 
+ {
+  "province": "002", 
+  "city": "byz", 
+  "region": "013"
+ }, 
+ {
+  "province": "046", 
+  "city": "bza", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzb", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzc", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzd", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bze", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzf", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzg", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzh", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzi", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzj", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzk", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzl", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzm", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzn", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzo", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzp", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzq", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzr", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzs", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzt", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzu", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzv", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzw", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzx", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "003", 
+  "city": "bzy", 
+  "region": "013"
+ }, 
+ {
+  "province": "046", 
+  "city": "bzz", 
+  "region": "NIR"
+ }, 
+ {
+  "province": "003", 
+  "city": "caa", 
+  "region": "013"
+ }, 
+ {
+  "province": "003", 
+  "city": "cab", 
+  "region": "013"
+ }, 
+ {
+  "province": "003", 
+  "city": "cac", 
+  "region": "013"
+ }, 
+ {
+  "province": "003", 
+  "city": "cad", 
+  "region": "013"
+ }, 
+ {
+  "province": "003", 
+  "city": "cae", 
+  "region": "013"
+ }, 
+ {
+  "province": "003", 
+  "city": "caf", 
+  "region": "013"
+ }, 
+ {
+  "province": "003", 
+  "city": "cag", 
+  "region": "013"
+ }, 
+ {
+  "province": "003", 
+  "city": "cah", 
+  "region": "013"
+ }, 
+ {
+  "province": "042", 
+  "city": "cai", 
+  "region": "010"
+ }, 
+ {
+  "province": "003", 
+  "city": "caj", 
+  "region": "013"
+ }, 
+ {
+  "province": "003", 
+  "city": "cak", 
+  "region": "013"
+ }, 
+ {
+  "province": "042", 
+  "city": "cal", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "cam", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "can", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "cao", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "cap", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "caq", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "car", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "cas", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "cat", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "cau", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "cav", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "caw", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "cax", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "cay", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "caz", 
+  "region": "010"
+ }, 
+ {
+  "province": "042", 
+  "city": "cba", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbb", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbc", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbd", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbe", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbf", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbg", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbh", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbi", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbj", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbk", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbl", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbm", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbn", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbo", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbp", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbq", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbr", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbs", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbt", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbu", 
+  "region": "010"
+ }, 
+ {
+  "province": "013", 
+  "city": "cbv", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "cbw", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "cbx", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "cby", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "cbz", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "cca", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "ccb", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "ccc", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "ccd", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "cce", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "ccf", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "ccg", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "cch", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "cci", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "ccj", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "cck", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "ccl", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "ccm", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "ccn", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "cco", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "ccp", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "ccq", 
+  "region": "010"
+ }, 
+ {
+  "province": "035", 
+  "city": "ccr", 
+  "region": "010"
+ }, 
+ {
+  "province": "036", 
+  "city": "ccs", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "035", 
+  "city": "cct", 
+  "region": "010"
+ }, 
+ {
+  "province": "036", 
+  "city": "ccu", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "ccv", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "ccw", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "ccx", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "ccy", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "ccz", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cda", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdb", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdc", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdd", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cde", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdf", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdg", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdh", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdi", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdj", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdk", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdl", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdm", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdn", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdo", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdp", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdq", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdr", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cds", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdt", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdu", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdv", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdw", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdx", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdy", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cdz", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cea", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "ceb", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cec", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "ced", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "036", 
+  "city": "cee", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "067", 
+  "city": "cef", 
+  "region": "013"
+ }, 
+ {
+  "province": "036", 
+  "city": "ceg", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "067", 
+  "city": "ceh", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cei", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cej", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cek", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cel", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cem", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cen", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "ceo", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cep", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "ceq", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cer", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "ces", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cet", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "ceu", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cev", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cew", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cex", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cey", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cez", 
+  "region": "013"
+ }, 
+ {
+  "province": "067", 
+  "city": "cfa", 
+  "region": "013"
+ }, 
+ {
+  "province": "085", 
+  "city": "cfb", 
+  "region": "013"
+ }, 
+ {
+  "province": "085", 
+  "city": "cfc", 
+  "region": "013"
+ }, 
+ {
+  "province": "085", 
+  "city": "cfd", 
+  "region": "013"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfe", 
+  "region": "008"
+ }, 
+ {
+  "province": "085", 
+  "city": "cff", 
+  "region": "013"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfg", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfh", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfi", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfj", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfk", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfl", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfm", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfn", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfo", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfp", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfq", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfr", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfs", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cft", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfu", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfv", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfw", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfx", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfy", 
+  "region": "008"
+ }, 
+ {
+  "province": "026", 
+  "city": "cfz", 
+  "region": "008"
+ }, 
+ {
+  "province": "018", 
+  "city": "cga", 
+  "region": "010"
+ }, 
+ {
+  "province": "018", 
+  "city": "cgb", 
+  "region": "010"
+ }, 
+ {
+  "province": "018", 
+  "city": "cgc", 
+  "region": "010"
+ }, 
+ {
+  "province": "018", 
+  "city": "cgd", 
+  "region": "010"
+ }, 
+ {
+  "province": "037", 
+  "city": "cge", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgf", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgg", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgh", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgi", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgj", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgk", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgl", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgm", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgn", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgo", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgp", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgq", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgr", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgs", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgt", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgu", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgv", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgw", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgx", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgy", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cgz", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cha", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chb", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chc", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chd", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "che", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chf", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chg", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chh", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chi", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chj", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chk", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chl", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chm", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chn", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cho", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chp", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chq", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chr", 
+  "region": "008"
+ }, 
+ {
+  "province": "078", 
+  "city": "chs", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "cht", 
+  "region": "008"
+ }, 
+ {
+  "province": "078", 
+  "city": "chu", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chv", 
+  "region": "008"
+ }, 
+ {
+  "province": "037", 
+  "city": "chw", 
+  "region": "008"
+ }, 
+ {
+  "province": "078", 
+  "city": "chx", 
+  "region": "008"
+ }, 
+ {
+  "province": "078", 
+  "city": "chy", 
+  "region": "008"
+ }, 
+ {
+  "province": "078", 
+  "city": "chz", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cia", 
+  "region": "008"
+ }, 
+ {
+  "province": "078", 
+  "city": "cib", 
+  "region": "008"
+ }, 
+ {
+  "province": "078", 
+  "city": "cic", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cid", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cie", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cif", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cig", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cih", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cii", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cij", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cik", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cil", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cim", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cin", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cio", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cip", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "ciq", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cir", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cis", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "cit", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "ciu", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "civ", 
+  "region": "008"
+ }, 
+ {
+  "province": "048", 
+  "city": "ciw", 
+  "region": "008"
+ }, 
+ {
+  "province": "038", 
+  "city": "cix", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "048", 
+  "city": "ciy", 
+  "region": "008"
+ }, 
+ {
+  "province": "038", 
+  "city": "ciz", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cja", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjb", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjc", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjd", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cje", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjf", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjg", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjh", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cji", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjj", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjk", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjl", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjm", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjn", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjo", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjp", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjq", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjr", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjs", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjt", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cju", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjv", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjw", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjx", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjy", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cjz", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cka", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "ckb", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "ckc", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "ckd", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "cke", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "ckf", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckg", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "038", 
+  "city": "ckh", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "cki", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckj", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckk", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckl", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckm", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckn", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "cko", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckp", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckq", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckr", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "cks", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckt", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "cku", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckv", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckw", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "ckx", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "066", 
+  "city": "cky", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "070", 
+  "city": "ckz", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "070", 
+  "city": "cla", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "070", 
+  "city": "clb", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "070", 
+  "city": "clc", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "070", 
+  "city": "cld", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "070", 
+  "city": "cle", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "070", 
+  "city": "clf", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "070", 
+  "city": "clg", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "070", 
+  "city": "clh", 
+  "region": "ARM"
+ }, 
+ {
+  "province": "070", 
+  "city": "cli", 
+  "region": "ARM"
+ }
+]
