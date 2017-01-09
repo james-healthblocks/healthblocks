@@ -15,7 +15,7 @@ import { Settings } from '../pages/settings/settings';
 export class MyApp {
   @ViewChild(Nav) nav: Nav;
 
-    rootPage: any = Registration;
+    rootPage: any = Blankpage;
 
   pages: Array<{title: string, component: any}>;
 

@@ -3,6 +3,7 @@ import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { MyApp } from './app.component';
 import { Data } from '../providers/data';
 import { DatePipe } from '@angular/common';
+import { Blankpage } from '../pages/blankpage/blankpage';
 import { Registration } from '../pages/registration/registration';
 import { Landing } from '../pages/landing/landing';
 import { Profile } from '../pages/profile/profile';
@@ -14,6 +15,7 @@ import { Settings } from '../pages/settings/settings';
 @NgModule({
   declarations: [
     MyApp,
+    Blankpage,
     Registration,
     Landing,
   	Profile,
@@ -27,6 +29,7 @@ import { Settings } from '../pages/settings/settings';
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
+    Blankpage,
     Registration,
     Landing,
   	Profile,

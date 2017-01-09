@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { NavController, NavParams } from 'ionic-angular';
+import { NavController, NavParams, MenuController } from 'ionic-angular';
 import { Data } from '../../providers/data';
 
 import { Registration } from '../registration/registration';
@@ -16,18 +16,18 @@ import { Landing } from '../landing/landing';
 })
 export class Blankpage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public dataService: Data) {
-  	console.log("landing constructor");
-  	/*this.dataService.getUIC().then((uic) => {
-		if(uic) {
-			this.navCtrl.setRoot(Landing);
-		}
-		else {
-			this.navCtrl.setRoot(Registration);
-		}
-	});*/
+  constructor(public navCtrl: NavController, public navParams: NavParams, public menu: MenuController, public dataService: Data) {
+    this.menu = menu;
+    this.menu.enable(false, "appMenu");
 
-
+    this.dataService.getUIC().then((uic) => {
+      if(uic) {
+        this.navCtrl.setRoot(Landing);
+      }
+      else {
+        this.navCtrl.setRoot(Registration);
+      }
+    });
   }
 
   ionViewDidLoad() {
